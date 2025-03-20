@@ -1,0 +1,648 @@
+﻿Name,Monitoring_ID,Monitoring Location ID,Monitoring Location Name,Site,mean_Result,Result Units,Characteristic,County,State,Country,Latitude,Longitude
+Altus,3.1151E+11,311510010020-01,"Altus Reservoir, Site 1",1,0.85625,mg/l,Total Nitrogen,Greer,OK,US,34.887219,-99.294858
+Altus,3.1151E+11,311510010020-02,"Altus Reservoir, Site 2",2,0.796363636,mg/l,Total Nitrogen,Greer,OK,US,34.902472,-99.293703
+Altus,3.1151E+11,311510010020-03,"Altus Reservoir, Site 3",3,0.823333333,mg/l,Total Nitrogen,Greer,OK,US,34.927333,-99.313008
+Altus,3.1151E+11,311510010020-04,"Altus Reservoir, Site 4",4,0.821666667,mg/l,Total Nitrogen,Greer,OK,US,34.958308,-99.332197
+Altus,3.1151E+11,311510010020-05,"Altus Reservoir, Site 5",5,0.799375,mg/l,Total Nitrogen,Greer,OK,US,34.92359,-99.29111
+American Horse,5.2062E+11,520620010100-01,"American Horse Lake, Site 1",1,0.657291667,mg/l,Total Nitrogen,Blaine,OK,US,35.6287,-98.506811
+American Horse,5.2062E+11,520620010100-02,"American Horse Lake, Site 2",2,0.566785714,mg/l,Total Nitrogen,Blaine,OK,US,35.630394,-98.503875
+American Horse,5.2062E+11,520620010100-03,"American Horse Lake, Site 3",3,0.6175,mg/l,Total Nitrogen,Blaine,OK,US,35.633011,-98.501278
+Arbuckle,3.108E+11,310800020100-01,"Arbuckle Reservoir, Site 1",1,0.561530612,mg/l,Total Nitrogen,Murray,OK,US,34.433106,-97.026622
+Arbuckle,3.108E+11,310800020100-02,"Arbuckle Reservoir, Site 2",2,0.544117647,mg/l,Total Nitrogen,Murray,OK,US,34.466564,-97.038078
+Arbuckle,3.108E+11,310800020100-03,"Arbuckle Reservoir, Site 3",3,0.494411765,mg/l,Total Nitrogen,Murray,OK,US,34.460692,-97.012542
+Arbuckle,3.108E+11,310800020100-04,"Arbuckle Reservoir, Site 4",4,0.522058824,mg/l,Total Nitrogen,Murray,OK,US,34.421928,-96.986506
+Arbuckle,3.108E+11,310800020100-05,"Arbuckle Reservoir, Site 5",5,0.518333333,mg/l,Total Nitrogen,Murray,OK,US,34.441174,-97.014794
+Arcadia,5.2071E+11,520710020020-01,"Arcadia Lake, Site 1",1,0.883385417,mg/l,Total Nitrogen,Oklahoma,OK,US,35.64894,-97.36424
+Arcadia,5.2071E+11,520710020020-02,"Arcadia Lake, Site 2",2,0.876666667,mg/l,Total Nitrogen,Oklahoma,OK,US,35.635114,-97.371411
+Arcadia,5.2071E+11,520710020020-03,"Arcadia Lake, Site 3",3,0.902716049,mg/l,Total Nitrogen,Oklahoma,OK,US,35.644892,-97.385269
+Arcadia,5.2071E+11,520710020020-04,"Arcadia Lake, Site 4",4,0.922283951,mg/l,Total Nitrogen,Oklahoma,OK,US,35.6277,-97.393867
+Arcadia,5.2071E+11,520710020020-05,"Arcadia Lake, Site 5",5,1.061111111,mg/l,Total Nitrogen,Oklahoma,OK,US,35.615944,-97.4059
+Ardmore City,3.108E+11,310800030070-01,"Ardmore City Lake, Site 1",1,0.553636364,mg/l,Total Nitrogen,Carter,OK,US,34.226781,-97.153578
+Ardmore City,3.108E+11,310800030070-02,"Ardmore City Lake, Site 2",2,0.519444444,mg/l,Total Nitrogen,Carter,OK,US,34.223067,-97.154667
+Ardmore City,3.108E+11,310800030070-03,"Ardmore City Lake, Site 3",3,0.511666667,mg/l,Total Nitrogen,Carter,OK,US,34.217464,-97.153589
+Atoka,4.104E+11,410400080020-01,"Atoka Lake, Site 1",1,0.611770833,mg/l,Total Nitrogen,Atoka,OK,US,34.446236,-96.087172
+Atoka,4.104E+11,410400080020-02,"Atoka Lake, Site 2",2,0.665285714,mg/l,Total Nitrogen,Atoka,OK,US,34.479039,-96.090781
+Atoka,4.104E+11,410400080020-03,"Atoka Lake, Site 3",3,0.672857143,mg/l,Total Nitrogen,Atoka,OK,US,34.505228,-96.075431
+Atoka,4.104E+11,410400080020-04,"Atoka Lake, Site 4",4,0.783382353,mg/l,Total Nitrogen,Atoka,OK,US,34.540172,-96.046244
+Atoka,4.104E+11,410400080020-05,"Atoka Lake, Site 5",5,0.86546875,mg/l,Total Nitrogen,Atoka,OK,US,34.555869,-96.034128
+Bellcow,5.2072E+11,520720040025-01,"Bellcow Lake, Site 1",1,0.944642857,mg/l,Total Nitrogen,Lincoln,OK,US,35.731678,-96.918081
+Bellcow,5.2072E+11,520720040025-02,"Bellcow Lake, Site 2",2,0.891071429,mg/l,Total Nitrogen,Lincoln,OK,US,35.736224,-96.938037
+Bellcow,5.2072E+11,520720040025-03,"Bellcow Lake, Site 3",3,0.88962963,mg/l,Total Nitrogen,Lincoln,OK,US,35.743204,-96.953356
+Bellcow,5.2072E+11,520720040025-04,"Bellcow Lake, Site 4",4,0.734375,mg/l,Total Nitrogen,Lincoln,OK,US,35.738781,-96.946124
+Bellcow,5.2072E+11,520720040025-05,"Bellcow Lake, Site 5",5,0.75875,mg/l,Total Nitrogen,Lincoln,OK,US,35.732905,-96.927927
+Birch,1.213E+11,121300030040-01,"Birch Lake, Site 1",1,0.668571429,mg/l,Total Nitrogen,Osage,OK,US,36.533092,-96.163586
+Birch,1.213E+11,121300030040-02,"Birch Lake, Site 2",2,0.64469697,mg/l,Total Nitrogen,Osage,OK,US,36.524503,-96.174067
+Birch,1.213E+11,121300030040-03,"Birch Lake, Site 3",3,0.65469697,mg/l,Total Nitrogen,Osage,OK,US,36.521678,-96.183664
+Birch,1.213E+11,121300030040-04,"Birch Lake, Site 4",4,0.654333333,mg/l,Total Nitrogen,Osage,OK,US,36.521817,-96.207866
+Birch,1.213E+11,121300030040-05,"Birch Lake, Site 5",5,0.529,mg/l,Total Nitrogen,Osage,OK,US,36.515956,-96.190372
+Bixhoma,1.2041E+11,120410010190-01,"Bixhoma Lake, Site 1",1,0.627428571,mg/l,Total Nitrogen,Wagoner,OK,US,35.895042,-95.793661
+Bixhoma,1.2041E+11,120410010190-02,"Bixhoma Lake, Site 2",2,0.47,mg/l,Total Nitrogen,Wagoner,OK,US,35.892403,-95.800647
+Bixhoma,1.2041E+11,120410010190-03,"Bixhoma Lake, Site 3",3,0.486458333,mg/l,Total Nitrogen,Wagoner,OK,US,35.889581,-95.794761
+Bluestem,1.213E+11,121300030300-01,"Bluestem Lake, Site 1",1,0.627291667,mg/l,Total Nitrogen,Osage,OK,US,36.695208,-96.396675
+Bluestem,1.213E+11,121300030300-02,"Bluestem Lake, Site 2",2,0.5825,mg/l,Total Nitrogen,Osage,OK,US,36.699592,-96.409742
+Bluestem,1.213E+11,121300030300-03,"Bluestem Lake, Site 3",3,0.621,mg/l,Total Nitrogen,Osage,OK,US,36.707739,-96.418303
+Bluestem,1.213E+11,121300030300-04,"Bluestem Lake, Site 4",4,0.593030303,mg/l,Total Nitrogen,Osage,OK,US,36.715794,-96.427997
+Bluestem,1.213E+11,121300030300-05,"Bluestem Lake, Site 5",5,0.43375,mg/l,Total Nitrogen,Osage,OK,US,36.702446,-96.419803
+Boomer,6.209E+11,620900040190-01,"Boomer Lake, Site 1",1,0.8166,mg/l,Total Nitrogen,Payne,OK,US,36.144222,-97.065161
+Boomer,6.209E+11,620900040190-02,"Boomer Lake, Site 2",2,0.859090909,mg/l,Total Nitrogen,Payne,OK,US,36.151317,-97.063589
+Boomer,6.209E+11,620900040190-03,"Boomer Lake, Site 3",3,0.862045455,mg/l,Total Nitrogen,Payne,OK,US,36.158714,-97.061914
+Boomer,6.209E+11,620900040190-04,"Boomer Lake, Site 4",4,0.8025,mg/l,Total Nitrogen,Payne,OK,US,36.147847,-97.063683
+Boomer,6.209E+11,620900040190-05,"Boomer Lake, Site 5",5,0.773571429,mg/l,Total Nitrogen,Payne,OK,US,36.155443,-97.062612
+Broken Bow,4.1021E+11,410210050020-01,"Broken Bow Lake, Site 1",1,0.340340909,mg/l,Total Nitrogen,Mccurtain,OK,US,34.1475,-94.683056
+Broken Bow,4.1021E+11,410210050020-02,"Broken Bow Lake, Site 2",2,0.316333333,mg/l,Total Nitrogen,Mccurtain,OK,US,34.161944,-94.656944
+Broken Bow,4.1021E+11,410210050020-03,"Broken Bow Lake, Site 3",3,0.3235,mg/l,Total Nitrogen,Mccurtain,OK,US,34.186944,-94.691667
+Broken Bow,4.1021E+11,410210050020-04,"Broken Bow Lake, Site 4",4,0.3385,mg/l,Total Nitrogen,Mccurtain,OK,US,34.189167,-94.718611
+Broken Bow,4.1021E+11,410210050020-05,"Broken Bow Lake, Site 5",5,0.307333333,mg/l,Total Nitrogen,Mccurtain,OK,US,34.206389,-94.656111
+Broken Bow,4.1021E+11,410210050020-06,"Broken Bow Lake, Site 6",6,0.318142857,mg/l,Total Nitrogen,Mccurtain,OK,US,34.225833,-94.677222
+Broken Bow,4.1021E+11,410210050020-07,"Broken Bow Lake, Site 7",7,0.337666667,mg/l,Total Nitrogen,Mccurtain,OK,US,34.246944,-94.68
+Broken Bow,4.1021E+11,410210050020-08,"Broken Bow Lake, Site 8",8,0.378833333,mg/l,Total Nitrogen,Mccurtain,OK,US,34.262222,-94.683056
+Brooks,5.205E+11,520500020040-01,"Brooks Lake, Site 1",1,1.171666667,mg/l,Total Nitrogen,Hughes,OK,US,35.1803,-96.18241
+Brooks,5.205E+11,520500020040-02,"Brooks Lake, Site 2",2,1.135,mg/l,Total Nitrogen,Hughes,OK,US,35.17828,-96.18269
+Brown,2.206E+11,220600030090-01,"Brown Lake, Site 1",1,0.767857143,mg/l,Total Nitrogen,Pittsburg,OK,US,34.83542,-95.85896
+Brown,2.206E+11,220600030090-02,"Brown Lake, Site 2",2,0.762083333,mg/l,Total Nitrogen,Pittsburg,OK,US,34.83072,-95.86696
+Brown,2.206E+11,220600030090-03,"Brown Lake, Site 3",3,0.81125,mg/l,Total Nitrogen,Pittsburg,OK,US,34.83166,-95.87748
+Brushy Creek,2.202E+11,220200030040-01,"Brushy Creek Reservoir, Site 1",1,0.863787879,mg/l,Total Nitrogen,Sequoyah,OK,US,35.535278,-94.826944
+Brushy Creek,2.202E+11,220200030040-02,"Brushy Creek Reservoir, Site 2",2,0.607142857,mg/l,Total Nitrogen,Sequoyah,OK,US,35.542222,-94.822222
+Brushy Creek,2.202E+11,220200030040-03,"Brushy Creek Reservoir, Site 3",3,0.647142857,mg/l,Total Nitrogen,Sequoyah,OK,US,35.547778,-94.818333
+Brushy Creek,2.202E+11,220200030040-04,"Brushy Creek Reservoir, Site 4",4,0.5375,mg/l,Total Nitrogen,Sequoyah,OK,US,35.538508,-94.823088
+Brushy Creek,2.202E+11,220200030040-05,"Brushy Creek Reservoir, Site 5",5,0.55375,mg/l,Total Nitrogen,Sequoyah,OK,US,35.546425,-94.822327
+Canton,7.205E+11,720500010020-01,"Canton Lake, Site 1",1,0.970863636,mg/l,Total Nitrogen,Blaine,OK,US,36.093372,-98.588339
+Canton,7.205E+11,720500010020-02,"Canton Lake, Site 2",2,0.924805556,mg/l,Total Nitrogen,Blaine,OK,US,36.125722,-98.601389
+Canton,7.205E+11,720500010020-03,"Canton Lake, Site 3",3,1.016171429,mg/l,Total Nitrogen,Blaine,OK,US,36.14255,-98.633858
+Canton,7.205E+11,720500010020-04,"Canton Lake, Site 4",4,0.925454545,mg/l,Total Nitrogen,Blaine,OK,US,36.142606,-98.654901
+Canton,7.205E+11,720500010020-05,"Canton Lake, Site 5",5,0.8075,mg/l,Total Nitrogen,Blaine,OK,US,36.095482,-98.58665
+Carl Albert,4.1031E+11,410310010220-01,"Carl Albert Lake, Site 1",1,0.424259259,mg/l,Total Nitrogen,Latimer,OK,US,34.767789,-95.068258
+Carl Albert,4.1031E+11,410310010220-02,"Carl Albert Lake, Site 2",2,0.365,mg/l,Total Nitrogen,Latimer,OK,US,34.772489,-95.068711
+Carl Albert,4.1031E+11,410310010220-03,"Carl Albert Lake, Site 3",3,0.338928571,mg/l,Total Nitrogen,Latimer,OK,US,34.776803,-95.067639
+Carl Blackwell,6.209E+11,620900040280-01,"Lake Carl Blackwell, Site 1",1,0.790217391,mg/l,Total Nitrogen,Payne,OK,US,36.134231,-97.194942
+Carl Blackwell,6.209E+11,620900040280-02,"Lake Carl Blackwell, Site 2",2,0.767941176,mg/l,Total Nitrogen,Payne,OK,US,36.135719,-97.231956
+Carl Blackwell,6.209E+11,620900040280-03,"Lake Carl Blackwell, Site 3",3,0.762272727,mg/l,Total Nitrogen,Payne,OK,US,36.147764,-97.212683
+Carl Blackwell,6.209E+11,620900040280-04,"Lake Carl Blackwell, Site 4",4,0.8185,mg/l,Total Nitrogen,Payne,OK,US,36.141481,-97.263028
+Carl Blackwell,6.209E+11,620900040280-05,"Lake Carl Blackwell, Site 5",5,0.666666667,mg/l,Total Nitrogen,Payne,OK,US,36.133741,-97.212473
+Carter,3.108E+11,310800010040-01,"Carter Lake, Site 1",1,0.701666667,mg/l,Total Nitrogen,Marshall,OK,US,34.122819,-96.795997
+Carter,3.108E+11,310800010040-02,"Carter Lake, Site 2",2,0.565454545,mg/l,Total Nitrogen,Marshall,OK,US,34.127269,-96.799367
+Carter,3.108E+11,310800010040-03,"Carter Lake, Site 3",3,0.540909091,mg/l,Total Nitrogen,Marshall,OK,US,34.129575,-96.805081
+Cedar (Mena),2.201E+11,220100020060-01,"Cedar (Mena) Lake, Site 1",1,0.662592593,mg/l,Total Nitrogen,Le Flore,OK,US,34.783669,-94.693889
+Cedar (Mena),2.201E+11,220100020060-02,"Cedar (Mena) Lake, Site 2",2,0.516111111,mg/l,Total Nitrogen,Le Flore,OK,US,34.781753,-94.696917
+Cedar (Mena),2.201E+11,220100020060-03,"Cedar (Mena) Lake, Site 3",3,0.507222222,mg/l,Total Nitrogen,Le Flore,OK,US,34.779786,-94.697917
+Chandler,5.207E+11,520700050060-01,"Chandler Lake, Site 1",1,0.888181818,mg/l,Total Nitrogen,Lincoln,OK,US,35.733669,-96.908456
+Chandler,5.207E+11,520700050060-02,"Chandler Lake, Site 2",2,0.865238095,mg/l,Total Nitrogen,Lincoln,OK,US,35.741231,-96.907247
+Chandler,5.207E+11,520700050060-03,"Chandler Lake, Site 3",3,0.848333333,mg/l,Total Nitrogen,Lincoln,OK,US,35.745814,-96.906
+Chelsea,1.2151E+11,121510010060-01,"Chelsea Reservoir, Site 1",1,1.13375,mg/l,Total Nitrogen,Rogers,OK,US,36.54229,-95.46879
+Chelsea,1.2151E+11,121510010060-02,"Chelsea Reservoir, Site 2",2,1.09625,mg/l,Total Nitrogen,Rogers,OK,US,36.54269,-95.46622
+Chelsea,1.2151E+11,121510010060-03,"Chelsea Reservoir, Site 3",3,1.13625,mg/l,Total Nitrogen,Rogers,OK,US,36.54363,-95.4648
+Chickasha,3.1083E+11,310830040020-01,"Lake Chickasha, Site 1",1,1.479069767,mg/l,Total Nitrogen,Caddo,OK,US,35.131989,-98.132894
+Chickasha,3.1083E+11,310830040020-02,"Lake Chickasha, Site 2",2,1.570735294,mg/l,Total Nitrogen,Caddo,OK,US,35.147367,-98.150164
+Chickasha,3.1083E+11,310830040020-03,"Lake Chickasha, Site 3",3,1.553382353,mg/l,Total Nitrogen,Caddo,OK,US,35.149953,-98.130714
+Chickasha,3.1083E+11,310830040020-04,"Lake Chickasha, Site 4",4,2.1315,mg/l,Total Nitrogen,Caddo,OK,US,35.135586,-98.140212
+Chickasha,3.1083E+11,310830040020-05,"Lake Chickasha, Site 5",5,2.109,mg/l,Total Nitrogen,Caddo,OK,US,35.143725,-98.136802
+Claremore,1.215E+11,121500040020-01,"Claremore, Site 1",1,0.994545455,mg/l,Total Nitrogen,Rogers,OK,US,36.325136,-95.579578
+Claremore,1.215E+11,121500040020-02,"Claremore, Site 2",2,1.027619048,mg/l,Total Nitrogen,Rogers,OK,US,36.340311,-95.572514
+Claremore,1.215E+11,121500040020-03,"Claremore, Site 3",3,1.0675,mg/l,Total Nitrogen,Rogers,OK,US,36.340919,-95.559897
+Claremore,1.215E+11,121500040020-04,"Claremore, Site 4",4,1.089285714,mg/l,Total Nitrogen,Rogers,OK,US,36.333509,-95.57858
+Claremore,1.215E+11,121500040020-05,"Claremore, Site 5",5,1.078571429,mg/l,Total Nitrogen,Rogers,OK,US,36.33818,-95.562984
+Clayton,4.103E+11,410300030780-01,"Clayton Lake, Site 1",1,0.68,mg/l,Total Nitrogen,Pushmataha,OK,US,34.54279,-95.30897
+Clayton,4.103E+11,410300030780-02,"Clayton Lake, Site 2",2,0.595714286,mg/l,Total Nitrogen,Pushmataha,OK,US,34.53726,-95.30805
+Clayton,4.103E+11,410300030780-03,"Clayton Lake, Site 3",3,0.53,mg/l,Total Nitrogen,Pushmataha,OK,US,34.54136,-95.31193
+Clear Creek,3.1081E+11,310810040120-01,"Clear Creek Lake, Site 1",1,0.843837209,mg/l,Total Nitrogen,Stephens,OK,US,34.585278,-97.840833
+Clear Creek,3.1081E+11,310810040120-02,"Clear Creek Lake, Site 2",2,0.829516129,mg/l,Total Nitrogen,Stephens,OK,US,34.596667,-97.844167
+Clear Creek,3.1081E+11,310810040120-03,"Clear Creek Lake, Site 3",3,0.772857143,mg/l,Total Nitrogen,Stephens,OK,US,34.612778,-97.849167
+Clear Creek,3.1081E+11,310810040120-04,"Clear Creek Lake, Site 4",4,0.69,mg/l,Total Nitrogen,Stephens,OK,US,34.590081,-97.842302
+Clear Creek,3.1081E+11,310810040120-05,"Clear Creek Lake, Site 5",5,0.689,mg/l,Total Nitrogen,Stephens,OK,US,34.603268,-97.847978
+Cleveland City,6.212E+11,621200010270-01,"Cleveland City Lake, Site 1",1,1.057954545,mg/l,Total Nitrogen,Pawnee,OK,US,36.282667,-96.576197
+Cleveland City,6.212E+11,621200010270-02,"Cleveland City Lake, Site 2",2,0.973,mg/l,Total Nitrogen,Pawnee,OK,US,36.282086,-96.581317
+Cleveland City,6.212E+11,621200010270-03,"Cleveland City Lake, Site 3",3,1.036333333,mg/l,Total Nitrogen,Pawnee,OK,US,36.281367,-96.586581
+Clinton,3.1083E+11,310830030280-01,"Clinton Lake, Site 1",1,1.25,mg/l,Total Nitrogen,Washita,OK,US,35.435214,-99.221256
+Clinton,3.1083E+11,310830030280-02,"Clinton Lake, Site 2",2,1.164833333,mg/l,Total Nitrogen,Washita,OK,US,35.434347,-99.228056
+Clinton,3.1083E+11,310830030280-03,"Clinton Lake, Site 3",3,1.1855,mg/l,Total Nitrogen,Washita,OK,US,35.429058,-99.223117
+Clinton,3.1083E+11,310830030280-04,"Clinton Lake, Site 4",4,1.163214286,mg/l,Total Nitrogen,Washita,OK,US,35.436884,-99.223782
+Clinton,3.1083E+11,310830030280-05,"Clinton Lake, Site 5",5,1.156071429,mg/l,Total Nitrogen,Washita,OK,US,35.431257,-99.220936
+Coalgate City,4.104E+11,410400060040-01,"Coalgate City Lake, Site 1",1,0.896612903,mg/l,Total Nitrogen,Coal,OK,US,34.57175,-96.233131
+Coalgate City,4.104E+11,410400060040-02,"Coalgate City Lake, Site 2",2,0.948888889,mg/l,Total Nitrogen,Coal,OK,US,34.578842,-96.231875
+Coalgate City,4.104E+11,410400060040-03,"Coalgate City Lake, Site 3",3,0.954166667,mg/l,Total Nitrogen,Coal,OK,US,34.586178,-96.231597
+Coalgate City,4.104E+11,410400060040-04,"Coalgate City Lake, Site 4",4,1.0085,mg/l,Total Nitrogen,Coal,OK,US,34.582404,-96.234442
+Coalgate City,4.104E+11,410400060040-05,"Coalgate City Lake, Site 5",5,1.0205,mg/l,Total Nitrogen,Coal,OK,US,34.56991,-96.240125
+Comanche,3.111E+11,311100040170-01,"Comanche Lake, Site 1",1,0.725138889,mg/l,Total Nitrogen,Stephens,OK,US,34.368333,-97.890022
+Comanche,3.111E+11,311100040170-02,"Comanche Lake, Site 2",2,0.589347826,mg/l,Total Nitrogen,Stephens,OK,US,34.376275,-97.890092
+Comanche,3.111E+11,311100040170-03,"Comanche Lake, Site 3",3,0.591458333,mg/l,Total Nitrogen,Stephens,OK,US,34.385828,-97.889406
+Copan,1.214E+11,121400050020-01,"Copan Lake, Site 1",1,0.675357143,mg/l,Total Nitrogen,Washington,OK,US,36.886408,-95.967894
+Copan,1.214E+11,121400050020-02,"Copan Lake, Site 2",2,0.779137931,mg/l,Total Nitrogen,Washington,OK,US,36.911089,-95.956356
+Copan,1.214E+11,121400050020-03,"Copan Lake, Site 3",3,0.813448276,mg/l,Total Nitrogen,Washington,OK,US,36.926219,-95.952817
+Copan,1.214E+11,121400050020-04,"Copan Lake, Site 4",4,0.848965517,mg/l,Total Nitrogen,Washington,OK,US,36.948386,-95.940056
+Copan,1.214E+11,121400050020-05,"Copan Lake, Site 5",5,0.870555556,mg/l,Total Nitrogen,Washington,OK,US,36.939343,-95.955865
+Crowder,3.1083E+11,310830060120-001RS,"Crowder Lake, Cobb",,2.6784,mg/l,Total Nitrogen,Washita,OK,US,35.42037778,-98.71290833
+Crowder,3.1083E+11,310830060120-002RS,"Crowder Lake, Tail",,0.881363636,mg/l,Total Nitrogen,Washita,OK,US,35.39259167,-98.70006944
+Crowder,3.1083E+11,310830060130-01,"Crowder Lake, Site 1",1,1.109177632,mg/l,Total Nitrogen,Washita,OK,US,35.394658,-98.701731
+Crowder,3.1083E+11,310830060130-02,"Crowder Lake, Site 2",2,1.060447761,mg/l,Total Nitrogen,Washita,OK,US,35.399803,-98.707356
+Crowder,3.1083E+11,310830060130-03,"Crowder Lake, Site 3",3,1.466692308,mg/l,Total Nitrogen,Washita,OK,US,35.407472,-98.710431
+Cushing  Municipal,6.209E+11,620900020120-01,"Cushing  Municipal Lake, Site 1",1,0.902096774,mg/l,Total Nitrogen,Payne,OK,US,36.011389,-96.875031
+Cushing  Municipal,6.209E+11,620900020120-02,"Cushing  Municipal Lake, Site 2",2,0.944565217,mg/l,Total Nitrogen,Payne,OK,US,35.997806,-96.877706
+Cushing  Municipal,6.209E+11,620900020120-03,"Cushing  Municipal Lake, Site 3",3,1.041086957,mg/l,Total Nitrogen,Payne,OK,US,35.991225,-96.871831
+Cushing  Municipal,6.209E+11,620900020120-04,"Cushing  Municipal Lake, Site 4",4,0.9925,mg/l,Total Nitrogen,Payne,OK,US,35.992646,-96.877307
+Cushing  Municipal,6.209E+11,620900020120-05,"Cushing  Municipal Lake, Site 5",5,0.905,mg/l,Total Nitrogen,Payne,OK,US,36.005388,-96.879964
+Dripping Springs,5.207E+11,520700020060-01,"Dripping Springs Lake, Site 1",1,0.576129032,mg/l,Total Nitrogen,Okmulgee,OK,US,35.573717,-96.106853
+Dripping Springs,5.207E+11,520700020060-02,"Dripping Springs Lake, Site 2",2,0.521896552,mg/l,Total Nitrogen,Okmulgee,OK,US,35.559769,-96.111022
+Dripping Springs,5.207E+11,520700020060-03,"Dripping Springs Lake, Site 3",3,0.572931034,mg/l,Total Nitrogen,Okmulgee,OK,US,35.554692,-96.125942
+Dripping Springs,5.207E+11,520700020060-04,"Dripping Springs Lake, Site 4",4,0.534444444,mg/l,Total Nitrogen,Okmulgee,OK,US,35.569981,-96.1186448
+Dripping Springs,5.207E+11,520700020060-05,"Dripping Springs Lake, Site 5",5,0.584166667,mg/l,Total Nitrogen,Okmulgee,OK,US,35.551505,-96.1180627
+Duncan,3.1081E+11,310810040080-01,"Duncan Lake, Site 1",1,0.696428571,mg/l,Total Nitrogen,Stephens,OK,US,34.519431,-97.811086
+Duncan,3.1081E+11,310810040080-02,"Duncan Lake, Site 2",2,0.7408,mg/l,Total Nitrogen,Stephens,OK,US,34.519869,-97.815278
+Duncan,3.1081E+11,310810040080-03,"Duncan Lake, Site 3",3,0.788541667,mg/l,Total Nitrogen,Stephens,OK,US,34.519633,-97.819167
+Duncan,3.1081E+11,310810040080-04,"Duncan Lake, Site 4",4,0.6105,mg/l,Total Nitrogen,Stephens,OK,US,34.515948,-97.812525
+Duncan,3.1081E+11,310810040080-05,"Duncan Lake, Site 5",5,0.6495,mg/l,Total Nitrogen,Stephens,OK,US,34.517953,-97.821879
+El Reno,5.2053E+11,520530000080-01,"Lake El Reno, Site 1",1,1.24421875,mg/l,Total Nitrogen,Canadian,OK,US,35.527264,-97.986875
+El Reno,5.2053E+11,520530000080-02,"Lake El Reno, Site 2",2,1.351086957,mg/l,Total Nitrogen,Canadian,OK,US,35.523914,-97.989681
+El Reno,5.2053E+11,520530000080-03,"Lake El Reno, Site 3",3,1.405652174,mg/l,Total Nitrogen,Canadian,OK,US,35.519553,-97.996231
+Elk City,3.115E+11,311500030120-01,"Elk City Lake, Site 1",1,1.043269231,mg/l,Total Nitrogen,Beckham,OK,US,35.360419,-99.407789
+Elk City,3.115E+11,311500030120-02,"Elk City Lake, Site 2",2,1.02975,mg/l,Total Nitrogen,Beckham,OK,US,35.361383,-99.410417
+Elk City,3.115E+11,311500030120-03,"Elk City Lake, Site 3",3,1.036666667,mg/l,Total Nitrogen,Beckham,OK,US,35.366617,-99.417672
+Ellsworth,3.113E+11,311300030020-01,"Lake Ellsworth, Site 1",1,0.86755102,mg/l,Total Nitrogen,Comanche,OK,US,34.795461,-98.366422
+Ellsworth,3.113E+11,311300030020-02,"Lake Ellsworth, Site 2",2,0.858142857,mg/l,Total Nitrogen,Comanche,OK,US,34.821847,-98.355961
+Ellsworth,3.113E+11,311300030020-03,"Lake Ellsworth, Site 3",3,0.973,mg/l,Total Nitrogen,Comanche,OK,US,34.8574,-98.362022
+Ellsworth,3.113E+11,311300030020-04,"Lake Ellsworth, Site 4",4,0.863225806,mg/l,Total Nitrogen,Comanche,OK,US,34.817625,-98.339705
+Ellsworth,3.113E+11,311300030020-05,"Lake Ellsworth, Site 5",5,0.781,mg/l,Total Nitrogen,Comanche,OK,US,34.84256,-98.358422
+Elmer Thomas,3.113E+11,311300040050-01,"Elmer Thomas Lake, Site 1",1,0.388703704,mg/l,Total Nitrogen,Comanche,OK,US,34.727492,-98.515336
+Elmer Thomas,3.113E+11,311300040050-02,"Elmer Thomas Lake, Site 2",2,0.384210526,mg/l,Total Nitrogen,Comanche,OK,US,34.725258,-98.520411
+Elmer Thomas,3.113E+11,311300040050-03,"Elmer Thomas Lake, Site 3",3,0.443888889,mg/l,Total Nitrogen,Comanche,OK,US,34.725706,-98.528747
+Elmer Thomas,3.113E+11,311300040050-04,"Elmer Thomas Lake, Site 4",4,0.399615385,mg/l,Total Nitrogen,Comanche,OK,US,34.720333,-98.526819
+Elmer Thomas,3.113E+11,311300040050-05,"Elmer Thomas Lake, Site 5",5,0.427142857,mg/l,Total Nitrogen,Comanche,OK,US,34.729766,-98.521734
+Elmer Thomas,,620910050070-01,"Elmer Lake, Site 1",1,2.45,mg/l,Total Nitrogen,Kingfisher,OK,US,35.88008,-97.98804
+Elmer Thomas,,620910050070-02,"Elmer Lake, Site 2",2,2.36,mg/l,Total Nitrogen,Kingfisher,OK,US,35.88131,-97.99046
+Elmer Thomas,,620910050070-03,"Elmer Lake, Site 3",3,2.183333333,mg/l,Total Nitrogen,Kingfisher,OK,US,35.88439,-97.98997
+Etling,7.209E+11,720900000240-01,"Lake Etling, Site 1",1,2.031666667,mg/l,Total Nitrogen,Cimarron,OK,US,36.849558,-102.868567
+Etling,7.209E+11,720900000240-02,"Lake Etling, Site 2",2,2.307307692,mg/l,Total Nitrogen,Cimarron,OK,US,36.848783,-102.874417
+Etling,7.209E+11,720900000240-03,"Lake Etling, Site 3",3,2.193461538,mg/l,Total Nitrogen,Cimarron,OK,US,36.848056,-102.880594
+Eucha,1.216E+11,121600050070-01,"Eucha Lake, Site 1",1,1.225138889,mg/l,Total Nitrogen,Delaware,OK,US,36.373889,-94.933636
+Eucha,1.216E+11,121600050070-02,"Eucha Lake, Site 2",2,1.388518519,mg/l,Total Nitrogen,Delaware,OK,US,36.349411,-94.876356
+Eucha,1.216E+11,121600050070-03,"Eucha Lake, Site 3",3,2.17037037,mg/l,Total Nitrogen,Delaware,OK,US,36.350472,-94.814033
+Eucha,1.216E+11,121600050070-04,"Eucha Lake, Site 4",4,1.331,mg/l,Total Nitrogen,Delaware,OK,US,36.360604,-94.897685
+Eucha,1.216E+11,121600050070-05,"Eucha Lake, Site 5",5,1.605555556,mg/l,Total Nitrogen,Delaware,OK,US,36.3437,-94.847634
+Eufaula,2.206E+11,220600010020-05,"Eufaula Lake, Site 5",5,0.82030303,mg/l,Total Nitrogen,Haskell,OK,US,35.284831,-95.514717
+Eufaula,2.206E+11,220600010020-06,"Eufaula Lake, Site 6",6,0.688333333,mg/l,Total Nitrogen,Haskell,OK,US,35.307044,-95.43755
+Eufaula,2.206E+11,220600010020-07,"Eufaula Lake, Site 7",7,0.63287234,mg/l,Total Nitrogen,Haskell,OK,US,35.306775,-95.362056
+Eufaula,2.206E+11,220600010050-09,"Eufaula Lake, Site 9",9,0.693970588,mg/l,Total Nitrogen,Haskell,OK,US,35.225264,-95.596286
+Eufaula,2.206E+11,220600010050-10,"Eufaula Lake, Site 10",10,0.885909091,mg/l,Total Nitrogen,Haskell,OK,US,35.2028,-95.697314
+Eufaula,2.206E+11,220600010050-11,"Eufaula Lake, Site 11",11,0.824125,mg/l,Total Nitrogen,Haskell,OK,US,35.228856,-95.6338
+Eufaula,2.206E+11,220600010060-08,"Eufaula Lake, Site 8",8,0.64025641,mg/l,Total Nitrogen,Haskell,OK,US,35.233919,-95.49991
+Eufaula,2.206E+11,220600050010-12,"Eufaula Lake, Site 12",12,0.660125,mg/l,Total Nitrogen,Haskell,OK,US,35.200469,-95.593789
+Eufaula,2.206E+11,220600050010-13,"Eufaula Lake, Site 13",13,0.583676471,mg/l,Total Nitrogen,Haskell,OK,US,35.164397,-95.599461
+Eufaula,2.206E+11,220600050010-14,"Eufaula Lake, Site 14",14,0.663382353,mg/l,Total Nitrogen,Haskell,OK,US,35.101444,-95.647236
+Eufaula,2.206E+11,220600050010-15,"Eufaula Lake, Site 15",15,0.666764706,mg/l,Total Nitrogen,Haskell,OK,US,35.050036,-95.671122
+Eufaula,2.206E+11,220600050010-16,"Eufaula Lake, Site 16",16,0.710735294,mg/l,Total Nitrogen,Haskell,OK,US,35.019964,-95.602278
+Eufaula,2.206E+11,220600050010-17,"Eufaula Lake, Site 17",17,0.804393939,mg/l,Total Nitrogen,Haskell,OK,US,34.974711,-95.630314
+Eufaula,5.205E+11,520500010020-03,"Eufaula Lake, Site 3",3,1.100714286,mg/l,Total Nitrogen,Haskell,OK,US,35.382211,-95.629992
+Eufaula,5.205E+11,520500010020-04,"Eufaula Lake, Site 4",4,0.736363636,mg/l,Total Nitrogen,Haskell,OK,US,35.300447,-95.553956
+Eufaula,5.207E+11,520700010020-01,"Eufaula Lake, Site 1",1,0.766774194,mg/l,Total Nitrogen,Haskell,OK,US,35.4615,-95.60973
+Eufaula,5.207E+11,520700010020-02,"Eufaula Lake, Site 2",2,1.078055556,mg/l,Total Nitrogen,Haskell,OK,US,35.427667,-95.600147
+Fairfax,6.212E+11,621200040040-01,"Fairfax Lake, Site 1",1,0.750543478,mg/l,Total Nitrogen,Osage,OK,US,36.606983,-96.727828
+Fairfax,6.212E+11,621200040040-02,"Fairfax Lake, Site 2",2,0.65537037,mg/l,Total Nitrogen,Osage,OK,US,36.611714,-96.734278
+Fairfax,6.212E+11,621200040040-03,"Fairfax Lake, Site 3",3,0.671458333,mg/l,Total Nitrogen,Osage,OK,US,36.615614,-96.735919
+Fort Cobb,3.1083E+11,310830060020-01,"Fort Cobb Reservoir, Site 1",1,1.310775862,mg/l,Total Nitrogen,Caddo,OK,US,35.162153,-98.456836
+Fort Cobb,3.1083E+11,310830060020-02,"Fort Cobb Reservoir, Site 2",2,1.284375,mg/l,Total Nitrogen,Caddo,OK,US,35.180036,-98.462275
+Fort Cobb,3.1083E+11,310830060020-03,"Fort Cobb Reservoir, Site 3",3,1.27475,mg/l,Total Nitrogen,Caddo,OK,US,35.189733,-98.473447
+Fort Cobb,3.1083E+11,310830060020-04,"Fort Cobb Reservoir, Site 4",4,1.304875,mg/l,Total Nitrogen,Caddo,OK,US,35.219481,-98.509489
+Fort Cobb,3.1083E+11,310830060020-05,"Fort Cobb Reservoir, Site 5",5,1.269375,mg/l,Total Nitrogen,Caddo,OK,US,35.208036,-98.491072
+Fort Cobb,3.1083E+11,310830060020-06,"Fort Cobb Reservoir, Site 6",6,1.25075,mg/l,Total Nitrogen,Caddo,OK,US,35.219192,-98.480425
+Fort Gibson,1.216E+11,121600010050-01,"Fort Gibson Lake, Site 1",1,1.072317073,mg/l,Total Nitrogen,Cherokee,OK,US,35.871667,-95.233056
+Fort Gibson,1.216E+11,121600010050-02,"Fort Gibson Lake, Site 2",2,0.883035714,mg/l,Total Nitrogen,Cherokee,OK,US,35.911944,-95.305556
+Fort Gibson,1.216E+11,121600010050-03,"Fort Gibson Lake, Site 3",3,0.9475,mg/l,Total Nitrogen,Cherokee,OK,US,35.933889,-95.271389
+Fort Gibson,1.216E+11,121600010050-04,"Fort Gibson Lake, Site 4",4,0.959464286,mg/l,Total Nitrogen,Cherokee,OK,US,35.961667,-95.281111
+Fort Gibson,1.216E+11,121600010200-05,"Fort Gibson Lake, Site 5",5,0.866296296,mg/l,Total Nitrogen,Cherokee,OK,US,35.94444,-95.315833
+Fort Gibson,1.216E+11,121600010200-06,"Fort Gibson Lake, Site 6",6,1.026290323,mg/l,Total Nitrogen,Cherokee,OK,US,36.001667,-95.245
+Fort Gibson,1.216E+11,121600010200-07,"Fort Gibson Lake, Site 7",7,1.057407407,mg/l,Total Nitrogen,Cherokee,OK,US,36.031111,-95.311389
+Fort Gibson,1.216E+11,121600010200-08,"Fort Gibson Lake, Site 8",8,1.065714286,mg/l,Total Nitrogen,Cherokee,OK,US,36.049167,-95.285833
+Fort Supply,7.205E+11,720500030020-01,"Fort Supply Lake, Site 1",1,1.026914894,mg/l,Total Nitrogen,Woodward,OK,US,36.548517,-99.565136
+Fort Supply,7.205E+11,720500030020-02,"Fort Supply Lake, Site 2",2,1.038333333,mg/l,Total Nitrogen,Woodward,OK,US,36.529067,-99.570783
+Fort Supply,7.205E+11,720500030020-03,"Fort Supply Lake, Site 3",3,1.032857143,mg/l,Total Nitrogen,Woodward,OK,US,36.516214,-99.571344
+Fort Supply,7.205E+11,720500030020-04,"Fort Supply Lake, Site 4",4,0.881875,mg/l,Total Nitrogen,Woodward,OK,US,36.539772,-99.568644
+Fort Supply,7.205E+11,720500030020-05,"Fort Supply Lake, Site 5",5,0.945714286,mg/l,Total Nitrogen,Woodward,OK,US,36.522462,-99.577559
+Foss,3.1084E+11,310840010020-01,"Foss Reservoir,  Site 1",1,0.591636364,mg/l,Total Nitrogen,Custer,OK,US,35.539364,-99.189006
+Foss,3.1084E+11,310840010020-02,"Foss Reservoir, Site 2",2,0.636351351,mg/l,Total Nitrogen,Custer,OK,US,35.562039,-99.210106
+Foss,3.1084E+11,310840010020-03,"Foss Reservoir, Site 3",3,0.651388889,mg/l,Total Nitrogen,Custer,OK,US,35.577531,-99.235167
+Foss,3.1084E+11,310840010020-04,"Foss Reservoir, Site 4",4,0.657638889,mg/l,Total Nitrogen,Custer,OK,US,35.601983,-99.232658
+Foss,3.1084E+11,310840010020-05,"Foss Reservoir, Site 5",5,0.772833333,mg/l,Total Nitrogen,Custer,OK,US,35.611087,-99.261894
+Frederick,3.1131E+11,311310030120-01,"Lake Frederick, Site 1",1,0.81,mg/l,Total Nitrogen,Tillman,OK,US,34.513272,-98.8876
+Frederick,3.1131E+11,311310030120-02,"Lake Frederick, Site 2",2,0.847678571,mg/l,Total Nitrogen,Tillman,OK,US,34.526969,-98.881944
+Frederick,3.1131E+11,311310030120-03,"Lake Frederick, Site 3",3,0.86,mg/l,Total Nitrogen,Tillman,OK,US,34.542636,-98.8815
+Frederick,3.1131E+11,311310030120-04,"Lake Frederick, Site 4",4,0.7705,mg/l,Total Nitrogen,Tillman,OK,US,34.525915,-98.888384
+Frederick,3.1131E+11,311310030120-05,"Lake Frederick, Site 5",5,0.792,mg/l,Total Nitrogen,Tillman,OK,US,34.534711,-98.879471
+Fuqua,3.1081E+11,310810040050-01,"Fuqua Lake, Site 1",1,0.586953488,mg/l,Total Nitrogen,Stephens,OK,US,34.600833,-97.671111
+Fuqua,3.1081E+11,310810040050-02,"Fuqua Lake, Site 2",2,0.59078125,mg/l,Total Nitrogen,Stephens,OK,US,34.616944,-97.690833
+Fuqua,3.1081E+11,310810040050-03,"Fuqua Lake, Site 3",3,0.629375,mg/l,Total Nitrogen,Stephens,OK,US,34.617222,-97.688056
+Fuqua,3.1081E+11,310810040050-04,"Fuqua Lake, Site 4",4,0.60359375,mg/l,Total Nitrogen,Stephens,OK,US,34.625,-97.6975
+Fuqua,3.1081E+11,310810040050-05,"Fuqua Lake, Site 5",5,0.5925,mg/l,Total Nitrogen,Stephens,OK,US,34.594167,-97.687222
+Grand,1.216E+11,121600030020-01,"Grand Lake, Site 1",1,1.013103448,mg/l,Total Nitrogen,Mayes,OK,US,36.474722,-95.034722
+Grand,1.216E+11,121600030020-02,"Grand Lake, Site 2",2,0.994222222,mg/l,Total Nitrogen,Mayes,OK,US,36.510278,-94.965
+Grand,1.216E+11,121600030020-03,"Grand Lake, Site 3",3,1.026477273,mg/l,Total Nitrogen,Mayes,OK,US,36.544167,-94.930278
+Grand,1.216E+11,121600030030-04,"Grand Lake, Site 4",4,0.983333333,mg/l,Total Nitrogen,Mayes,OK,US,36.603611,-94.903889
+Grand,1.216E+11,121600030030-05,"Grand Lake, Site 5",5,1.138243243,mg/l,Total Nitrogen,Mayes,OK,US,36.563611,-94.860556
+Grand,1.216E+11,121600030030-06,"Grand Lake, Site 6",6,1.212674419,mg/l,Total Nitrogen,Mayes,OK,US,36.563056,-94.769167
+Grand,1.216E+11,121600030030-07,"Grand Lake, Site 7",7,1.13475,mg/l,Total Nitrogen,Mayes,OK,US,36.571944,-94.833056
+Grand,1.216E+11,121600030030-08,"Grand Lake, Site 8",8,1.18047619,mg/l,Total Nitrogen,Mayes,OK,US,36.622778,-94.843333
+Grand,1.216E+11,121600030030-09,"Grand Lake, Site 9",9,1.4690625,mg/l,Total Nitrogen,Mayes,OK,US,36.6375,-94.801389
+Grand,1.216E+11,121600030040-10,"Grand Lake, Site 10",10,1.551470588,mg/l,Total Nitrogen,Mayes,OK,US,36.665278,-94.770278
+Grand,1.216E+11,121600030040-11,"Grand Lake, Site 11",11,1.490238095,mg/l,Total Nitrogen,Mayes,OK,US,36.6525,-94.718333
+Grand,1.216E+11,121600030040-12,"Grand Lake, Site 12",12,1.568484848,mg/l,Total Nitrogen,Mayes,OK,US,36.698889,-94.743056
+Grand,1.216E+11,121600030040-13,"Grand Lake, Site 13",13,1.764038462,mg/l,Total Nitrogen,Mayes,OK,US,36.733333,-94.773889
+Great Salt Plains,6.2101E+11,621010010020-01,"Great Salt Plains Lake, Site 1",1,1.848653846,mg/l,Total Nitrogen,Alfalfa,OK,US,36.743033,-98.156006
+Great Salt Plains,6.2101E+11,621010010020-02,"Great Salt Plains Lake, Site 2",2,1.980208333,mg/l,Total Nitrogen,Alfalfa,OK,US,36.730661,-98.173553
+Great Salt Plains,6.2101E+11,621010010020-03,"Great Salt Plains Lake, Site 3",3,1.6825,mg/l,Total Nitrogen,Alfalfa,OK,US,36.734464,-98.194811
+Great Salt Plains,6.2101E+11,621010010020-04,"Great Salt Plains Lake, Site 4",4,1.83,mg/l,Total Nitrogen,Alfalfa,OK,US,36.740915,-98.175415
+Great Salt Plains,6.2101E+11,621010010020-05,"Great Salt Plains Lake, Site 5",5,1.75,mg/l,Total Nitrogen,Alfalfa,OK,US,36.752436,-98.174022
+Greenleaf,1.204E+11,120400010130-01,"Greenleaf Lake, Site 1",1,0.713333333,mg/l,Total Nitrogen,Muskogee,OK,US,35.617192,-95.166389
+Greenleaf,1.204E+11,120400010130-02,"Greenleaf Lake, Site 2",2,0.591730769,mg/l,Total Nitrogen,Muskogee,OK,US,35.630169,-95.159978
+Greenleaf,1.204E+11,120400010130-03,"Greenleaf Lake, Site 3",3,0.576346154,mg/l,Total Nitrogen,Muskogee,OK,US,35.644164,-95.152194
+Greenleaf,1.204E+11,120400010130-04,"Greenleaf Lake, Site 4",4,0.715625,mg/l,Total Nitrogen,Muskogee,OK,US,35.648522,-95.140821
+Greenleaf,1.204E+11,120400010130-05,"Greenleaf Lake, Site 5",5,0.576875,mg/l,Total Nitrogen,Muskogee,OK,US,35.621829,-95.16048
+Guthrie,6.2091E+11,620910040060-01,"Guthrie Lake, Site 1",1,1.090322581,mg/l,Total Nitrogen,Logan,OK,US,35.818886,-97.43885
+Guthrie,6.2091E+11,620910040060-02,"Guthrie Lake, Site 2",2,1.098815789,mg/l,Total Nitrogen,Logan,OK,US,35.813558,-97.4379
+Guthrie,6.2091E+11,620910040060-03,"Guthrie Lake, Site 3",3,1.0575,mg/l,Total Nitrogen,Logan,OK,US,35.808425,-97.434203
+Guthrie,6.2091E+11,620910040060-04,"Guthrie Lake, Site 4",4,0.937857143,mg/l,Total Nitrogen,Logan,OK,US,35.814625,-97.44171
+Guthrie,6.2091E+11,620910040060-05,"Guthrie Lake, Site 5",5,0.979285714,mg/l,Total Nitrogen,Logan,OK,US,35.816427,-97.43782
+Healdton,3.111E+11,311100030130-01,"Healdton Lake, Site 1",1,0.774285714,mg/l,Total Nitrogen,Carter,OK,US,34.236464,-97.449992
+Healdton,3.111E+11,311100030130-02,"Healdton Lake, Site 2",2,0.706333333,mg/l,Total Nitrogen,Carter,OK,US,34.241186,-97.45275
+Healdton,3.111E+11,311100030130-03,"Healdton Lake, Site 3",3,0.680714286,mg/l,Total Nitrogen,Carter,OK,US,34.242831,-97.457306
+Healdton,3.111E+11,311100030130-04,"Healdton Lake, Site 4",4,0.6,mg/l,Total Nitrogen,Carter,OK,US,34.243998,-97.460361
+Healdton,3.111E+11,311100030130-05,"Healdton Lake, Site 5",5,0.606666667,mg/l,Total Nitrogen,Carter,OK,US,34.245512,-97.448915
+Hefner,6.2091E+11,620910040200-01,"Hefner Lake, Site 1",1,1.095217391,mg/l,Total Nitrogen,Oklahoma,OK,US,35.581019,-97.597431
+Hefner,6.2091E+11,620910040200-02,"Hefner Lake, Site 2",2,0.990892857,mg/l,Total Nitrogen,Oklahoma,OK,US,35.563242,-97.604094
+Hefner,6.2091E+11,620910040200-03,"Hefner Lake, Site 3",3,0.974107143,mg/l,Total Nitrogen,Oklahoma,OK,US,35.562386,-97.582694
+Hefner,6.2091E+11,620910040200-04,"Hefner Lake, Site 4",4,0.880625,mg/l,Total Nitrogen,Oklahoma,OK,US,35.555279,-97.592902
+Hefner,6.2091E+11,620910040200-05,"Hefner Lake, Site 5",5,0.863125,mg/l,Total Nitrogen,Oklahoma,OK,US,35.575421,-97.589619
+Henryetta,5.207E+11,520700010180-01,"Lake Henryetta, Site 1",1,0.970853659,mg/l,Total Nitrogen,Okmulgee,OK,US,35.417047,-95.922617
+Henryetta,5.207E+11,520700010180-02,"Lake Henryetta, Site 2",2,0.971551724,mg/l,Total Nitrogen,Okmulgee,OK,US,35.412942,-95.927867
+Henryetta,5.207E+11,520700010180-03,"Lake Henryetta, Site 3",3,1.010862069,mg/l,Total Nitrogen,Okmulgee,OK,US,35.398314,-95.934072
+Henryetta,5.207E+11,520700010180-04,"Lake Henryetta, Site 4",4,0.873,mg/l,Total Nitrogen,Okmulgee,OK,US,35.407021,-95.932739
+Henryetta,5.207E+11,520700010180-05,"Lake Henryetta, Site 5",5,0.9325,mg/l,Total Nitrogen,Okmulgee,OK,US,35.393879,-95.934236
+Heyburn,1.2042E+11,120420020300-01,"Heyburn Lake, Site 1",1,0.708375,mg/l,Total Nitrogen,Creek,OK,US,35.94935,-96.297858
+Heyburn,1.2042E+11,120420020300-02,"Heyburn Lake, Site 2",2,0.798709677,mg/l,Total Nitrogen,Creek,OK,US,35.948419,-96.3118
+Heyburn,1.2042E+11,120420020300-03,"Heyburn Lake, Site 3",3,0.774166667,mg/l,Total Nitrogen,Creek,OK,US,35.963522,-96.300117
+Heyburn,1.2042E+11,120420020300-04,"Heyburn Lake, Site 4",4,0.7768,mg/l,Total Nitrogen,Creek,OK,US,35.952253,-96.304377
+Heyburn,1.2042E+11,120420020300-05,"Heyburn Lake, Site 5",5,0.729166667,mg/l,Total Nitrogen,Creek,OK,US,35.952278,-96.319192
+Holdenville,5.208E+11,520800010040-01,"Holdenville Lake, Site 1",1,0.897567568,mg/l,Total Nitrogen,Hughes,OK,US,35.028506,-96.368464
+Holdenville,5.208E+11,520800010040-02,"Holdenville Lake, Site 2",2,0.773571429,mg/l,Total Nitrogen,Hughes,OK,US,35.032658,-96.359089
+Holdenville,5.208E+11,520800010040-03,"Holdenville Lake, Site 3",3,0.831,mg/l,Total Nitrogen,Hughes,OK,US,35.040467,-96.344928
+Holdenville,5.208E+11,520800010040-04,"Holdenville Lake, Site 4",4,0.59,mg/l,Total Nitrogen,Hughes,OK,US,35.033538,-96.364093
+Holdenville,5.208E+11,520800010040-05,"Holdenville Lake, Site 5",5,0.667142857,mg/l,Total Nitrogen,Hughes,OK,US,35.038785,-96.351544
+Hominy,1.213E+11,121300040330-01,"Hominy Lake, Site 1",1,0.874054054,mg/l,Total Nitrogen,Osage,OK,US,36.408811,-96.415092
+Hominy,1.213E+11,121300040330-02,"Hominy Lake, Site 2",2,0.64326087,mg/l,Total Nitrogen,Osage,OK,US,36.406028,-96.422717
+Hominy,1.213E+11,121300040330-03,"Hominy Lake, Site 3",3,0.631956522,mg/l,Total Nitrogen,Osage,OK,US,36.398228,-96.434481
+Hudson,1.214E+11,121400020090-01,"Hudson Lake, Site 1",1,0.859342105,mg/l,Total Nitrogen,Osage,OK,US,36.806283,-96.034283
+Hudson,1.214E+11,121400020090-02,"Hudson Lake, Site 2",2,0.788076923,mg/l,Total Nitrogen,Osage,OK,US,36.813661,-96.040303
+Hudson,1.214E+11,121400020090-03,"Hudson Lake, Site 3",3,0.788888889,mg/l,Total Nitrogen,Osage,OK,US,36.820481,-96.045575
+Hudson,1.216E+11,121600020020-01,"Lake Hudson, Site 1",1,0.870769231,mg/l,Total Nitrogen,Mayes,OK,US,36.232988,-95.179078
+Hudson,1.216E+11,121600020020-02,"Lake Hudson, Site 2",2,0.845416667,mg/l,Total Nitrogen,Mayes,OK,US,36.270294,-95.133557
+Hudson,1.216E+11,121600020020-03,"Lake Hudson, Site 3",3,0.869864865,mg/l,Total Nitrogen,Mayes,OK,US,36.263314,-95.150106
+Hudson,1.216E+11,121600020020-04,"Lake Hudson, Site 4",4,0.918472222,mg/l,Total Nitrogen,Mayes,OK,US,36.299179,-95.167404
+Hudson,1.216E+11,121600020140-05,"Lake Hudson, Site 5",5,0.972820513,mg/l,Total Nitrogen,Mayes,OK,US,36.341158,-95.163573
+Hudson,1.216E+11,121600020140-06,"Lake Hudson, Site 6",6,0.931714286,mg/l,Total Nitrogen,Mayes,OK,US,36.375849,-95.124886
+Hudson,1.216E+11,121600020140-07,"Lake Hudson, Site 7",7,0.918,mg/l,Total Nitrogen,Mayes,OK,US,36.401238,-95.146712
+Hudson,1.216E+11,121600020140-08,"Lake Hudson, Site 8",8,0.893030303,mg/l,Total Nitrogen,Mayes,OK,US,36.384866,-95.108341
+Hugo,4.103E+11,410300020020-01,"Hugo Lake, Site 1",1,0.556625,mg/l,Total Nitrogen,Choctaw,OK,US,34.012039,-95.383303
+Hugo,4.103E+11,410300020020-02,"Hugo Lake, Site 2",2,0.607833333,mg/l,Total Nitrogen,Choctaw,OK,US,34.043547,-95.401725
+Hugo,4.103E+11,410300020020-03,"Hugo Lake, Site 3",3,0.590833333,mg/l,Total Nitrogen,Choctaw,OK,US,34.074478,-95.406311
+Hugo,4.103E+11,410300020020-04,"Hugo Lake, Site 4",4,0.622678571,mg/l,Total Nitrogen,Choctaw,OK,US,34.084953,-95.431139
+Hugo,4.103E+11,410300020020-05,"Hugo Lake, Site 5",5,0.629137931,mg/l,Total Nitrogen,Choctaw,OK,US,34.096556,-95.424531
+Hulah,1.214E+11,121400030020-01,"Hulah Lake, Site 1",1,0.683589744,mg/l,Total Nitrogen,Osage,OK,US,36.930564,-96.090208
+Hulah,1.214E+11,121400030020-02,"Hulah Lake, Site 2",2,0.643166667,mg/l,Total Nitrogen,Osage,OK,US,36.953897,-96.107189
+Hulah,1.214E+11,121400030020-03,"Hulah Lake, Site 3",3,0.753333333,mg/l,Total Nitrogen,Osage,OK,US,36.925767,-96.115556
+Hulah,1.214E+11,121400030020-04,"Hulah Lake, Site 4",4,0.637,mg/l,Total Nitrogen,Osage,OK,US,36.941495,-96.096159
+Hulah,1.214E+11,121400030020-05,"Hulah Lake, Site 5",5,0.713,mg/l,Total Nitrogen,Osage,OK,US,36.931228,-96.102911
+Humphreys,3.1081E+11,310810040150-01,"Humphreys Lake, Site 1",1,1.156354167,mg/l,Total Nitrogen,Stephens,OK,US,34.586667,-97.885278
+Humphreys,3.1081E+11,310810040150-02,"Humphreys Lake, Site 2",2,1.045,mg/l,Total Nitrogen,Stephens,OK,US,34.593333,-97.894444
+Humphreys,3.1081E+11,310810040150-03,"Humphreys Lake, Site 3",3,1.058285714,mg/l,Total Nitrogen,Stephens,OK,US,34.598611,-97.902778
+Humphreys,3.1081E+11,310810040150-04,"Humphreys Lake, Site 4",4,0.8495,mg/l,Total Nitrogen,Stephens,OK,US,34.58891,-97.890036
+Humphreys,3.1081E+11,310810040150-05,"Humphreys Lake, Site 5",5,0.9245,mg/l,Total Nitrogen,Stephens,OK,US,34.602962,-97.899259
+Jean Neustadt,3.108E+11,310800030140-01,"Lake Jean Neustadt, Site 1",1,0.767714286,mg/l,Total Nitrogen,Carter,OK,US,34.282578,-97.167722
+Jean Neustadt,3.108E+11,310800030140-02,"Lake Jean Neustadt, Site 2",2,0.744347826,mg/l,Total Nitrogen,Carter,OK,US,34.295367,-97.162647
+Jean Neustadt,3.108E+11,310800030140-03,"Lake Jean Neustadt, Site 3",3,0.746956522,mg/l,Total Nitrogen,Carter,OK,US,34.293317,-97.178081
+Jean Neustadt,3.108E+11,310800030140-04,"Lake Jean Neustadt, Site 4",4,0.6565,mg/l,Total Nitrogen,Carter,OK,US,34.288343,-97.165445
+Jean Neustadt,3.108E+11,310800030140-05,"Lake Jean Neustadt, Site 5",5,0.6335,mg/l,Total Nitrogen,Carter,OK,US,34.602962,-97.171254
+John Wells,2.202E+11,220200040030-01,"John Wells Lake, Site 1",1,0.501571429,mg/l,Total Nitrogen,Haskell,OK,US,35.226619,-95.096739
+John Wells,2.202E+11,220200040030-02,"John Wells Lake, Site 2",2,0.472692308,mg/l,Total Nitrogen,Haskell,OK,US,35.231144,-95.088494
+John Wells,2.202E+11,220200040030-03,"John Wells Lake, Site 3",3,0.477,mg/l,Total Nitrogen,Haskell,OK,US,35.233947,-95.081342
+Kaw,6.2121E+11,621210000020-01,"Kaw Lake, Site 1",1,1.430108696,mg/l,Total Nitrogen,Osage,OK,US,36.701175,-96.924208
+Kaw,6.2121E+11,621210000020-02,"Kaw Lake, Site 2",2,1.41640625,mg/l,Total Nitrogen,Osage,OK,US,36.746214,-96.883097
+Kaw,6.2121E+11,621210000040-03,"Kaw Lake, Site 3",3,1.54,mg/l,Total Nitrogen,Osage,OK,US,36.767275,-96.826939
+Kaw,6.2121E+11,621210000040-04,"Kaw Lake, Site 4",4,1.31453125,mg/l,Total Nitrogen,Osage,OK,US,36.799686,-96.829128
+Kaw,6.2121E+11,621210000040-05,"Kaw Lake, Site 5",5,1.828064516,mg/l,Total Nitrogen,Osage,OK,US,36.790381,-96.907986
+Keystone,6.209E+11,620900010020-06,"Keystone Lake, Site 6",6,1.207297297,mg/l,Total Nitrogen,Tulsa,OK,US,36.164683,-96.293386
+Keystone,6.209E+11,620900010020-07,"Keystone Lake, Site 7",7,1.029054054,mg/l,Total Nitrogen,Tulsa,OK,US,36.114442,-96.337119
+Keystone,6.209E+11,620900010020-08,"Keystone Lake, Site 8",8,1.112380952,mg/l,Total Nitrogen,Tulsa,OK,US,36.139686,-96.328547
+Keystone,6.209E+11,620900010020-09,"Keystone Lake, Site 9",9,1.247714286,mg/l,Total Nitrogen,Tulsa,OK,US,36.166564,-96.312614
+Keystone,6.209E+11,620900010090-10,"Keystone Lake, Site 10",10,1.284736842,mg/l,Total Nitrogen,Tulsa,OK,US,36.192656,-96.316681
+Keystone,6.209E+11,620900010090-11,"Keystone Lake, Site 11",11,1.593676471,mg/l,Total Nitrogen,Tulsa,OK,US,36.193875,-96.391578
+Keystone,6.209E+11,620900010090-12,"Keystone Lake, Site 12",12,1.411052632,mg/l,Total Nitrogen,Tulsa,OK,US,36.157731,-96.393536
+Keystone,6.212E+11,621200010020-01,"Keystone Lake, Site 1",1,1.263529412,mg/l,Total Nitrogen,Tulsa,OK,US,36.147261,-96.257292
+Keystone,6.212E+11,621200010020-02,"Keystone Lake, Site 2",2,1.248333333,mg/l,Total Nitrogen,Tulsa,OK,US,36.190156,-96.253689
+Keystone,6.212E+11,621200010050-03,"Keystone Lake, Site 3",3,1.286666667,mg/l,Total Nitrogen,Tulsa,OK,US,36.232283,-96.300078
+Keystone,6.212E+11,621200010050-04,"Keystone Lake, Site 4",4,1.400540541,mg/l,Total Nitrogen,Tulsa,OK,US,36.237714,-96.355064
+Keystone,6.212E+11,621200010050-05,"Keystone Lake, Site 5",5,1.579714286,mg/l,Total Nitrogen,Tulsa,OK,US,36.28605,-96.431553
+Konawa,5.206E+11,520600010100-01,"Lake Konawa, Site 1",1,0.911571429,mg/l,Total Nitrogen,Seminole,OK,US,34.961356,-96.704008
+Konawa,5.206E+11,520600010100-02,"Lake Konawa, Site 2",2,0.9065,mg/l,Total Nitrogen,Seminole,OK,US,34.957619,-96.726661
+Konawa,5.206E+11,520600010100-03,"Lake Konawa, Site 3",3,0.919166667,mg/l,Total Nitrogen,Seminole,OK,US,34.970539,-96.708031
+Konawa,5.206E+11,520600010100-04,"Lake Konawa, Site 4",4,0.809666667,mg/l,Total Nitrogen,Seminole,OK,US,34.973794,-96.718394
+Konawa,5.206E+11,520600010100-05,"Lake Konawa, Site 5",5,0.77875,mg/l,Total Nitrogen,Seminole,OK,US,34.95363,-96.711896
+Langston,6.209E+11,620900030180-01,"Langston Lake, Site 1",1,0.53,mg/l,Total Nitrogen,Logan,OK,US,35.925122,-97.278531
+Langston,6.209E+11,620900030180-02,"Langston Lake, Site 2",2,0.526052632,mg/l,Total Nitrogen,Logan,OK,US,35.918419,-97.275506
+Langston,6.209E+11,620900030180-03,"Langston Lake, Site 3",3,0.539736842,mg/l,Total Nitrogen,Logan,OK,US,35.910128,-97.275894
+Langston,6.209E+11,620900030180-04,"Langston Lake, Site 4",4,0.509444444,mg/l,Total Nitrogen,Logan,OK,US,35.922085,-97.276589
+Langston,6.209E+11,620900030180-05,"Langston Lake, Site 5",5,0.489444444,mg/l,Total Nitrogen,Logan,OK,US,35.914373,-97.274764
+Lawtonka,3.113E+11,311300040070-01,"Lake Lawtonka, Site 1",1,0.656923077,mg/l,Total Nitrogen,Comanche,OK,US,34.737367,-98.50345
+Lawtonka,3.113E+11,311300040070-02,"Lake Lawtonka, Site 2",2,0.61109375,mg/l,Total Nitrogen,Comanche,OK,US,34.748669,-98.501594
+Lawtonka,3.113E+11,311300040070-03,"Lake Lawtonka, Site 3",3,0.623125,mg/l,Total Nitrogen,Comanche,OK,US,34.760511,-98.507839
+Lawtonka,3.113E+11,311300040070-04,"Lake Lawtonka, Site 4",4,0.636774194,mg/l,Total Nitrogen,Comanche,OK,US,34.771281,-98.523144
+Lawtonka,3.113E+11,311300040070-05,"Lake Lawtonka, Site 5",5,0.680833333,mg/l,Total Nitrogen,Comanche,OK,US,34.764314,-98.517641
+Liberty,6.2091E+11,620910040080-01,"Liberty Lake, Site 1",1,0.877972973,mg/l,Total Nitrogen,Logan,OK,US,35.804328,-97.4667
+Liberty,6.2091E+11,620910040080-02,"Liberty Lake, Site 2",2,0.929095238,mg/l,Total Nitrogen,Logan,OK,US,35.798689,-97.464244
+Liberty,6.2091E+11,620910040080-03,"Liberty Lake, Site 3",3,0.866,mg/l,Total Nitrogen,Logan,OK,US,35.79005,-97.460533
+Lloyd Church,2.201E+11,220100040100-01,"Lloyd Church, Site 1",1,0.4325,mg/l,Total Nitrogen,Latimer,OK,US,34.881656,-95.336564
+Lloyd Church,2.201E+11,220100040100-02,"Lloyd Church, Site 2",2,0.385277778,mg/l,Total Nitrogen,Latimer,OK,US,34.876486,-95.337886
+Lloyd Church,2.201E+11,220100040100-03,"Lloyd Church, Site 3",3,0.373055556,mg/l,Total Nitrogen,Latimer,OK,US,34.875664,-95.343292
+Lone Chimney,6.212E+11,621200030060-01,"Lone Chimney Lake, Site 1",1,0.929852941,mg/l,Total Nitrogen,Pawnee,OK,US,36.255375,-96.825731
+Lone Chimney,6.212E+11,621200030060-02,"Lone Chimney Lake, Site 2",2,0.815681818,mg/l,Total Nitrogen,Pawnee,OK,US,36.249817,-96.832953
+Lone Chimney,6.212E+11,621200030060-03,"Lone Chimney Lake, Site 3",3,0.815909091,mg/l,Total Nitrogen,Pawnee,OK,US,36.242061,-96.832764
+Lone Chimney,6.212E+11,621200030060-04,"Lone Chimney Lake, Site 4",4,0.9,mg/l,Total Nitrogen,Pawnee,OK,US,36.239335,-96.844809
+Lone Chimney,6.212E+11,621200030060-05,"Lone Chimney Lake, Site 5",5,0.7825,mg/l,Total Nitrogen,Pawnee,OK,US,36.237002,-96.842865
+Louis Burtschi,3.1082E+11,310820020070-01,"Lake Louis Burtschi, Site 1",1,1.266666667,mg/l,Total Nitrogen,Grady,OK,US,34.964742,-98.064144
+Louis Burtschi,3.1082E+11,310820020070-02,"Lake Louis Burtschi, Site 2",2,1.154090909,mg/l,Total Nitrogen,Grady,OK,US,34.969219,-98.073494
+Louis Burtschi,3.1082E+11,310820020070-03,"Lake Louis Burtschi, Site 3",3,1.192272727,mg/l,Total Nitrogen,Grady,OK,US,34.96767,-98.068135
+McAlester,2.206E+11,220600020030-01,"Lake McAlester, Site 1",1,0.816538462,mg/l,Total Nitrogen,Pittsburg,OK,US,35.018469,-95.804356
+McAlester,2.206E+11,220600020030-02,"Lake McAlester, Site 2",2,0.838088235,mg/l,Total Nitrogen,Pittsburg,OK,US,35.029989,-95.820964
+McAlester,2.206E+11,220600020030-03,"Lake McAlester, Site 3",3,0.881764706,mg/l,Total Nitrogen,Pittsburg,OK,US,35.031711,-95.850161
+McAlester,2.206E+11,220600020030-04,"Lake McAlester, Site 4",4,0.758333333,mg/l,Total Nitrogen,Pittsburg,OK,US,35.024314,-95.811587
+McAlester,2.206E+11,220600020030-05,"Lake McAlester, Site 5",5,0.804444444,mg/l,Total Nitrogen,Pittsburg,OK,US,35.034488,-95.832467
+McGee Creek,4.104E+11,410400070020-01,"McGee Creek Reservoir, Site 1",1,0.499,mg/l,Total Nitrogen,Atoka,OK,US,34.313364,-95.874431
+McGee Creek,4.104E+11,410400070020-02,"McGee Creek Reservoir, Site 2",2,0.546666667,mg/l,Total Nitrogen,Atoka,OK,US,34.359761,-95.870411
+McGee Creek,4.104E+11,410400070020-03,"McGee Creek Reservoir, Site 3",3,0.472241379,mg/l,Total Nitrogen,Atoka,OK,US,34.332319,-95.913739
+McGee Creek,4.104E+11,410400070020-04,"McGee Creek Reservoir, Site 4",4,0.482413793,mg/l,Total Nitrogen,Atoka,OK,US,34.375575,-95.900186
+McGee Creek,4.104E+11,410400070020-05,"McGee Creek Reservoir, Site 5",5,0.509137931,mg/l,Total Nitrogen,Atoka,OK,US,34.325118,-95.881543
+McMurtry,6.209E+11,620900040240-01,"Lake McMurtry, Site 1",1,0.642234043,mg/l,Total Nitrogen,Noble,OK,US,36.164644,-97.180925
+McMurtry,6.209E+11,620900040240-02,"Lake McMurtry, Site 2",2,0.674594595,mg/l,Total Nitrogen,Noble,OK,US,36.183236,-97.181558
+McMurtry,6.209E+11,620900040240-03,"Lake McMurtry, Site 3",3,0.628432432,mg/l,Total Nitrogen,Noble,OK,US,36.192053,-97.192306
+McMurtry,6.209E+11,620900040240-04,"Lake McMurtry, Site 4",4,0.601666667,mg/l,Total Nitrogen,Noble,OK,US,36.170249,-97.1836754
+McMurtry,6.209E+11,620900040240-05,"Lake McMurtry, Site 5",5,0.63375,mg/l,Total Nitrogen,Noble,OK,US,36.196226,-97.199847
+Meeker,5.207E+11,520700040370-01,"Meeker Lake, Site 1",1,0.83637931,mg/l,Total Nitrogen,Lincoln,OK,US,35.497461,-96.936797
+Meeker,5.207E+11,520700040370-02,"Meeker Lake, Site 2",2,0.8088,mg/l,Total Nitrogen,Lincoln,OK,US,35.491864,-96.943914
+Meeker,5.207E+11,520700040370-03,"Meeker Lake, Site 3",3,0.793333333,mg/l,Total Nitrogen,Lincoln,OK,US,35.487328,-96.945911
+Mountain,3.108E+11,310800030200-01,"Mountain Lake, Site 1",1,0.515833333,mg/l,Total Nitrogen,Carter,OK,US,34.36622,-97.28484
+Mountain,3.108E+11,310800030200-02,"Mountain Lake, Site 2",2,0.525,mg/l,Total Nitrogen,Carter,OK,US,36.36535,-97.27979
+Mountain,3.108E+11,310800030200-03,"Mountain Lake, Site 3",3,0.495,mg/l,Total Nitrogen,Carter,OK,US,34.37113,-97.28088
+Murray,3.111E+11,311100020090-01,"Lake Murray, Site 1",1,0.364666667,mg/l,Total Nitrogen,Love,OK,US,34.031111,-97.063889
+Murray,3.111E+11,311100020090-02,"Lake Murray, Site 2",2,0.364090909,mg/l,Total Nitrogen,Love,OK,US,34.061111,-97.066389
+Murray,3.111E+11,311100020090-03,"Lake Murray, Site 3",3,0.375606061,mg/l,Total Nitrogen,Love,OK,US,34.095,-97.064722
+Murray,3.111E+11,311100020090-04,"Lake Murray, Site 4",4,0.379090909,mg/l,Total Nitrogen,Love,OK,US,34.074444,-97.088333
+Murray,3.111E+11,311100020090-05,"Lake Murray, Site 5",5,0.451212121,mg/l,Total Nitrogen,Love,OK,US,34.118889,-97.105
+Nanih Waiya,4.1031E+11,410310010050-01,"Lake Nanih Waiya, Site 1",1,0.4725,mg/l,Total Nitrogen,Pushmataha,OK,US,34.631242,-95.299314
+Nanih Waiya,4.1031E+11,410310010050-02,"Lake Nanih Waiya, Site 2",2,0.440909091,mg/l,Total Nitrogen,Pushmataha,OK,US,34.633972,-95.300202
+Nanih Waiya,4.1031E+11,410310010050-03,"Lake Nanih Waiya, Site 3",3,0.38,mg/l,Total Nitrogen,Pushmataha,OK,US,34.636039,-95.300509
+New Spiro,2.201E+11,220100010050-01,"New Spiro Lake, Site 1",1,1.334393939,mg/l,Total Nitrogen,Le Flore,OK,US,35.193536,-94.616222
+New Spiro,2.201E+11,220100010050-02,"New Spiro Lake, Site 2",2,1.201666667,mg/l,Total Nitrogen,Le Flore,OK,US,35.199681,-94.619847
+New Spiro,2.201E+11,220100010050-03,"New Spiro Lake, Site 3",3,1.268809524,mg/l,Total Nitrogen,Le Flore,OK,US,35.207589,-94.629594
+Okemah,5.207E+11,520700020290-01,"Okemah Lake, Site 1",1,0.5628125,mg/l,Total Nitrogen,Okfuskee,OK,US,35.533583,-96.316953
+Okemah,5.207E+11,520700020290-02,"Okemah Lake, Site 2",2,0.544230769,mg/l,Total Nitrogen,Okfuskee,OK,US,35.525367,-96.320339
+Okemah,5.207E+11,520700020290-03,"Okemah Lake, Site 3",3,0.587884615,mg/l,Total Nitrogen,Okfuskee,OK,US,35.52375,-96.332306
+Okemah,5.207E+11,520700020290-04,"Okemah Lake, Site 4",4,0.685416667,mg/l,Total Nitrogen,Okfuskee,OK,US,35.508911,-96.323119
+Okemah,5.207E+11,520700020290-05,"Okemah Lake, Site 5",5,0.604375,mg/l,Total Nitrogen,Okfuskee,OK,US,35.516026,-96.324453
+Okmulgee,5.207E+11,520700020040-01,"Okmulgee Lake, Site 1",1,0.564021739,mg/l,Total Nitrogen,Okmulgee,OK,US,35.62215,-96.062664
+Okmulgee,5.207E+11,520700020040-02,"Okmulgee Lake, Site 2",2,0.555,mg/l,Total Nitrogen,Okmulgee,OK,US,35.612619,-96.074736
+Okmulgee,5.207E+11,520700020040-03,"Okmulgee Lake, Site 3",3,0.549714286,mg/l,Total Nitrogen,Okmulgee,OK,US,35.5973,-96.081108
+Okmulgee,5.207E+11,520700020040-04,"Okmulgee Lake, Site 4",4,0.49875,mg/l,Total Nitrogen,Okmulgee,OK,US,35.623444,-96.073845
+Okmulgee,5.207E+11,520700020040-05,"Okmulgee Lake, Site 5",5,0.4975,mg/l,Total Nitrogen,Okmulgee,OK,US,35.606372,-96.079196
+Oologah,1.2151E+11,121510010020-01,"Oologah Lake, Site 1",1,0.558902439,mg/l,Total Nitrogen,Rogers,OK,US,36.422569,-95.676092
+Oologah,1.2151E+11,121510010020-02,"Oologah Lake, Site 2",2,0.621166667,mg/l,Total Nitrogen,Rogers,OK,US,36.436083,-95.656497
+Oologah,1.2151E+11,121510010020-03,"Oologah Lake, Site 3",3,0.614833333,mg/l,Total Nitrogen,Rogers,OK,US,36.455378,-95.599028
+Oologah,1.2151E+11,121510010020-04,"Oologah Lake, Site 4",4,0.635689655,mg/l,Total Nitrogen,Rogers,OK,US,36.493028,-95.596817
+Oologah,1.2151E+11,121510010020-05,"Oologah Lake, Site 5",5,0.679482759,mg/l,Total Nitrogen,Rogers,OK,US,36.537147,-95.606822
+Oologah,1.2151E+11,121510010020-06,"Oologah Lake, Site 6",6,0.740625,mg/l,Total Nitrogen,Rogers,OK,US,36.573406,-95.587617
+Oologah,1.2151E+11,121510010020-07,"Oologah Lake, Site 7",7,0.809807692,mg/l,Total Nitrogen,Rogers,OK,US,36.603967,-95.565636
+Overholser,5.2052E+11,520520000260-01,"Lake Overholser, Site 1",1,1.655657895,mg/l,Total Nitrogen,Oklahoma,OK,US,35.487161,-97.668244
+Overholser,5.2052E+11,520520000260-02,"Lake Overholser, Site 2",2,1.484375,mg/l,Total Nitrogen,Oklahoma,OK,US,35.499739,-97.676594
+Overholser,5.2052E+11,520520000260-03,"Lake Overholser, Site 3",3,1.389285714,mg/l,Total Nitrogen,Oklahoma,OK,US,35.508479,-97.670012
+Overholser,5.2052E+11,520520000260-04,"Lake Overholser, Site 4",4,1.760714286,mg/l,Total Nitrogen,Oklahoma,OK,US,35.492335,-97.675602
+Overholser,5.2052E+11,520520000260-05,"Lake Overholser, Site 5",5,1.815,mg/l,Total Nitrogen,Oklahoma,OK,US,35.506607,-97.677657
+Ozzie Cobb,4.103E+11,410300020220-01,"Lake Ozzie Cobb, Site 1",1,0.679814815,mg/l,Total Nitrogen,Pushmataha,OK,US,34.243917,-95.388631
+Ozzie Cobb,4.103E+11,410300020220-02,"Lake Ozzie Cobb, Site 2",2,0.685263158,mg/l,Total Nitrogen,Pushmataha,OK,US,34.246222,-95.387464
+Ozzie Cobb,4.103E+11,410300020220-03,"Lake Ozzie Cobb, Site 3",3,0.621315789,mg/l,Total Nitrogen,Pushmataha,OK,US,34.248381,-95.386586
+Pauls Valley City,3.1081E+11,310810010180-01,"Pauls Valley City Lake, Site 1",1,0.65125,mg/l,Total Nitrogen,Garvin,OK,US,34.769386,-97.204419
+Pauls Valley City,3.1081E+11,310810010180-02,"Pauls Valley City Lake, Site 2",2,0.650625,mg/l,Total Nitrogen,Garvin,OK,US,34.779647,-97.203997
+Pauls Valley City,3.1081E+11,310810010180-03,"Pauls Valley City Lake, Site 3",3,0.660645161,mg/l,Total Nitrogen,Garvin,OK,US,34.786933,-97.211808
+Pauls Valley City,3.1081E+11,310810010180-04,"Pauls Valley City Lake, Site 4",4,0.585,mg/l,Total Nitrogen,Garvin,OK,US,34.773945,-97.201747
+Pauls Valley City,3.1081E+11,310810010180-05,"Pauls Valley City Lake, Site 5",5,0.5915,mg/l,Total Nitrogen,Garvin,OK,US,34.78337,-97.207739
+Pawhuska,1.213E+11,121300030230-01,"Lake Pawhuska, Site 1",1,0.3305,mg/l,Total Nitrogen,Osage,OK,US,36.645464,-96.395617
+Pawhuska,1.213E+11,121300030230-02,"Lake Pawhuska, Site 2",2,0.336052632,mg/l,Total Nitrogen,Osage,OK,US,36.650842,-96.397917
+Pawhuska,1.213E+11,121300030230-03,"Lake Pawhuska, Site 3",3,0.320526316,mg/l,Total Nitrogen,Osage,OK,US,36.653194,-96.398667
+Pawnee,6.212E+11,621200030100-01,"Pawnee Lake, Site 1",1,0.845555556,mg/l,Total Nitrogen,Pawnee,OK,US,36.357633,-96.806492
+Pawnee,6.212E+11,621200030100-02,"Pawnee Lake, Site 2",2,0.863,mg/l,Total Nitrogen,Pawnee,OK,US,36.364539,-96.804503
+Pawnee,6.212E+11,621200030100-03,"Pawnee Lake, Site 3",3,0.939333333,mg/l,Total Nitrogen,Pawnee,OK,US,36.370825,-96.804042
+Pawnee,6.212E+11,621200030100-04,"Pawnee Lake, Site 4",4,0.878125,mg/l,Total Nitrogen,Pawnee,OK,US,36.3662,-96.809473
+Pawnee,6.212E+11,621200030100-05,"Pawnee Lake, Site 5",5,0.898125,mg/l,Total Nitrogen,Pawnee,OK,US,36.37324,-96.800534
+Perry,6.212E+11,621200030350-01,"Perry Lake, Site 1",1,0.920725,mg/l,Total Nitrogen,Noble,OK,US,36.252986,-97.337378
+Perry,6.212E+11,621200030350-02,"Perry Lake, Site 2",2,0.89875,mg/l,Total Nitrogen,Noble,OK,US,36.242433,-97.340869
+Perry,6.212E+11,621200030350-03,"Perry Lake, Site 3",3,0.912708333,mg/l,Total Nitrogen,Noble,OK,US,36.238267,-97.349592
+Perry,6.212E+11,621200030350-04,"Perry Lake, Site 4",4,0.849166667,mg/l,Total Nitrogen,Noble,OK,US,36.257628,-97.342869
+Perry,6.212E+11,621200030350-05,"Perry Lake, Site 5",5,0.772,mg/l,Total Nitrogen,Noble,OK,US,36.246797,-97.339773
+Pine Creek,4.1021E+11,410210020020-01,"Pine Creek Lake, Site 1",1,0.604795918,mg/l,Total Nitrogen,Mccurtain,OK,US,34.113231,-95.078511
+Pine Creek,4.1021E+11,410210020020-02,"Pine Creek Lake, Site 2",2,0.672297297,mg/l,Total Nitrogen,Mccurtain,OK,US,34.108086,-95.100736
+Pine Creek,4.1021E+11,410210020020-03,"Pine Creek Lake, Site 3",3,0.580675676,mg/l,Total Nitrogen,Mccurtain,OK,US,34.136406,-95.083153
+Pine Creek,4.1021E+11,410210020020-04,"Pine Creek Lake, Site 4",4,0.567027027,mg/l,Total Nitrogen,Mccurtain,OK,US,34.16255,-95.11005
+Pine Creek,4.1021E+11,410210020020-05,"Pine Creek Lake, Site 5",5,0.539333333,mg/l,Total Nitrogen,Mccurtain,OK,US,34.18341,-95.108992
+Ponca,6.212E+11,621200020210-01,"Lake Ponca, Site 1",1,0.850490196,mg/l,Total Nitrogen,Kay,OK,US,36.721492,-97.025436
+Ponca,6.212E+11,621200020210-02,"Lake Ponca, Site 2",2,0.829242424,mg/l,Total Nitrogen,Kay,OK,US,36.736133,-97.034278
+Ponca,6.212E+11,621200020210-03,"Lake Ponca, Site 3",3,0.754117647,mg/l,Total Nitrogen,Kay,OK,US,36.724317,-97.009569
+Ponca,6.212E+11,621200020210-04,"Lake Ponca, Site 4",4,0.841666667,mg/l,Total Nitrogen,Kay,OK,US,36.729295,-97.029381
+Ponca,6.212E+11,621200020210-05,"Lake Ponca, Site 5",5,0.738333333,mg/l,Total Nitrogen,Kay,OK,US,36.718849,-97.016691
+Prague City,5.207E+11,520700040220-01,"Prague City Lake, Site 1",1,0.538913043,mg/l,Total Nitrogen,Lincoln,OK,US,35.531339,-96.722683
+Prague City,5.207E+11,520700040220-02,"Prague City Lake, Site 2",2,0.4828125,mg/l,Total Nitrogen,Lincoln,OK,US,35.524314,-96.721911
+Prague City,5.207E+11,520700040220-03,"Prague City Lake, Site 3",3,0.536875,mg/l,Total Nitrogen,Lincoln,OK,US,35.518439,-96.717997
+Purcell,5.2061E+11,520610030040-01,"Purcell Lake, Site 1",1,0.695625,mg/l,Total Nitrogen,Mcclain,OK,US,34.993214,-97.377867
+Purcell,5.2061E+11,520610030040-02,"Purcell Lake, Site 2",2,0.693636364,mg/l,Total Nitrogen,Mcclain,OK,US,34.992742,-97.382836
+Purcell,5.2061E+11,520610030040-03,"Purcell Lake, Site 3",3,0.677727273,mg/l,Total Nitrogen,Mcclain,OK,US,34.992681,-97.387603
+RC Longmire,3.1081E+11,310810010186-01,"RC Longmire Lake, Site 1",1,1.030731707,mg/l,Total Nitrogen,Garvin,OK,US,34.745889,-97.056636
+RC Longmire,3.1081E+11,310810010186-02,"RC Longmire Lake, Site 2",2,0.95359375,mg/l,Total Nitrogen,Garvin,OK,US,34.75152,-97.051084
+RC Longmire,3.1081E+11,310810010186-03,"RC Longmire Lake, Site 3",3,0.97578125,mg/l,Total Nitrogen,Garvin,OK,US,34.765773,-97.046768
+RC Longmire,3.1081E+11,310810010186-04,"RC Longmire Lake, Site 4",4,0.734,mg/l,Total Nitrogen,Garvin,OK,US,34.7506,-97.044665
+RC Longmire,3.1081E+11,310810010186-05,"RC Longmire Lake, Site 5",5,0.781,mg/l,Total Nitrogen,Garvin,OK,US,34.755331,-97.052088
+Raymond Gary,4.103E+11,410300010040-01,"Lake Raymond Gary, Site 1",1,0.441785714,mg/l,Total Nitrogen,Choctaw,OK,US,33.991769,-95.259231
+Raymond Gary,4.103E+11,410300010040-02,"Lake Raymond Gary, Site 2",2,0.46826087,mg/l,Total Nitrogen,Choctaw,OK,US,33.999692,-95.263342
+Raymond Gary,4.103E+11,410300010040-03,"Lake Raymond Gary, Site 3",3,0.449,mg/l,Total Nitrogen,Choctaw,OK,US,34.015433,-95.260297
+Raymond Gary,4.103E+11,410300010040-04,"Lake Raymond Gary, Site 4",4,0.4265,mg/l,Total Nitrogen,Choctaw,OK,US,33.992956,-95.264732
+Raymond Gary,4.103E+11,410300010040-05,"Lake Raymond Gary, Site 5",5,0.569,mg/l,Total Nitrogen,Choctaw,OK,US,34.005453,-95.263905
+Robert S. Kerr,2.202E+11,220200020020-01,"Robert S. Kerr Reservoir, Site 1",1,0.977948718,mg/l,Total Nitrogen,Sequoyah,OK,US,35.345342,-94.779706
+Robert S. Kerr,2.202E+11,220200020020-02,"Robert S. Kerr Reservoir, Site 2",2,0.980166667,mg/l,Total Nitrogen,Sequoyah,OK,US,35.341431,-94.827117
+Robert S. Kerr,2.202E+11,220200020020-03,"Robert S. Kerr Reservoir, Site 3",3,0.834137931,mg/l,Total Nitrogen,Sequoyah,OK,US,35.316169,-94.92435
+Robert S. Kerr,2.202E+11,220200020020-04,"Robert S. Kerr Reservoir, Site 4",4,0.939666667,mg/l,Total Nitrogen,Sequoyah,OK,US,35.358722,-94.878553
+Robert S. Kerr,2.202E+11,220200020020-05,"Robert S. Kerr Reservoir, Site 5",5,1.015689655,mg/l,Total Nitrogen,Sequoyah,OK,US,35.395186,-94.914978
+Robert S. Kerr,2.202E+11,220200020020-06,"Robert S. Kerr Reservoir, Site 6",6,1.057307692,mg/l,Total Nitrogen,Sequoyah,OK,US,35.407047,-94.965331
+Rock Creek,3.108E+11,310800030120-01,"Rock Creek Reservoir, Site 1",1,0.646875,mg/l,Total Nitrogen,Carter,OK,US,34.257444,-97.179964
+Rock Creek,3.108E+11,310800030120-02,"Rock Creek Reservoir, Site 2",2,0.62525,mg/l,Total Nitrogen,Carter,OK,US,34.251122,-97.181869
+Rock Creek,3.108E+11,310800030120-03,"Rock Creek Reservoir, Site 3",3,0.6415,mg/l,Total Nitrogen,Carter,OK,US,34.2478,-97.189689
+Rocky,3.115E+11,311500030060-01,"Rocky Lake, Site 1",1,1.728333333,mg/l,Total Nitrogen,Washita,OK,US,35.167161,-99.074258
+Rocky,3.115E+11,311500030060-02,"Rocky Lake, Site 2",2,1.631190476,mg/l,Total Nitrogen,Washita,OK,US,35.173031,-99.076792
+Rocky,3.115E+11,311500030060-03,"Rocky Lake, Site 3",3,1.790952381,mg/l,Total Nitrogen,Washita,OK,US,35.183122,-99.073808
+Rocky,3.115E+11,311500030060-04,"Rocky Lake, Site 4",4,1.429375,mg/l,Total Nitrogen,Washita,OK,US,35.176941,-99.078844
+Rocky,3.115E+11,311500030060-05,"Rocky Lake, Site 5",5,1.43375,mg/l,Total Nitrogen,Washita,OK,US,35.171582,-99.072444
+Sahoma,1.2042E+11,120420020130-01,"Lake Sahoma, Site 1",1,0.919848485,mg/l,Total Nitrogen,Creek,OK,US,36.029922,-96.152269
+Sahoma,1.2042E+11,120420020130-02,"Lake Sahoma, Site 2",2,0.807105263,mg/l,Total Nitrogen,Creek,OK,US,36.034219,-96.154958
+Sahoma,1.2042E+11,120420020130-03,"Lake Sahoma, Site 3",3,0.858157895,mg/l,Total Nitrogen,Creek,OK,US,36.035536,-96.163456
+Sahoma,1.2042E+11,120420020130-04,"Lake Sahoma, Site 4",4,0.880555556,mg/l,Total Nitrogen,Creek,OK,US,36.035382,-96.168609
+Sahoma,1.2042E+11,120420020130-05,"Lake Sahoma, Site 5",5,0.784375,mg/l,Total Nitrogen,Creek,OK,US,36.032777,-96.151137
+Sardis,4.1031E+11,410310030020-01,"Sardis Lake, Site 1",1,0.391521739,mg/l,Total Nitrogen,Pushmataha,OK,US,34.632086,-95.350847
+Sardis,4.1031E+11,410310030020-02,"Sardis Lake, Site 2",2,0.430344828,mg/l,Total Nitrogen,Pushmataha,OK,US,34.656472,-95.454328
+Sardis,4.1031E+11,410310030020-03,"Sardis Lake, Site 3",3,0.405,mg/l,Total Nitrogen,Pushmataha,OK,US,34.677492,-95.3738
+Sardis,4.1031E+11,410310030020-04,"Sardis Lake, Site 4",4,0.446785714,mg/l,Total Nitrogen,Pushmataha,OK,US,34.679075,-95.334831
+Sardis,4.1031E+11,410310030020-05,"Sardis Lake, Site 5",5,0.398448276,mg/l,Total Nitrogen,Pushmataha,OK,US,34.656814,-95.388769
+Shawnee Twin #1,5.2051E+11,520510000280-01,"Shawnee Twin #1 Lake, Site 1",1,0.516770833,mg/l,Total Nitrogen,Pottawatomie,OK,US,35.347314,-97.064994
+Shawnee Twin #1,5.2051E+11,520510000280-02,"Shawnee Twin #1 Lake, Site 2",2,0.487096774,mg/l,Total Nitrogen,Pottawatomie,OK,US,35.337975,-97.075111
+Shawnee Twin #1,5.2051E+11,520510000280-03,"Shawnee Twin #1 Lake, Site 3",3,0.50609375,mg/l,Total Nitrogen,Pottawatomie,OK,US,35.327589,-97.073414
+Shawnee Twin #1,5.2051E+11,520510000280-04,"Shawnee Twin #1 Lake, Site 4",4,0.467096774,mg/l,Total Nitrogen,Pottawatomie,OK,US,35.336667,-97.092358
+Shawnee Twin #1,5.2051E+11,520510000280-05,"Shawnee Twin #1 Lake, Site 5",5,0.351111111,mg/l,Total Nitrogen,Pottawatomie,OK,US,35.323236,-97.078811
+Shawnee Twin #2,5.2051E+11,520510000300-01,"Shawnee Twin #2 Lake, Site 1",1,0.661470588,mg/l,Total Nitrogen,Pottawatomie,OK,US,35.356297,-97.068978
+Shawnee Twin #2,5.2051E+11,520510000300-02,"Shawnee Twin #2 Lake, Site 2",2,0.576911765,mg/l,Total Nitrogen,Pottawatomie,OK,US,35.357803,-97.083297
+Shawnee Twin #2,5.2051E+11,520510000300-03,"Shawnee Twin #2 Lake, Site 3",3,0.594677419,mg/l,Total Nitrogen,Pottawatomie,OK,US,35.359903,-97.100506
+Shawnee Twin #2,5.2051E+11,520510000300-04,"Shawnee Twin #2 Lake, Site 4",4,0.459090909,mg/l,Total Nitrogen,Pottawatomie,OK,US,35.362388,-97.089787
+Shawnee Twin #2,5.2051E+11,520510000300-05,"Shawnee Twin #2 Lake, Site 5",5,0.55625,mg/l,Total Nitrogen,Pottawatomie,OK,US,35.356691,-97.076257
+Shell,1.2042E+11,120420010250-01,"Shell Lake, Site 1",1,0.926666667,mg/l,Total Nitrogen,Osage,OK,US,36.181003,-96.181058
+Shell,1.2042E+11,120420010250-02,"Shell Lake, Site 2",2,0.816136364,mg/l,Total Nitrogen,Osage,OK,US,36.186383,-96.167044
+Shell,1.2042E+11,120420010250-03,"Shell Lake, Site 3",3,0.797272727,mg/l,Total Nitrogen,Osage,OK,US,36.193778,-96.183125
+Shell,1.2042E+11,120420010250-04,"Shell Lake, Site 4",4,0.768125,mg/l,Total Nitrogen,Osage,OK,US,36.193903,-96.17831333
+Shell,1.2042E+11,120420010250-05,"Shell Lake, Site 5",5,0.746875,mg/l,Total Nitrogen,Osage,OK,US,36.188395,-96.1795623
+Skiatook,1.213E+11,121300040080-01,"Skiatook Lake, Site 1",1,0.4925,mg/l,Total Nitrogen,Osage,OK,US,36.350275,-96.093058
+Skiatook,1.213E+11,121300040080-02,"Skiatook Lake, Site 2",2,0.498387097,mg/l,Total Nitrogen,Osage,OK,US,36.363817,-96.134642
+Skiatook,1.213E+11,121300040080-03,"Skiatook Lake, Site 3",3,0.49,mg/l,Total Nitrogen,Osage,OK,US,36.379681,-96.183381
+Skiatook,1.213E+11,121300040080-04,"Skiatook Lake, Site 4",4,0.660857143,mg/l,Total Nitrogen,Osage,OK,US,36.385719,-96.233839
+Skiatook,1.213E+11,121300040080-05,"Skiatook Lake, Site 5",5,0.567333333,mg/l,Total Nitrogen,Osage,OK,US,36.407183,-96.216722
+Skiatook,1.213E+11,121300040080-06,"Skiatook Lake, Site 6",6,0.464354839,mg/l,Total Nitrogen,Osage,OK,US,36.36315,-96.169106
+Skiatook,1.213E+11,121300040080-07,"Skiatook Lake, Site 7",7,0.501896552,mg/l,Total Nitrogen,Osage,OK,US,36.326536,-96.122569
+Sooner,6.212E+11,621200020130-01,"Sooner Reservoir, Site 1",1,0.525897436,mg/l,Total Nitrogen,Pawnee,OK,US,36.457703,-96.996131
+Sooner,6.212E+11,621200020130-02,"Sooner Reservoir, Site 2",2,0.526451613,mg/l,Total Nitrogen,Pawnee,OK,US,36.431439,-97.031433
+Sooner,6.212E+11,621200020130-03,"Sooner Reservoir, Site 3",3,0.551129032,mg/l,Total Nitrogen,Pawnee,OK,US,36.417306,-97.057256
+Sooner,6.212E+11,621200020130-04,"Sooner Reservoir, Site 4",4,0.4325,mg/l,Total Nitrogen,Pawnee,OK,US,36.448377,-97.018711
+Sooner,6.212E+11,621200020130-05,"Sooner Reservoir, Site 5",5,0.4715,mg/l,Total Nitrogen,Pawnee,OK,US,36.418189,-97.031634
+Spavinaw,1.216E+11,121600050020-01,"Spavinaw Lake, Site 1",1,0.919186047,mg/l,Total Nitrogen,Mayes,OK,US,36.382919,-95.046614
+Spavinaw,1.216E+11,121600050020-02,"Spavinaw Lake, Site 2",2,0.839264706,mg/l,Total Nitrogen,Mayes,OK,US,36.391783,-95.022142
+Spavinaw,1.216E+11,121600050020-03,"Spavinaw Lake, Site 3",3,0.860454545,mg/l,Total Nitrogen,Mayes,OK,US,36.401419,-95.005553
+Spavinaw,1.216E+11,121600050020-04,"Spavinaw Lake, Site 4",4,0.8425,mg/l,Total Nitrogen,Mayes,OK,US,36.387454,-95.033166
+Spavinaw,1.216E+11,121600050020-05,"Spavinaw Lake, Site 5",5,0.9095,mg/l,Total Nitrogen,Mayes,OK,US,36.39723603,-95.01400584
+Sportsman,5.205E+11,520500020220-01,"Sportsman Lake, Site 1",1,0.605,mg/l,Total Nitrogen,Seminole,OK,US,35.203481,-96.543331
+Sportsman,5.205E+11,520500020220-02,"Sportsman Lake, Site 2",2,0.562678571,mg/l,Total Nitrogen,Seminole,OK,US,35.209692,-96.548297
+Sportsman,5.205E+11,520500020220-03,"Sportsman Lake, Site 3",3,0.590192308,mg/l,Total Nitrogen,Seminole,OK,US,35.213453,-96.556689
+Sportsman,5.205E+11,520500020220-04,"Sportsman Lake, Site 4",4,0.473125,mg/l,Total Nitrogen,Seminole,OK,US,35.212464,-96.54885
+Sportsman,5.205E+11,520500020220-05,"Sportsman Lake, Site 5",5,0.508125,mg/l,Total Nitrogen,Seminole,OK,US,35.215058,-96.559731
+Stanley Draper,5.2081E+11,520810000130-01,"Lake Stanley Draper, Site 1",1,0.501184211,mg/l,Total Nitrogen,Cleveland,OK,US,35.327661,-97.351253
+Stanley Draper,5.2081E+11,520810000130-02,"Lake Stanley Draper, Site 2",2,0.4028,mg/l,Total Nitrogen,Cleveland,OK,US,35.341964,-97.351633
+Stanley Draper,5.2081E+11,520810000130-03,"Lake Stanley Draper, Site 3",3,0.399038462,mg/l,Total Nitrogen,Cleveland,OK,US,35.358208,-97.360614
+Stanley Draper,5.2081E+11,520810000130-04,"Lake Stanley Draper, Site 4",4,0.368611111,mg/l,Total Nitrogen,Cleveland,OK,US,35.372653,-97.372258
+Stanley Draper,5.2081E+11,520810000130-05,"Lake Stanley Draper, Site 5",5,0.378333333,mg/l,Total Nitrogen,Cleveland,OK,US,35.364197,-97.357589
+Stilwell City,2.202E+11,220200030120-01,"Stilwell City Lake, Site 1",1,1.072962963,mg/l,Total Nitrogen,Adair,OK,US,35.763475,-94.706228
+Stilwell City,2.202E+11,220200030120-02,"Stilwell City Lake, Site 2",2,0.738928571,mg/l,Total Nitrogen,Adair,OK,US,35.766356,-94.713264
+Stilwell City,2.202E+11,220200030120-03,"Stilwell City Lake, Site 3",3,0.783571429,mg/l,Total Nitrogen,Adair,OK,US,35.771508,-94.711736
+Stroud,5.207E+11,520700030240-01,"Stroud Lake, Site 1",1,0.512857143,mg/l,Total Nitrogen,Creek,OK,US,35.79595,-96.603275
+Stroud,5.207E+11,520700030240-02,"Stroud Lake, Site 2",2,0.486964286,mg/l,Total Nitrogen,Creek,OK,US,35.807444,-96.603578
+Stroud,5.207E+11,520700030240-03,"Stroud Lake, Site 3",3,0.513148148,mg/l,Total Nitrogen,Creek,OK,US,35.814703,-96.620942
+Stroud,5.207E+11,520700030240-04,"Stroud Lake, Site 4",4,0.36875,mg/l,Total Nitrogen,Creek,OK,US,35.812368,-96.602007
+Stroud,5.207E+11,520700030240-05,"Stroud Lake, Site 5",5,0.37625,mg/l,Total Nitrogen,Creek,OK,US,35.813397,-96.610194
+Talawanda #1,2.206E+11,220600020060-01,"Talawanda Lake #1, Site 1",1,0.614264706,mg/l,Total Nitrogen,Pittsburg,OK,US,34.977739,-95.793492
+Talawanda #1,2.206E+11,220600020060-02,"Talawanda Lake #1, Site 2",2,0.488958333,mg/l,Total Nitrogen,Pittsburg,OK,US,34.975206,-95.788492
+Talawanda #1,2.206E+11,220600020060-03,"Talawanda Lake #1, Site 3",3,0.588823529,mg/l,Total Nitrogen,Pittsburg,OK,US,34.974653,-95.798103
+Talawanda #2,2.206E+11,220600020050-01,"Talawanda Lake #2, Site 1",1,0.391714286,mg/l,Total Nitrogen,Pittsburg,OK,US,34.990225,-95.793439
+Talawanda #2,2.206E+11,220600020050-02,"Talawanda Lake #2, Site 2",2,0.387592593,mg/l,Total Nitrogen,Pittsburg,OK,US,34.986017,-95.785778
+Talawanda #2,2.206E+11,220600020050-03,"Talawanda Lake #2, Site 3",3,0.396818182,mg/l,Total Nitrogen,Pittsburg,OK,US,34.984594,-95.794008
+Taylor (Marlow),3.1081E+11,310810050060-01,"Taylor (Marlow) Lake, Site 1",1,1.244864865,mg/l,Total Nitrogen,Grady,OK,US,34.749603,-97.921542
+Taylor (Marlow),3.1081E+11,310810050060-02,"Taylor (Marlow) Lake, Site 2",2,1.475172414,mg/l,Total Nitrogen,Grady,OK,US,34.750483,-97.927836
+Taylor (Marlow),3.1081E+11,310810050060-03,"Taylor (Marlow) Lake, Site 3",3,1.365517241,mg/l,Total Nitrogen,Grady,OK,US,34.752672,-97.932156
+Tecumseh,5.2051E+11,520510000220-01,"Tecumseh Lake, Site 1",1,0.89016129,mg/l,Total Nitrogen,Pottawatomie,OK,US,35.295764,-96.954878
+Tecumseh,5.2051E+11,520510000220-02,"Tecumseh Lake, Site 2",2,0.919583333,mg/l,Total Nitrogen,Pottawatomie,OK,US,35.290553,-96.959397
+Tecumseh,5.2051E+11,520510000220-03,"Tecumseh Lake, Site 3",3,0.92826087,mg/l,Total Nitrogen,Pottawatomie,OK,US,35.286489,-96.962497
+Tenkiller Ferry,1.217E+11,121700020020-01,"Tenkiller Ferry Lake, Site 1",1,0.757692308,mg/l,Total Nitrogen,Sequoyah,OK,US,35.600017,-95.044628
+Tenkiller Ferry,1.217E+11,121700020020-02,"Tenkiller Ferry Lake, Site 2",2,0.770757576,mg/l,Total Nitrogen,Sequoyah,OK,US,35.674433,-94.976408
+Tenkiller Ferry,1.217E+11,121700020020-07,"Tenkiller Ferry Lake, Site 7",7,0.808392857,mg/l,Total Nitrogen,Sequoyah,OK,US,35.639381,-95.014631
+Tenkiller Ferry,1.217E+11,121700020220-03,"Tenkiller Ferry Lake, Site 3",3,0.986052632,mg/l,Total Nitrogen,Sequoyah,OK,US,35.73905,-94.954261
+Tenkiller Ferry,1.217E+11,121700020220-04,"Tenkiller Ferry Lake, Site 4",4,1.371571429,mg/l,Total Nitrogen,Sequoyah,OK,US,35.755422,-94.905072
+Tenkiller Ferry,1.217E+11,121700020220-05,"Tenkiller Ferry Lake, Site 5",5,1.484,mg/l,Total Nitrogen,Sequoyah,OK,US,35.763844,-94.8924
+Tenkiller Ferry,1.217E+11,121700020220-06,"Tenkiller Ferry Lake, Site 6",6,1.375571429,mg/l,Total Nitrogen,Sequoyah,OK,US,35.766339,-94.887192
+Texoma,3.108E+11,310800010011-03,"Lake Texoma, Site 3",3,0.660694444,mg/l,Total Nitrogen,Marshall,OK,US,33.957564,-96.587081
+Texoma,3.108E+11,310800010011-04,"Lake Texoma, Site 4",4,0.7015,mg/l,Total Nitrogen,Marshall,OK,US,34.007622,-96.629931
+Texoma,3.111E+11,311100010020-01,"Lake Texoma, Site 1",1,0.65225,mg/l,Total Nitrogen,Bryan,OK,US,33.829969,-96.576756
+Texoma,3.111E+11,311100010020-02,"Lake Texoma, Site 2",2,0.676,mg/l,Total Nitrogen,Marshall,OK,US,33.893017,-96.611267
+Texoma,3.111E+11,311100010030-05,"Lake Texoma, Site 5",5,0.663611111,mg/l,Total Nitrogen,Marshall,OK,US,33.904456,-96.67805
+Texoma,3.111E+11,311100010030-06,"Lake Texoma, Site 6",6,0.689833333,mg/l,Total Nitrogen,Marshall,OK,US,33.856039,-96.691514
+Texoma,3.111E+11,311100010030-07,"Lake Texoma, Site 7",7,0.736896552,mg/l,Total Nitrogen,Marshall,OK,US,33.828142,-96.737644
+Texoma,3.111E+11,311100010030-08,"Lake Texoma, Site 8",8,0.7955,mg/l,Total Nitrogen,Bryan,OK,US,33.846936,-96.780069
+Texoma,3.111E+11,311100010030-09,"Lake Texoma, Site 9",9,0.770694444,mg/l,Total Nitrogen,Bryan,OK,US,33.819892,-96.805361
+Texoma,3.111E+11,311100010030-10,"Lake Texoma, Site 10",10,0.810833333,mg/l,Total Nitrogen,Bryan,OK,US,33.785928,-96.796225
+Texoma,3.111E+11,311100010030-11,"Lake Texoma, Site 11",11,0.835333333,mg/l,Total Nitrogen,Marshall,OK,US,33.868203,-96.838269
+Texoma,3.111E+11,311100010080-12,"Lake Texoma, Site 12",12,0.9625,mg/l,Total Nitrogen,Marshall,OK,US,33.894283,-96.888758
+Texoma,3.111E+11,311100010080-13,"Lake Texoma, Site 13",13,1.049464286,mg/l,Total Nitrogen,Marshall,OK,US,33.942519,-96.907375
+Thunderbird,5.2081E+11,520810000020-01,"Lake Thunderbird, Site 1",1,0.865483871,mg/l,Total Nitrogen,Cleveland,OK,US,35.223333,-97.220833
+Thunderbird,5.2081E+11,520810000020-02,"Lake Thunderbird, Site 2",2,0.841535714,mg/l,Total Nitrogen,Cleveland,OK,US,35.238889,-97.228889
+Thunderbird,5.2081E+11,520810000020-03,"Lake Thunderbird, Site 3",3,0.905282609,mg/l,Total Nitrogen,Cleveland,OK,US,35.262222,-97.238889
+Thunderbird,5.2081E+11,520810000020-04,"Lake Thunderbird, Site 4",4,0.83927027,mg/l,Total Nitrogen,Cleveland,OK,US,35.224444,-97.250833
+Thunderbird,5.2081E+11,520810000020-05,"Lake Thunderbird, Site 5",5,1.078489362,mg/l,Total Nitrogen,Cleveland,OK,US,35.220278,-97.290556
+Thunderbird,5.2081E+11,520810000020-06,"Lake Thunderbird, Site 6",6,1.030518919,mg/l,Total Nitrogen,Cleveland,OK,US,35.231667,-97.305556
+Thunderbird,5.2081E+11,520810000020-07,"Lake Thunderbird, Site 7",7,0.868851852,mg/l,Total Nitrogen,Cleveland,OK,US,35.203056,-97.258056
+Thunderbird,5.2081E+11,520810000020-08,"Lake Thunderbird, Site 8",8,0.920480263,mg/l,Total Nitrogen,Cleveland,OK,US,35.285692,-97.244119
+Thunderbird,5.2081E+11,520810000020-11,"Lake Thunderbird, Site 11",11,1.001294964,mg/l,Total Nitrogen,Cleveland,OK,US,35.212375,-97.302454
+Thunderbird,5.2081E+11,520810000020-12,"Lake Thunderbird, Site 12",12,0.747272727,mg/l,Total Nitrogen,Cleveland,OK,US,35.225431,-97.224079
+Tom Steed,3.115E+11,311500020060-01,"Tom Steed Reservoir, Site 1",1,0.814875,mg/l,Total Nitrogen,Kiowa,OK,US,34.749953,-98.968383
+Tom Steed,3.115E+11,311500020060-02,"Tom Steed Reservoir, Site 2",2,0.816060606,mg/l,Total Nitrogen,Kiowa,OK,US,34.782683,-98.992947
+Tom Steed,3.115E+11,311500020060-03,"Tom Steed Reservoir, Site 3",3,0.818529412,mg/l,Total Nitrogen,,OK,US,34.757406,-99.019192
+Tom Steed,3.115E+11,311500020060-04,"Tom Steed Reservoir, Site 4",4,0.719166667,mg/l,Total Nitrogen,Kiowa,OK,US,34.772099,-98.972794
+Tom Steed,3.115E+11,311500020060-05,"Tom Steed Reservoir, Site 5",5,0.73375,mg/l,Total Nitrogen,Kiowa,OK,US,34.758736,-99.000557
+Tom Steed,3.115E+11,311500020060-06,"Tom Steed Reservoir, Site 6",6,0.934375,mg/l,Total Nitrogen,Kiowa,OK,US,34.74027,-98.98759
+Vanderwork,3.1083E+11,310830020110-01,"Lake Vanderwork, Site 1",1,1.371851852,mg/l,Total Nitrogen,Washita,OK,US,35.16295,-98.824381
+Vanderwork,3.1083E+11,310830020110-02,"Lake Vanderwork, Site 2",2,1.34452381,mg/l,Total Nitrogen,Washita,OK,US,35.167878,-98.826819
+Vanderwork,3.1083E+11,310830020110-03,"Lake Vanderwork, Site 3",3,1.322619048,mg/l,Total Nitrogen,Washita,OK,US,35.171822,-98.830539
+Vincent,5.2062E+11,520620050200-01,"Lake Vincent, Site 1",1,0.570961538,mg/l,Total Nitrogen,Ellis,OK,US,36.056672,-99.916445
+Vincent,5.2062E+11,520620050200-02,"Lake Vincent, Site 2",2,0.510555556,mg/l,Total Nitrogen,Ellis,OK,US,36.058798,-99.923054
+Vincent,5.2062E+11,520620050200-03,"Lake Vincent, Site 3",3,0.531944444,mg/l,Total Nitrogen,Ellis,OK,US,36.061864,-99.926626
+WR Holway,1.216E+11,121600020050-01,"WR Holway, Site 1",1,0.654785714,mg/l,Total Nitrogen,Mayes,OK,US,36.25634,-95.102314
+WR Holway,1.216E+11,121600020050-02,"WR Holway, Site 2",2,0.6705,mg/l,Total Nitrogen,Mayes,OK,US,36.24564,-95.09958
+WR Holway,1.216E+11,121600020050-03,"WR Holway, Site 3",3,0.691875,mg/l,Total Nitrogen,Mayes,OK,US,36.256946,-95.086832
+WR Holway,1.216E+11,121600020050-04,"WR Holway, Site 4",4,0.721,mg/l,Total Nitrogen,Mayes,OK,US,36.251,-95.102135
+WR Holway,1.216E+11,121600020050-05,"WR Holway, Site 5",5,0.771,mg/l,Total Nitrogen,Mayes,OK,US,36.252091,-95.093118
+Walters (Dave Boyer),3.113E+11,311300010080-01,"Walters (Dave Boyer) Lake, Site 1",1,0.965689655,mg/l,Total Nitrogen,Cotton,OK,US,34.376239,-98.334631
+Walters (Dave Boyer),3.113E+11,311300010080-02,"Walters (Dave Boyer) Lake, Site 2",2,0.925,mg/l,Total Nitrogen,Cotton,OK,US,34.373942,-98.337972
+Walters (Dave Boyer),3.113E+11,311300010080-03,"Walters (Dave Boyer) Lake, Site 3",3,0.919,mg/l,Total Nitrogen,Cotton,OK,US,34.375031,-98.343414
+Waurika,3.1121E+11,311210000020-01,"Waurika Lake, Site 1",1,0.80255814,mg/l,Total Nitrogen,Jefferson,OK,US,34.234869,-98.046964
+Waurika,3.1121E+11,311210000020-02,"Waurika Lake, Site 2",2,0.786290323,mg/l,Total Nitrogen,Jefferson,OK,US,34.261369,-98.051103
+Waurika,3.1121E+11,311210000020-03,"Waurika Lake, Site 3",3,0.784,mg/l,Total Nitrogen,Jefferson,OK,US,34.289206,-98.083453
+Waurika,3.1121E+11,311210000020-04,"Waurika Lake, Site 4",4,0.932903226,mg/l,Total Nitrogen,Jefferson,OK,US,34.301625,-98.110581
+Waurika,3.1121E+11,311210000020-05,"Waurika Lake, Site 5",5,0.8835,mg/l,Total Nitrogen,Jefferson,OK,US,34.321854,-98.132833
+Waxhoma,1.213E+11,121300020190-01,"Waxhoma Lake, Site 1",1,0.645945946,mg/l,Total Nitrogen,Osage,OK,US,36.554806,-96.115556
+Waxhoma,1.213E+11,121300020190-02,"Waxhoma Lake, Site 2",2,0.5625,mg/l,Total Nitrogen,Osage,OK,US,36.557828,-96.109639
+Waxhoma,1.213E+11,121300020190-03,"Waxhoma Lake, Site 3",3,0.567407407,mg/l,Total Nitrogen,Osage,OK,US,36.561617,-96.10715
+Wayne Wallace,2.201E+11,220100040150-01,"Lake Wayne Wallace, Site 1",1,0.486756757,mg/l,Total Nitrogen,Latimer,OK,US,34.993027,-95.356202
+Wayne Wallace,2.201E+11,220100040150-02,"Lake Wayne Wallace, Site 2",2,0.439375,mg/l,Total Nitrogen,Latimer,OK,US,34.998718,-95.357397
+Wayne Wallace,2.201E+11,220100040150-03,"Lake Wayne Wallace, Site 3",3,0.5975,mg/l,Total Nitrogen,Latimer,OK,US,35.001418,-95.360476
+Webbers Falls,1.204E+11,120400010070-01,"Webbers Falls Reservoir, Site 1",1,1.083088235,mg/l,Total Nitrogen,Muskogee,OK,US,35.554722,-95.170556
+Webbers Falls,1.204E+11,120400010070-02,"Webbers Falls Reservoir, Site 2",2,1.082115385,mg/l,Total Nitrogen,Muskogee,OK,US,35.601667,-95.181667
+Webbers Falls,1.204E+11,120400010070-03,"Webbers Falls Reservoir, Site 3",3,1.092692308,mg/l,Total Nitrogen,Muskogee,OK,US,35.590278,-95.229444
+Webbers Falls,1.204E+11,120400010070-04,"Webbers Falls Reservoir, Site 4",4,1.088076923,mg/l,Total Nitrogen,Muskogee,OK,US,35.630556,-95.271667
+Webbers Falls,1.204E+11,120400010070-05,"Webbers Falls Reservoir, Site 5",5,1.106153846,mg/l,Total Nitrogen,Muskogee,OK,US,35.668611,-95.259444
+Webbers Falls,1.204E+11,120400010070-06,"Webbers Falls Reservoir, Site 6",6,1.0616,mg/l,Total Nitrogen,Muskogee,OK,US,35.7,-95.231389
+Weleetka,5.205E+11,520500010220-01,"Weleetka, Site 1",1,0.698333333,mg/l,Total Nitrogen,Okfuskee,OK,US,35.33544,-96.16399
+Weleetka,5.205E+11,520500010220-02,"Weleetka, Site 2",2,0.695,mg/l,Total Nitrogen,Okfuskee,OK,US,35.33556,-96.16782
+Wes Watkins,5.2051E+11,520510000255-01,"Wes Watkins Reservoir, Site 1",1,0.873,mg/l,Total Nitrogen,Pottawatomie,OK,US,35.402592,-97.098186
+Wes Watkins,5.2051E+11,520510000255-02,"Wes Watkins Reservoir, Site 2",2,0.904545455,mg/l,Total Nitrogen,Pottawatomie,OK,US,35.406014,-97.124164
+Wes Watkins,5.2051E+11,520510000255-03,"Wes Watkins Reservoir, Site 3",3,0.92078125,mg/l,Total Nitrogen,Pottawatomie,OK,US,35.400494,-97.143061
+Wes Watkins,5.2051E+11,520510000255-04,"Wes Watkins Reservoir, Site 4",4,0.844545455,mg/l,Total Nitrogen,Pottawatomie,OK,US,35.407766,-97.1279207
+Wes Watkins,5.2051E+11,520510000255-05,"Wes Watkins Reservoir, Site 5",5,0.93375,mg/l,Total Nitrogen,Pottawatomie,OK,US,35.396373,-97.146335
+Wetumka,5.205E+11,520500010270-01,"Wetumka Lake, Site 1",1,0.653166667,mg/l,Total Nitrogen,Hughes,OK,US,35.284675,-96.246731
+Wetumka,5.205E+11,520500010270-02,"Wetumka Lake, Site 2",2,0.645882353,mg/l,Total Nitrogen,Hughes,OK,US,35.290236,-96.247958
+Wetumka,5.205E+11,520500010270-03,"Wetumka Lake, Site 3",3,0.640882353,mg/l,Total Nitrogen,Hughes,OK,US,35.288953,-96.257572
+Wewoka,5.205E+11,520500020190-01,"Wewoka Lake, Site 1",1,0.745588235,mg/l,Total Nitrogen,Seminole,OK,US,35.181158,-96.52485
+Wewoka,5.205E+11,520500020190-02,"Wewoka Lake, Site 2",2,0.680227273,mg/l,Total Nitrogen,Seminole,OK,US,35.195953,-96.519103
+Wewoka,5.205E+11,520500020190-03,"Wewoka Lake, Site 3",3,0.74125,mg/l,Total Nitrogen,Seminole,OK,US,35.209897,-96.511414
+Wewoka,5.205E+11,520500020190-04,"Wewoka Lake, Site 4",4,0.64,mg/l,Total Nitrogen,Seminole,OK,US,35.189978,-96.522382
+Wewoka,5.205E+11,520500020190-05,"Wewoka Lake, Site 5",5,0.725,mg/l,Total Nitrogen,Seminole,OK,US,35.203637,-96.513495
+Wiley Post Memorial (Maysville),3.1081E+11,310810010220-01,"Wiley Post Memorial (Maysville) Lake, Site 1",1,0.977272727,mg/l,Total Nitrogen,Mcclain,OK,US,34.863672,-97.383761
+Wiley Post Memorial (Maysville),3.1081E+11,310810010220-02,"Wiley Post Memorial (Maysville) Lake, Site 2",2,1.005,mg/l,Total Nitrogen,Mcclain,OK,US,34.865494,-97.379672
+Wiley Post Memorial (Maysville),3.1081E+11,310810010220-03,"Wiley Post Memorial (Maysville) Lake, Site 3",3,1.007894737,mg/l,Total Nitrogen,Mcclain,OK,US,34.868964,-97.372544
+Wiley Post Memorial (Maysville),3.1081E+11,310810010220-04,"Wiley Post Memorial (Maysville) Lake, Site 4",4,1.043928571,mg/l,Total Nitrogen,Mcclain,OK,US,34.86988,-97.38199
+Wiley Post Memorial (Maysville),3.1081E+11,310810010220-05,"Wiley Post Memorial (Maysville) Lake, Site 5",5,0.886428571,mg/l,Total Nitrogen,Mcclain,OK,US,34.865206,-97.387188
+Wister,2.201E+11,220100020020-01,"Wister Lake, Site 1",1,0.656018519,mg/l,Total Nitrogen,Le Flore,OK,US,34.940133,-94.724117
+Wister,2.201E+11,220100020020-02,"Wister Lake, Site 2",2,0.656764706,mg/l,Total Nitrogen,Le Flore,OK,US,34.937569,-94.758336
+Wister,2.201E+11,220100020020-03,"Wister Lake, Site 3",3,0.602878788,mg/l,Total Nitrogen,Le Flore,OK,US,34.933825,-94.781606
+Wister,2.201E+11,220100020020-04,"Wister Lake, Site 4",4,0.62,mg/l,Total Nitrogen,Le Flore,OK,US,34.930513,-94.742789
+Wister,2.201E+11,220100020020-05,"Wister Lake, Site 5",5,0.628571429,mg/l,Total Nitrogen,Le Flore,OK,US,34.946338,-94.730368
