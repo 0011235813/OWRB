@@ -1,0 +1,556 @@
+﻿Stream,WaterbodyOriginalNames,WaterbodySiteName,MonitoringID,Parameter,TrendConc,TrendConcNum,ChangeinConc,Units,PerChangeConc,ChangeinFlux,PerChangeFlux
+Arkansas River,Arkansas River@MUSKOGEE,Arkansas at Muskogee,120400010260-001AT,Total Nitrogen,No Likely Trend,0,0.0384,mg/L,3.36,4.52 10^6 kg/year,16.85%
+Arkansas River,Arkansas River@MUSKOGEE,Arkansas at Muskogee,120400010260-001AT,Total Phosphorus,Likely Upward,1,0.00843,mg/L,5.91,0.663 10^6 kg/year,21.19%
+Arkansas River,Arkansas River@MUSKOGEE,Arkansas at Muskogee,120400010260-001AT,Conductivity,No Likely Trend,0,-27.5,uS/cm,-3.57,Not applicable,Not Applicable
+Arkansas River,Arkansas River@MUSKOGEE,Arkansas at Muskogee,120400010260-001AT,Hardness,Likely Downward,-1,-5.24,mg/L,3.1,Not applicable,Not Applicable
+Arkansas River,Arkansas River@MUSKOGEE,Arkansas at Muskogee,120400010260-001AT,Chlorophyll,Likely Downward,-1,-3.16,ug/L,-15.65,Not applicable,Not Applicable
+Arkansas River,Arkansas@Muskogee,Arkansas at Muskogee,120400010260-001AT,Dissolved oxygen [DO] (mg/l),Highly Likely Upward,3,0.05572,mg/L,0,N/A,N/A
+Arkansas River,Arkansas@Muskogee,Arkansas at Muskogee,120400010260-001AT,"Temperature, water (deg C)",No Likely Trend,0,0,deg C,0,N/A,N/A
+Arkansas River,Arkansas@Muskogee,Arkansas at Muskogee,120400010260-001AT,Turbidity (NTU),Highly Likely Downward,-3,-0.6618,NTU,0,N/A,N/A
+Arkansas River,Arkansas River@HASKELL,Arkansas at Haskell,120410010080-001AT,Total Nitrogen,Highly Likely Upward,3,0.225,mg/L,19.48,1.18 10^ kg/year,11.23%
+Arkansas River,Arkansas River@HASKELL,Arkansas at Haskell,120410010080-001AT,Total Phosphorus,Highly Likely Upward,3,0.0354,mg/L,18.59, -0.353 10^6 kg/year,-15.23%
+Arkansas River,Arkansas River@HASKELL,Arkansas at Haskell,120410010080-001AT,Conductivity,No Likely Trend,0,85.3,uS/cm,5.61,Not applicable,Not Applicable
+Arkansas River,Arkansas River@HASKELL,Arkansas at Haskell,120410010080-001AT,Hardness,Likely Downward,-1,-1.92,mg/L,-0.78,Not applicable,Not Applicable
+Arkansas River,Arkansas River@HASKELL,Arkansas at Haskell,120410010080-001AT,Chlorophyll,Highly Likely Upward,3,7.77,ug/L,40.17,Not applicable,Not Applicable
+Arkansas River,Arkansas@Haskell,Arkansas at Haskell,120410010080-001AT,Dissolved oxygen [DO] (mg/l),Highly Likely Upward,3,0.1197,mg/L,0,N/A,N/A
+Arkansas River,Arkansas@Haskell,Arkansas at Haskell,120410010080-001AT,"Temperature, water (deg C)",Somewhat Likely Upward,2,0.09619,deg C,0,N/A,N/A
+Arkansas River,Arkansas@Haskell,Arkansas at Haskell,120410010080-001AT,Turbidity (NTU),Somewhat Likely Downward,-2,-0.2438,NTU,0,N/A,N/A
+Arkansas River,Arkansas@Bixby,Arkansas at Bixby,120420010010-001AT,Dissolved oxygen [DO] (mg/l),Highly Likely Upward,3,0.313,mg/L,0,N/A,N/A
+Arkansas River,Arkansas@Bixby,Arkansas at Bixby,120420010010-001AT,"Temperature, water (deg C)",No Likely Trend,0,0,deg C,0,N/A,N/A
+Arkansas River,Arkansas@Bixby,Arkansas at Bixby,120420010010-001AT,Turbidity (NTU),Highly Likely Downward,-3,-0.9695,NTU,0,N/A,N/A
+Arkansas River,Arkansas@SandSprings,Arkansas at SandSprings,120420010130-001AT,Dissolved oxygen [DO] (mg/l),Highly Likely Upward,3,0.2198,mg/L,0,N/A,N/A
+Arkansas River,Arkansas@SandSprings,Arkansas at SandSprings,120420010130-001AT,"Temperature, water (deg C)",No Likely Trend,0,0,deg C,0,N/A,N/A
+Arkansas River,Arkansas@SandSprings,Arkansas at SandSprings,120420010130-001AT,Turbidity (NTU),No Likely Trend,0,0,NTU,0,N/A,N/A
+Bird Creek,Bird Creek@PORT OF CATOOSA,Bird Creek at Port of Catoosa,121300010010-001AT,Total Nitrogen,Highly Likely Upward,3,0.561,mg/L,23.33,0.0681 10^6 kg/year,4.37%
+Bird Creek,Bird Creek@PORT OF CATOOSA,Bird Creek at Port of Catoosa,121300010010-001AT,Total Phosphorus,Likely Downward,-1,-0.0581,mg/L,12.9, -0.711 10^6 kg/year,-34.34%
+Bird Creek,Bird Creek@PORT OF CATOOSA,Bird Creek at Port of Catoosa,121300010010-001AT,Conductivity,Likely Upward,1,34.2,uS/cm,9.11,Not applicable,Not Applicable
+Bird Creek,Bird Creek@PORT OF CATOOSA,Bird Creek at Port of Catoosa,121300010010-001AT,Hardness,Likely Upward,1,10.4,mg/L,8.01,Not applicable,Not Applicable
+Bird Creek,Bird Creek@PORT OF CATOOSA,Bird Creek at Port of Catoosa,121300010010-001AT,Chlorophyll,Somewhat Likely Upward,2,3.05,ug/L,43.27,Not applicable,Not Applicable
+Bird Creek,Bird@PortofCatoosa,Bird Creek at Port of Catoosa,121300010010-001AT,Dissolved oxygen [DO] (mg/l),Highly Likely Upward,3,0.08908,mg/L,0,N/A,N/A
+Bird Creek,Bird@PortofCatoosa,Bird Creek at Port of Catoosa,121300010010-001AT,"Temperature, water (deg C)",No Likely Trend,0,0,deg C,0,N/A,N/A
+Bird Creek,Bird@PortofCatoosa,Bird Creek at Port of Catoosa,121300010010-001AT,Turbidity (NTU),Highly Likely Downward,-3,-0.7306,NTU,0,N/A,N/A
+Bird Creek,Bird@Avant,Bird at Avant,121300020010-001RS,Dissolved oxygen [DO] (mg/l),Highly Likely Upward,3,0.1151,mg/L,0,N/A,N/A
+Bird Creek,Bird@Avant,Bird at Avant,121300020010-001RS,"Temperature, water (deg C)",No Likely Trend,0,0,deg C,0,N/A,N/A
+Bird Creek,Bird@Avant,Bird at Avant,121300020010-001RS,Turbidity (NTU),Somewhat Likely Downward,-2,-0.6877,NTU,0,N/A,N/A
+Caney River,Caney River@RAMONA,Caney at Ramona,121400010010-001AT,Total Nitrogen,Highly Likely Upward,3,0.494,mg/L,48.92,0.418 10^6 kg/year,25.66%
+Caney River,Caney River@RAMONA,Caney at Ramona,121400010010-001AT,Total Phosphorus,Likely Downward,-1,-0.0398,mg/L,-26.86, -0.12 10^6 kg/year,-36.84%
+Caney River,Caney River@RAMONA,Caney at Ramona,121400010010-001AT,Conductivity,No Likely Trend,0,0.7,uS/cm,0.04,Not applicable,Not Applicable
+Caney River,Caney River@RAMONA,Caney at Ramona,121400010010-001AT,Hardness,No Likely Trend,0,14.3,mg/L,2.29,Not applicable,Not Applicable
+Caney River,Caney River@RAMONA,Caney at Ramona,121400010010-001AT,Chlorophyll,No Likely Trend,0,-2.47,ug/L,-14.55,Not applicable,Not Applicable
+Caney River,Caney@Ramona,Caney at Ramona,121400010010-001AT,Dissolved oxygen [DO] (mg/l),Highly Likely Upward,3,0.08689,mg/L,0,N/A,N/A
+Caney River,Caney@Ramona,Caney at Ramona,121400010010-001AT,"Temperature, water (deg C)",No Likely Trend,0,0,deg C,0,N/A,N/A
+Caney River,Caney@Ramona,Caney at Ramona,121400010010-001AT,Turbidity (NTU),Highly Likely Downward,-3,-1.379,NTU,0,N/A,N/A
+Verdigris River,Verdigris River@WAGONER,Verdigris River at Wagoner,121500010200-001AT,Total Nitrogen,Not Calculated,0.1,0.1,mg/L,0,,
+Verdigris River,Verdigris River@WAGONER,Verdigris River at Wagoner,121500010200-001AT,Total Phosphorus,Not Calculated,0.1,0.1,mg/L,0,,
+Verdigris River,Verdigris River@WAGONER,Verdigris River at Wagoner,121500010200-001AT,Conductivity,Not Calculated,0.1,0.1,uS/cm,0,Not applicable,Not Applicable
+Verdigris River,Verdigris River@WAGONER,Verdigris River at Wagoner,121500010200-001AT,Hardness,Not Calculated,0.1,0.1,mg/L,0,Not applicable,Not Applicable
+Verdigris River,Verdigris River@WAGONER,Verdigris River at Wagoner,121500010200-001AT,Chlorophyll,Not Calculated,0.1,0.1,ug/L,0,Not applicable,Not Applicable
+Verdigris River,Verdigris@Wagoner,Verdigris River at Wagoner,121500010200-001AT,Dissolved oxygen [DO] (mg/l),Highly Likely Upward,3,0.0779,mg/L,0,N/A,N/A
+Verdigris River,Verdigris@Wagoner,Verdigris River at Wagoner,121500010200-001AT,"Temperature, water (deg C)",No Likely Trend,0,0,deg C,0,N/A,N/A
+Verdigris River,Verdigris@Wagoner,Verdigris River at Wagoner,121500010200-001AT,Turbidity (NTU),Highly Likely Downward,-3,-0.7606,NTU,0,N/A,N/A
+Verdigris River,Verdigris@Inola,Verdigris at Inola,121500020260-001AT,Dissolved oxygen [DO] (mg/l),No Likely Trend,0,0,mg/L,0,N/A,N/A
+Verdigris River,Verdigris@Inola,Verdigris at Inola,121500020260-001AT,"Temperature, water (deg C)",No Likely Trend,0,0,deg C,0,N/A,N/A
+Verdigris River,Verdigris@Inola,Verdigris at Inola,121500020260-001AT,Turbidity (NTU),No Likely Trend,0,0,NTU,0,N/A,N/A
+Verdigris River,Verdigris@Keetonville,Verdigris at Keetonville,121500030010-001AT,Dissolved oxygen [DO] (mg/l),Highly Likely Upward,3,0.114,mg/L,0,N/A,N/A
+Verdigris River,Verdigris@Keetonville,Verdigris at Keetonville,121500030010-001AT,"Temperature, water (deg C)",No Likely Trend,0,0,deg C,0,N/A,N/A
+Verdigris River,Verdigris@Keetonville,Verdigris at Keetonville,121500030010-001AT,Turbidity (NTU),Likely Downward,-1,-0.8623,NTU,0,N/A,N/A
+Verdigris River,Verdigris River@LENAPAH,Verdigris River at Lenapah,121510020010-001AT,Total Nitrogen,Somewhat Likely Upward,2,0.52,mg/L,48.08,2.78 10^6 kg/year,64.76%
+Verdigris River,Verdigris River@LENAPAH,Verdigris River at Lenapah,121510020010-001AT,Total Phosphorus,Likely Upward,1,0.0358,mg/L,21.95,0.544 10^6 kg/year,59.79%
+Verdigris River,Verdigris River@LENAPAH,Verdigris River at Lenapah,121510020010-001AT,Conductivity,Highly Likely Upward,3,71,uS/cm,19.73,Not applicable,Not Applicable
+Verdigris River,Verdigris River@LENAPAH,Verdigris River at Lenapah,121510020010-001AT,Hardness,Highly Likely Upward,3,29.2,mg/L,18.31,Not applicable,Not Applicable
+Verdigris River,Verdigris River@LENAPAH,Verdigris River at Lenapah,121510020010-001AT,Chlorophyll,Likely Upward,1,6.88,ug/L,53.42,Not applicable,Not Applicable
+Verdigris River,Verdigris@Lenapah,Verdigris River at Lenapah,121510020010-001AT,Dissolved oxygen [DO] (mg/l),Highly Likely Upward,3,0.08937,mg/L,0,N/A,N/A
+Verdigris River,Verdigris@Lenapah,Verdigris River at Lenapah,121510020010-001AT,"Temperature, water (deg C)",Likely Upward,1,0.1348,deg C,0,N/A,N/A
+Verdigris River,Verdigris@Lenapah,Verdigris River at Lenapah,121510020010-001AT,Turbidity (NTU),Somewhat Likely Downward,-2,-0.5156,NTU,0,N/A,N/A
+Neosho River,Neosho River@CHOUTEAU,Neosho River at Chouteau,121600010280-001AT,Total Nitrogen,No Likely Trend,0,-0.0193,mg/L,-1.6,2.65 10^6 kg/year,24.51%
+Neosho River,Neosho River@CHOUTEAU,Neosho River at Chouteau,121600010280-001AT,Total Phosphorus,Highly Likely Downward,-3,-0.129,mg/L,-44.19, -0.0795 10^6 kg/year,-6.38%
+Neosho River,Neosho River@CHOUTEAU,Neosho River at Chouteau,121600010280-001AT,Conductivity,Highly Likely Upward,3,63.2,uS/cm,23.68,Not applicable,Not Applicable
+Neosho River,Neosho River@CHOUTEAU,Neosho River at Chouteau,121600010280-001AT,Hardness,Highly Likely Upward,3,14.9,mg/L,12.28,Not applicable,Not Applicable
+Neosho River,Neosho River@CHOUTEAU,Neosho River at Chouteau,121600010280-001AT,Chlorophyll,Likely Downward,-1,-4.81,ug/L,25.56,Not applicable,Not Applicable
+Neosho River,Neosho@Chouteau,Neosho River at Chouteau,121600010280-001AT,Dissolved oxygen [DO] (mg/l),Somewhat Likely Upward,2,0.04841,mg/L,0,N/A,N/A
+Neosho River,Neosho@Chouteau,Neosho River at Chouteau,121600010280-001AT,"Temperature, water (deg C)",No Likely Trend,0,0,deg C,0,N/A,N/A
+Neosho River,Neosho@Chouteau,Neosho River at Chouteau,121600010280-001AT,Turbidity (NTU),Highly Likely Downward,-3,-0.2,NTU,0,N/A,N/A
+Spring Creek,Spring@Murphy,Spring at Murphy,121600010290-001AT,Dissolved oxygen [DO] (mg/l),Highly Likely Upward,3,0.05861,mg/L,0,N/A,N/A
+Spring Creek,Spring@Murphy,Spring at Murphy,121600010290-001AT,"Temperature, water (deg C)",Highly Likely Upward,3,0.06203,deg C,0,N/A,N/A
+Spring Creek,Spring@Murphy,Spring at Murphy,121600010290-001AT,Turbidity (NTU),No Likely Trend,0,0,NTU,0,N/A,N/A
+Neosho River,Neosho@Langley,Neosho at Langley,121600020170-001AT,Dissolved oxygen [DO] (mg/l),Somewhat Likely Upward,2,0.05119,mg/L,0,N/A,N/A
+Neosho River,Neosho@Langley,Neosho at Langley,121600020170-001AT,"Temperature, water (deg C)",No Likely Trend,0,0,deg C,0,N/A,N/A
+Neosho River,Neosho@Langley,Neosho at Langley,121600020170-001AT,Turbidity (NTU),Highly Likely Downward,-3,-0.1039,NTU,0,N/A,N/A
+Neosho River,Neosho@ConnorBridge,Neosho at ConnorBridge,121600040010-001AT,Dissolved oxygen [DO] (mg/l),No Likely Trend,0,0,mg/L,0,N/A,N/A
+Neosho River,Neosho@ConnorBridge,Neosho at ConnorBridge,121600040010-001AT,"Temperature, water (deg C)",No Likely Trend,0,0,deg C,0,N/A,N/A
+Neosho River,Neosho@ConnorBridge,Neosho at ConnorBridge,121600040010-001AT,Turbidity (NTU),Somewhat Likely Downward,-2,-2.91,NTU,0,N/A,N/A
+Neosho River,Neosho@Commerce,Neosho at Commerce,121600040220-001AT,Dissolved oxygen [DO] (mg/l),Likely Upward,1,0.0409,mg/L,0,N/A,N/A
+Neosho River,Neosho@Commerce,Neosho at Commerce,121600040220-001AT,"Temperature, water (deg C)",No Likely Trend,0,0,deg C,0,N/A,N/A
+Neosho River,Neosho@Commerce,Neosho at Commerce,121600040220-001AT,Turbidity (NTU),Likely Downward,-1,-0.8737,NTU,0,N/A,N/A
+Big Cabin Creek,BigCabin@BigCabin,BigCabin at BigCabin,121600060060-001AT,Dissolved oxygen [DO] (mg/l),No Likely Trend,0,0,mg/L,0,N/A,N/A
+Big Cabin Creek,BigCabin@BigCabin,BigCabin at BigCabin,121600060060-001AT,"Temperature, water (deg C)",No Likely Trend,0,0,deg C,0,N/A,N/A
+Big Cabin Creek,BigCabin@BigCabin,BigCabin at BigCabin,121600060060-001AT,Turbidity (NTU),No Likely Trend,0,0,NTU,0,N/A,N/A
+Spring River,Spring River@QUAPAW,Spring River at Quapaw,121600070010-001AT,Total Nitrogen,Highly Likely Upward,3,0.887,mg/L,44.75,3.78 10^6 kg/year,75.81%
+Spring River,Spring River@QUAPAW,Spring River at Quapaw,121600070010-001AT,Total Phosphorus,Likely Downward,-1,-0.0315,mg/L,-13.41,0.275 10^6 kg/year,44.90%
+Spring River,Spring River@QUAPAW,Spring River at Quapaw,121600070010-001AT,Conductivity,Highly Likely Upward,3,27.5,uS/cm,27.5,Not applicable,Not Applicable
+Spring River,Spring River@QUAPAW,Spring River at Quapaw,121600070010-001AT,Hardness,Highly Likely Upward,3,22.2,mg/L,14.69,Not applicable,Not Applicable
+Spring River,Spring River@QUAPAW,Spring River at Quapaw,121600070010-001AT,Chlorophyll,Likely Upward,1,2.64,ug/L,30.2,Not applicable,Not Applicable
+Spring River,Spring@Quapaw,Spring River at Quapaw,121600070010-001AT,Dissolved oxygen [DO] (mg/l),Highly Likely Upward,3,0.04844,mg/L,0,N/A,N/A
+Spring River,Spring@Quapaw,Spring River at Quapaw,121600070010-001AT,"Temperature, water (deg C)",Somewhat Likely Downward,-2,-0.1018,deg C,0,N/A,N/A
+Spring River,Spring@Quapaw,Spring River at Quapaw,121600070010-001AT,Turbidity (NTU),Highly Likely Downward,-3,-0.5328,NTU,0,N/A,N/A
+Illinois River,Illinois River@TAHLEQUAH,Illinois River at Tahlequah,121700030010-001AT,Total Nitrogen,Highly Likely Downward,-3,-0.0996,mg/L,-63.92, -0.0361 10^6 kg/year,-17.73%
+Illinois River,Illinois River@TAHLEQUAH,Illinois River at Tahlequah,121700030010-001AT,Total Phosphorus,Highly Likely Downward,-3,-0.0996,mg/L,-60.4, -0.0361 10^6 kg/year,-9.66%
+Illinois River,Illinois River@TAHLEQUAH,Illinois River at Tahlequah,121700030010-001AT,Conductivity,Highly Likely Upward,3,45,uS/cm,18.05,Not applicable,Not Applicable
+Illinois River,Illinois River@TAHLEQUAH,Illinois River at Tahlequah,121700030010-001AT,Hardness,Highly Likely Upward,3,18.7,mg/L,17.89,Not applicable,Not Applicable
+Illinois River,Illinois River@TAHLEQUAH,Illinois River at Tahlequah,121700030010-001AT,Chlorophyll,No Likely Trend,0,0.125,ug/L,3.22,Not applicable,Not Applicable
+Illinois River,Illinois@Tahlequah,Illinois River at Tahlequah,121700030010-001AT,Dissolved oxygen [DO] (mg/l),Highly Likely Upward,3,0.108,mg/L,0,N/A,N/A
+Illinois River,Illinois@Tahlequah,Illinois River at Tahlequah,121700030010-001AT,"Temperature, water (deg C)",No Likely Trend,0,0,deg C,0,N/A,N/A
+Illinois River,Illinois@Tahlequah,Illinois River at Tahlequah,121700030010-001AT,Turbidity (NTU),Highly Likely Downward,-3,-0.04967,NTU,0,N/A,N/A
+Illinois River,Illinois River@WATTS,Illinois River at Watts,121700030350-001AT,Total Nitrogen,No Likely Trend,0,0.027,mg/L,1.07,0.288 10^6 kg/year,17.40%
+Illinois River,Illinois River@WATTS,Illinois River at Watts,121700030350-001AT,Total Phosphorus,Highly Likely Downward,-3,-0.257,mg/L,-79.49, -0.121 10^6 kg/year,-44.78%
+Illinois River,Illinois River@WATTS,Illinois River at Watts,121700030350-001AT,Conductivity,Highly Likely Upward,3,39.7,uS/cm,13.96,Not applicable,Not Applicable
+Illinois River,Illinois River@WATTS,Illinois River at Watts,121700030350-001AT,Hardness,Highly Likely Upward,3,19.9,mg/L,17.95,Not applicable,Not Applicable
+Illinois River,Illinois River@WATTS,Illinois River at Watts,121700030350-001AT,Chlorophyll,Highly Likely Upward,3,1.38,ug/L,57.28,Not applicable,Not Applicable
+Illinois River,Illinois@Watts,Illinois River at Watts,121700030350-001AT,Dissolved oxygen [DO] (mg/l),Highly Likely Upward,3,0.09806,mg/L,0,N/A,N/A
+Illinois River,Illinois@Watts,Illinois River at Watts,121700030350-001AT,"Temperature, water (deg C)",No Likely Trend,0,0,deg C,0,N/A,N/A
+Illinois River,Illinois@Watts,Illinois River at Watts,121700030350-001AT,Turbidity (NTU),Highly Likely Downward,-3,-0.2668,NTU,0,N/A,N/A
+Caney Creek,Caney@Barber,Caney at Barber,121700040010-001AT,Dissolved oxygen [DO] (mg/l),No Likely Trend,0,0,mg/L,0,N/A,N/A
+Caney Creek,Caney@Barber,Caney at Barber,121700040010-001AT,"Temperature, water (deg C)",Highly Likely Downward,-3,-0.28,deg C,0,N/A,N/A
+Caney Creek,Caney@Barber,Caney at Barber,121700040010-001AT,Turbidity (NTU),Highly Likely Downward,-3,-0.09197,NTU,0,N/A,N/A
+Baron Fork,Baron Fork@ELDON,Baron Fork at Eldon,121700050010-001AT,Total Nitrogen,Likely Downward,-1,-0.248,mg/L,-15.19,0.127 10^6 kg/year,19.27%
+Baron Fork,Baron Fork@ELDON,Baron Fork at Eldon,121700050010-001AT,Total Phosphorus,Highly Likely Downward,-3,-0.0162,mg/L,-32.56, -0.00961 10^6 kg/year,-20.72%
+Baron Fork,Baron Fork@ELDON,Baron Fork at Eldon,121700050010-001AT,Conductivity,Highly Likely Upward,3,31.7,uS/cm,17.3,Not applicable,Not Applicable
+Baron Fork,Baron Fork@ELDON,Baron Fork at Eldon,121700050010-001AT,Hardness,Highly Likely Upward,3,13.2,mg/L,14.74,Not applicable,Not Applicable
+Baron Fork,Baron Fork@ELDON,Baron Fork at Eldon,121700050010-001AT,Chlorophyll,Likely Upward,1,0.194,ug/L,12.82,Not applicable,Not Applicable
+Barren Fork,BarrenFk@Eldon,Baron Fork at Eldon,121700050010-001AT,Dissolved oxygen [DO] (mg/l),Highly Likely Upward,3,0.09748,mg/L,0,N/A,N/A
+Barren Fork,BarrenFk@Eldon,Baron Fork at Eldon,121700050010-001AT,"Temperature, water (deg C)",No Likely Trend,0,0,deg C,0,N/A,N/A
+Barren Fork,BarrenFk@Eldon,Baron Fork at Eldon,121700050010-001AT,Turbidity (NTU),Highly Likely Downward,-3,-0.05043,NTU,0,N/A,N/A
+Flint Creek,Flint Creek@FLINT,Flint Creek at Flint,121700060010-001AT,Total Nitrogen,Highly Likely Downward,-3,-0.98,mg/L,-30.28, -0.00637 10^6 kg/year,-1.92%
+Flint Creek,Flint Creek@FLINT,Flint Creek at Flint,121700060010-001AT,Total Phosphorus,Highly Likely Downward,-3,-0.136,mg/L,-64.35, -0.00978 10^6 kg/year,-46.81%
+Flint Creek,Flint Creek@FLINT,Flint Creek at Flint,121700060010-001AT,Conductivity,Likely Upward,1,22.4,uS/cm,8.1,Not applicable,Not Applicable
+Flint Creek,Flint Creek@FLINT,Flint Creek at Flint,121700060010-001AT,Hardness,Highly Likely Upward,3,18.2,mg/L,17.58,Not applicable,Not Applicable
+Flint Creek,Flint Creek@FLINT,Flint Creek at Flint,121700060010-001AT,Chlorophyll,Highly Likely Upward,3,0.33,ug/L,38.82,Not applicable,Not Applicable
+Flint Creek,Flint@Flint,Flint Creek at Flint,121700060010-001AT,Dissolved oxygen [DO] (mg/l),Highly Likely Upward,3,0.08418,mg/L,0,N/A,N/A
+Flint Creek,Flint@Flint,Flint Creek at Flint,121700060010-001AT,"Temperature, water (deg C)",No Likely Trend,0,0,deg C,0,N/A,N/A
+Flint Creek,Flint@Flint,Flint Creek at Flint,121700060010-001AT,Turbidity (NTU),No Likely Trend,0,0,NTU,0,N/A,N/A
+Sager Creek,Sager@WestSiloamSprings,Sager at West Siloam Springs,121700060080-001AT,Dissolved oxygen [DO] (mg/l),No Likely Trend,0,0,mg/L,0,N/A,N/A
+Sager Creek,Sager@WestSiloamSprings,Sager at West Siloam Springs,121700060080-001AT,"Temperature, water (deg C)",No Likely Trend,0,0,deg C,0,N/A,N/A
+Sager Creek,Sager@WestSiloamSprings,Sager at West Siloam Springs,121700060080-001AT,Turbidity (NTU),No Likely Trend,0,0,NTU,0,N/A,N/A
+Poteau River,Poteau River@PANAMA,Poteau River at Panama,220100010010-001AT,Total Nitrogen,No Likely Trend,0,0.0705,mg/L,7.05,0.0394 10^6 kg/year,1.92%
+Poteau River,Poteau River@PANAMA,Poteau River at Panama,220100010010-001AT,Total Phosphorus,Highly Likely Downward,-3,-0.0739,mg/L,-41.33, -0.133 10^6 kg/year,-35.84%
+Poteau River,Poteau River@PANAMA,Poteau River at Panama,220100010010-001AT,Conductivity,Somewhat Likely Upward,2,51.6,uS/cm,41.56,Not applicable,Not Applicable
+Poteau River,Poteau River@PANAMA,Poteau River at Panama,220100010010-001AT,Hardness,Likely Upward,1,6,mg/L,14.14,Not applicable,Not Applicable
+Poteau River,Poteau River@PANAMA,Poteau River at Panama,220100010010-001AT,Chlorophyll,No Likely Trend,0,0.47,ug/L,2.92,Not applicable,Not Applicable
+Poteau River,Poteau@Pocola,Poteau at Pocola,220100010010-001AT,Dissolved oxygen [DO] (mg/l),Highly Likely Upward,3,0.07603,mg/L,0,N/A,N/A
+Poteau River,Poteau@Pocola,Poteau at Pocola,220100010010-001AT,"Temperature, water (deg C)",Likely Upward,1,0.0519,deg C,0,N/A,N/A
+Poteau River,Poteau@Pocola,Poteau at Pocola,220100010010-001AT,Turbidity (NTU),Highly Likely Downward,-3,-1.101,NTU,0,N/A,N/A
+Poteau River,Poteau@Heavener,Poteau at Heavener,220100020010-001AT,Dissolved oxygen [DO] (mg/l),Highly Likely Upward,3,0.08022,mg/L,0,N/A,N/A
+Poteau River,Poteau@Heavener,Poteau at Heavener,220100020010-001AT,"Temperature, water (deg C)",No Likely Trend,0,0,deg C,0,N/A,N/A
+Poteau River,Poteau@Heavener,Poteau at Heavener,220100020010-001AT,Turbidity (NTU),Highly Likely Downward,-3,-0.6328,NTU,0,N/A,N/A
+Fourche-Maline Creek,Fourche-Maline Creek@RED OAK,Fourche-Maline Creek at Red Oak,220100040020-001AT,Total Nitrogen,Somewhat Likely Upward,2,0.146,mg/L,-0.68,0.0281 10^6 kg/year,26.03%
+Fourche-Maline Creek,Fourche-Maline Creek@RED OAK,Fourche-Maline Creek at Red Oak,220100040020-001AT,Total Phosphorus,Somewhat Likely Downward,-2,-0.0248,mg/L,-25.48, -0.00623 10^6 kg/year,-32.94%
+Fourche-Maline Creek,Fourche-Maline Creek@RED OAK,Fourche-Maline Creek at Red Oak,220100040020-001AT,Conductivity,Somewhat Likely Upward,2,72.8,uS/cm,62.26,Not applicable,Not Applicable
+Fourche-Maline Creek,Fourche-Maline Creek@RED OAK,Fourche-Maline Creek at Red Oak,220100040020-001AT,Hardness,Highly Likely Upward,3,18.2,mg/L,41.5,Not applicable,Not Applicable
+Fourche-Maline Creek,Fourche-Maline Creek@RED OAK,Fourche-Maline Creek at Red Oak,220100040020-001AT,Chlorophyll,Somewhat Likely Downward,-2,-8.11,ug/L,-71.21,Not applicable,Not Applicable
+Fourche-Maline Creek,Fourche@RedOak,Fourche-Maline Creek at Red Oak,220100040020-001AT,Dissolved oxygen [DO] (mg/l),No Likely Trend,0,0,mg/L,0,N/A,N/A
+Fourche-Maline Creek,Fourche@RedOak,Fourche-Maline Creek at Red Oak,220100040020-001AT,"Temperature, water (deg C)",No Likely Trend,0,0,deg C,0,N/A,N/A
+Fourche-Maline Creek,Fourche@RedOak,Fourche-Maline Creek at Red Oak,220100040020-001AT,Turbidity (NTU),Highly Likely Downward,-3,-0.5123,NTU,0,N/A,N/A
+Arkansas River,Arkansas River@MOFFETT,Arkansas River at Moffett,220200010010-001AT,Total Nitrogen,No Likely Trend,0,-0.149,mg/L,-13.37, -3.1 10^6 kg/year,-6.78%
+Arkansas River,Arkansas River@MOFFETT,Arkansas River at Moffett,220200010010-001AT,Total Phosphorus,Likely Upward,1,0.0311,mg/L,32.84,1.23 10^6 kg/year,29.65%
+Arkansas River,Arkansas River@MOFFETT,Arkansas River at Moffett,220200010010-001AT,Conductivity,Likely Upward,1,118,uS/cm,23.95,Not applicable,Not Applicable
+Arkansas River,Arkansas River@MOFFETT,Arkansas River at Moffett,220200010010-001AT,Hardness,No Likely Trend,0,20.4,mg/L,16.2,Not applicable,Not Applicable
+Arkansas River,Arkansas River@MOFFETT,Arkansas River at Moffett,220200010010-001AT,Chlorophyll,Likely Downward,-1,-13.8,ug/L,-58.78,Not applicable,Not Applicable
+Arkansas River,Arkansas@Moffett,Arkansas River at Moffett,220200010010-001AT,Dissolved oxygen [DO] (mg/l),Highly Likely Upward,3,0.08191,mg/L,0,N/A,N/A
+Arkansas River,Arkansas@Moffett,Arkansas River at Moffett,220200010010-001AT,"Temperature, water (deg C)",No Likely Trend,0,-0.1324,deg C,0,N/A,N/A
+Arkansas River,Arkansas@Moffett,Arkansas River at Moffett,220200010010-001AT,Turbidity (NTU),Somewhat Likely Downward,-2,-0.2678,NTU,0,N/A,N/A
+Lee Creek,Lee Creek@SHORT,Lee Creek at Short,220200050010-001AT,Total Nitrogen,Likely Upward,1,0.0476,mg/L,19.64,0.0442 10^6 kg/year,13.19%
+Lee Creek,Lee Creek@SHORT,Lee Creek at Short,220200050010-001AT,Total Phosphorus,No Likely Trend,0,-0.00125,mg/L,-7.02,0.00148 10^6 kg/year,6.77%
+Lee Creek,Lee Creek@SHORT,Lee Creek at Short,220200050010-001AT,Conductivity,Highly Likely Upward,3,38.6,uS/cm,59.65,Not applicable,Not Applicable
+Lee Creek,Lee Creek@SHORT,Lee Creek at Short,220200050010-001AT,Hardness,No Likely Trend,0,-1.62,mg/L,-3.49,Not applicable,Not Applicable
+Lee Creek,Lee Creek@SHORT,Lee Creek at Short,220200050010-001AT,Chlorophyll,Likely Downward,-1,-0.329,ug/L,-15.75,Not applicable,Not Applicable
+Lee Creek,Lee@Short,Lee Creek at Short,220200050010-001AT,Dissolved oxygen [DO] (mg/l),Highly Likely Upward,3,0.03756,mg/L,0,N/A,N/A
+Lee Creek,Lee@Short,Lee Creek at Short,220200050010-001AT,"Temperature, water (deg C)",Likely Upward,1,0.0738,deg C,0,N/A,N/A
+Lee Creek,Lee@Short,Lee Creek at Short,220200050010-001AT,Turbidity (NTU),No Likely Trend,0,0,NTU,0,N/A,N/A
+Little Lee Creek,Little Lee Creek@NICUT,Little Lee Creek at Nicut,220200050040-001AT,Total Nitrogen,Likely Downward,-1,-0.0636,mg/L,-24.29, -0.0163 10^6 kg/year,-24.15%
+Little Lee Creek,Little Lee Creek@NICUT,Little Lee Creek at Nicut,220200050040-001AT,Total Phosphorus,No Likely Trend,0,-0.00005,mg/L,-0.39, -0.000966 10^6 kg/year,-23.33%
+Little Lee Creek,Little Lee Creek@NICUT,Little Lee Creek at Nicut,220200050040-001AT,Conductivity,Likely Upward,1,5.7,uS/cm,4.15,Not applicable,Not Applicable
+Little Lee Creek,Little Lee Creek@NICUT,Little Lee Creek at Nicut,220200050040-001AT,Hardness,No Likely Trend,0,-1.09,mg/L,-1.69,Not applicable,Not Applicable
+Little Lee Creek,Little Lee Creek@NICUT,Little Lee Creek at Nicut,220200050040-001AT,Chlorophyll,Highly Likely Upward,3,0.416,ug/L,55.4,Not applicable,Not Applicable
+Little Lee Creek,LittleLee@Nicut,Little Lee Creek at Nicut,220200050040-001AT,Dissolved oxygen [DO] (mg/l),No Likely Trend,0,0,mg/L,0,N/A,N/A
+Little Lee Creek,LittleLee@Nicut,Little Lee Creek at Nicut,220200050040-001AT,"Temperature, water (deg C)",Somewhat Likely Upward,2,0.1671,deg C,0,N/A,N/A
+Little Lee Creek,LittleLee@Nicut,Little Lee Creek at Nicut,220200050040-001AT,Turbidity (NTU),Highly Likely Downward,-3,-0.05014,NTU,0,N/A,N/A
+Canadian River,Canadian@Whitefield,Canadian at Whitefield,220300000010-001AT,Dissolved oxygen [DO] (mg/l),Highly Likely Upward,3,0.1058,mg/L,0,N/A,N/A
+Canadian River,Canadian@Whitefield,Canadian at Whitefield,220300000010-001AT,"Temperature, water (deg C)",Highly Likely Upward,3,0.1385,deg C,0,N/A,N/A
+Canadian River,Canadian@Whitefield,Canadian at Whitefield,220300000010-001AT,Turbidity (NTU),Somewhat Likely Upward,2,0.1365,NTU,0,N/A,N/A
+Canadian River,Canadian River@CALVIN,Canadian River at Calvin,220600010119-001AT,Total Nitrogen,Highly Likely Upward,3,0.84,mg/L,72.76,1.82 10^6 kg/year,90.47%
+Canadian River,Canadian River@CALVIN,Canadian River at Calvin,220600010119-001AT,Total Phosphorus,Likely Upward,1,0.0613,mg/L,26.31,0.22 10^6 kg/year,34.95%
+Canadian River,Canadian River@CALVIN,Canadian River at Calvin,220600010119-001AT,Conductivity,No Likely Trend,0,-86.5,uS/cm,-8.35,Not applicable,Not Applicable
+Canadian River,Canadian River@CALVIN,Canadian River at Calvin,220600010119-001AT,Hardness,Likely Downward,-1,-40.1,mg/L,-11.91,Not applicable,Not Applicable
+Canadian River,Canadian River@CALVIN,Canadian River at Calvin,220600010119-001AT,Chlorophyll,No Likely Trend,0,1.52,ug/L,4.28,Not applicable,Not Applicable
+Canadian River,Canadian@Calvin,Canadian River at Calvin,220600010119-001AT,Dissolved oxygen [DO] (mg/l),Highly Likely Upward,3,0.07988,mg/L,0,N/A,N/A
+Canadian River,Canadian@Calvin,Canadian River at Calvin,220600010119-001AT,"Temperature, water (deg C)",Likely Downward,-1,-0.1553,deg C,0,N/A,N/A
+Canadian River,Canadian@Calvin,Canadian River at Calvin,220600010119-001AT,Turbidity (NTU),Highly Likely Downward,-3,-0.7873,NTU,0,N/A,N/A
+Brushy Creek,Brushy@Haileyville,Brushy at Haileyville,220600030010-002AT,Dissolved oxygen [DO] (mg/l),Somewhat Likely Upward,2,0.08227,mg/L,0,N/A,N/A
+Brushy Creek,Brushy@Haileyville,Brushy at Haileyville,220600030010-002AT,"Temperature, water (deg C)",No Likely Trend,0,0,deg C,0,N/A,N/A
+Brushy Creek,Brushy@Haileyville,Brushy at Haileyville,220600030010-002AT,Turbidity (NTU),Highly Likely Downward,-3,-1.66,NTU,0,N/A,N/A
+Washita River,Washita@Durwood,Washita at Durwood,310800020010-001AT,Dissolved oxygen [DO] (mg/l),No Likely Trend,0,0,mg/L,0,N/A,N/A
+Washita River,Washita@Durwood,Washita at Durwood,310800020010-001AT,"Temperature, water (deg C)",No Likely Trend,0,0,deg C,0,N/A,N/A
+Washita River,Washita@Durwood,Washita at Durwood,310800020010-001AT,Turbidity (NTU),Highly Likely Downward,-3,-1.812,NTU,0,N/A,N/A
+Washita River,Washita River@PAULS VALLEY,Washita River at Pauls Valley,310810010010-001AT,Total Nitrogen,Somewhat Likely Upward,2,0.398,mg/L,26.56,1.27 10^6 kg/year,72.89%
+Washita River,Washita River@PAULS VALLEY,Washita River at Pauls Valley,310810010010-001AT,Total Phosphorus,No Likely Trend,0,-0.0255,mg/L,-6.37,0.238 10^6 kg/year,24.24%
+Washita River,Washita River@PAULS VALLEY,Washita River at Pauls Valley,310810010010-001AT,Conductivity,Highly Likely Downward,-3,-146,uS/cm,-9.34,Not applicable,Not Applicable
+Washita River,Washita River@PAULS VALLEY,Washita River at Pauls Valley,310810010010-001AT,Hardness,No Likely Trend,0,8.55,mg/L,1.27,Not applicable,Not Applicable
+Washita River,Washita River@PAULS VALLEY,Washita River at Pauls Valley,310810010010-001AT,Chlorophyll,Likely Downward,-1,-30.8,ug/L,-42.75,Not applicable,Not Applicable
+Washita River,Washita@PaulsValley,Washita River at Pauls Valley,310810010010-001AT,Dissolved oxygen [DO] (mg/l),No Likely Trend,0,0,mg/L,0,N/A,N/A
+Washita River,Washita@PaulsValley,Washita River at Pauls Valley,310810010010-001AT,"Temperature, water (deg C)",No Likely Trend,0,0,deg C,0,N/A,N/A
+Washita River,Washita@PaulsValley,Washita River at Pauls Valley,310810010010-001AT,Turbidity (NTU),Somewhat Likely Downward,-2,-1.248,NTU,0,N/A,N/A
+Washita River,Washita@Alex,Washita at Alex,310810020010-001AT,Dissolved oxygen [DO] (mg/l),Highly Likely Upward,3,0.08706,mg/L,0,N/A,N/A
+Washita River,Washita@Alex,Washita at Alex,310810020010-001AT,"Temperature, water (deg C)",No Likely Trend,0,0,deg C,0,N/A,N/A
+Washita River,Washita@Alex,Washita at Alex,310810020010-001AT,Turbidity (NTU),No Likely Trend,0,0,NTU,0,N/A,N/A
+Washita (Anadarko),Washita River@ANADARKO,Washita River at Anadarko,310830010010-001AT,Total Nitrogen,Highly Likely Upward,3,0.787,mg/L,60.6,0.587 10^6 kg/year,72.29%
+Washita (Anadarko),Washita River@ANADARKO,Washita River at Anadarko,310830010010-001AT,Total Phosphorus,Likely Downward,-1,-0.219,mg/L,-48.01, -0.362 10^6 kg/year,-54.99%
+Washita (Anadarko),Washita River@ANADARKO,Washita River at Anadarko,310830010010-001AT,Conductivity,No Likely Trend,0,74.9,uS/cm,4.24,Not applicable,Not Applicable
+Washita (Anadarko),Washita River@ANADARKO,Washita River at Anadarko,310830010010-001AT,Hardness,Likely Upward,1,110,mg/L,13.77,Not applicable,Not Applicable
+Washita (Anadarko),Washita River@ANADARKO,Washita River at Anadarko,310830010010-001AT,Chlorophyll,No Likely Trend,0,10,ug/L,20.81,Not applicable,Not Applicable
+Washita River,Washita@Anadarko,Washita River at Anadarko,310830010010-001AT,Dissolved oxygen [DO] (mg/l),Somewhat Likely Upward,2,0.04681,mg/L,0,N/A,N/A
+Washita River,Washita@Anadarko,Washita River at Anadarko,310830010010-001AT,"Temperature, water (deg C)",No Likely Trend,0,0,deg C,0,N/A,N/A
+Washita River,Washita@Anadarko,Washita River at Anadarko,310830010010-001AT,Turbidity (NTU),Highly Likely Downward,-3,-0.7294,NTU,0,N/A,N/A
+Washita River,Washita@Cordell,Washita at Cordell,310830030010-001AT,Dissolved oxygen [DO] (mg/l),No Likely Trend,0,0,mg/L,0,N/A,N/A
+Washita River,Washita@Cordell,Washita at Cordell,310830030010-001AT,"Temperature, water (deg C)",No Likely Trend,0,0,deg C,0,N/A,N/A
+Washita River,Washita@Cordell,Washita at Cordell,310830030010-001AT,Turbidity (NTU),Likely Downward,-1,-0.247,NTU,0,N/A,N/A
+Washita River,Washita@McClure,Washita at McClure,310840010010-003RS,Dissolved oxygen [DO] (mg/l),No Likely Trend,0,0,mg/L,0,N/A,N/A
+Washita River,Washita@McClure,Washita at McClure,310840010010-003RS,"Temperature, water (deg C)",No Likely Trend,0,0,deg C,0,N/A,N/A
+Washita River,Washita@McClure,Washita at McClure,310840010010-003RS,Turbidity (NTU),Somewhat Likely Downward,-2,-1.061,NTU,0,N/A,N/A
+Red River,Red River@TERRAL,Red River at Terral,311100010190-001AT,Total Nitrogen,Highly Likely Upward,3,1.09,mg/L,68.72,2.35 10^6 kg/year,77.84%
+Red River,Red River@TERRAL,Red River at Terral,311100010190-001AT,Total Phosphorus,No Likely Trend,0,0.0085,mg/L,2.41,0.476 10^6 kg/year,46.00%
+Red River,Red River@TERRAL,Red River at Terral,311100010190-001AT,Conductivity,No Likely Trend,0,100,uS/cm,1.98,Not applicable,Not Applicable
+Red River,Red River@TERRAL,Red River at Terral,311100010190-001AT,Hardness,Likely Upward,1,94.7,mg/L,11.91,Not applicable,Not Applicable
+Red River,Red River@TERRAL,Red River at Terral,311100010190-001AT,Chlorophyll,No Likely Trend,0,-9.12,ug/L,-12.1,Not applicable,Not Applicable
+Red River,Red@Terral,Red River at Terral,311100010190-001AT,Dissolved oxygen [DO] (mg/l),No Likely Trend,0,0,mg/L,0,N/A,N/A
+Red River,Red@Terral,Red River at Terral,311100010190-001AT,"Temperature, water (deg C)",Highly Likely Upward,3,0.1115,deg C,0,N/A,N/A
+Red River,Red@Terral,Red River at Terral,311100010190-001AT,Turbidity (NTU),Somewhat Likely Downward,-2,-1.522,NTU,0,N/A,N/A
+Walnut Bayou,WalnutBayou@Burneyville,WalnutBayou at Burneyville,311100010250-001AT,Dissolved oxygen [DO] (mg/l),Likely Upward,1,0.1192,mg/L,0,N/A,N/A
+Walnut Bayou,WalnutBayou@Burneyville,WalnutBayou at Burneyville,311100010250-001AT,"Temperature, water (deg C)",No Likely Trend,0,0,deg C,0,N/A,N/A
+Walnut Bayou,WalnutBayou@Burneyville,WalnutBayou at Burneyville,311100010250-001AT,Turbidity (NTU),No Likely Trend,0,0,NTU,0,N/A,N/A
+Mud Creek,Mud Creek@COURTNEY,Mud Creek at Courtney,311100040010-001AT,Total Nitrogen,Likely Upward,1,0.358,mg/L,27.53,0.00364 10^6 kg/year,0.89%
+Mud Creek,Mud Creek@COURTNEY,Mud Creek at Courtney,311100040010-001AT,Total Phosphorus,No Likely Trend,0,-0.0346,mg/L,-12.55, -0.0238 10^6 kg/year,-18.50%
+Mud Creek,Mud Creek@COURTNEY,Mud Creek at Courtney,311100040010-001AT,Conductivity,Likely Upward,1,175,uS/cm,26.5,Not applicable,Not Applicable
+Mud Creek,Mud Creek@COURTNEY,Mud Creek at Courtney,311100040010-001AT,Hardness,Likely Upward,1,49.9,mg/L,22.72,Not applicable,Not Applicable
+Mud Creek,Mud Creek@COURTNEY,Mud Creek at Courtney,311100040010-001AT,Chlorophyll,No Likely Trend,0,2.59,ug/L,11.86,Not applicable,Not Applicable
+Mud Creek,Mud@Courtney,Mud Creek at Courtney,311100040010-001AT,Dissolved oxygen [DO] (mg/l),No Likely Trend,0,0,mg/L,0,N/A,N/A
+Mud Creek,Mud@Courtney,Mud Creek at Courtney,311100040010-001AT,"Temperature, water (deg C)",No Likely Trend,0,0,deg C,0,N/A,N/A
+Mud Creek,Mud@Courtney,Mud Creek at Courtney,311100040010-001AT,Turbidity (NTU),No Likely Trend,0,0,NTU,0,N/A,N/A
+Beaver Creek,Beaver@Ryan,Beaver at Ryan,311200000030-001AT,Dissolved oxygen [DO] (mg/l),Highly Likely Upward,3,0.5576,mg/L,0,N/A,N/A
+Beaver Creek,Beaver@Ryan,Beaver at Ryan,311200000030-001AT,"Temperature, water (deg C)",Highly Likely Upward,3,0.6724,deg C,0,N/A,N/A
+Beaver Creek,Beaver@Ryan,Beaver at Ryan,311200000030-001AT,Turbidity (NTU),No Likely Trend,0,0,NTU,0,N/A,N/A
+Cow Creek,Cow@Waurika,Cow at Waurika,311200000060-001AT,Dissolved oxygen [DO] (mg/l),No Likely Trend,0,0,mg/L,0,N/A,N/A
+Cow Creek,Cow@Waurika,Cow at Waurika,311200000060-001AT,"Temperature, water (deg C)",No Likely Trend,0,0,deg C,0,N/A,N/A
+Cow Creek,Cow@Waurika,Cow at Waurika,311200000060-001AT,Turbidity (NTU),Highly Likely Downward,-3,-1.88,NTU,0,N/A,N/A
+East Cache Creek,East Cache Creek@WALTERS,East Cache Creek at Walters,311300010020-001AT,Total Nitrogen,Highly Likely Upward,3,2.68,mg/L,80.76,0.0458 10^6 kg/year,10.91%
+East Cache Creek,East Cache Creek@WALTERS,East Cache Creek at Walters,311300010020-001AT,Total Phosphorus,No Likely Trend,0,0.0644,mg/L,7.5, -0.0157 10^6 kg/year,-16.56%
+East Cache Creek,East Cache Creek@WALTERS,East Cache Creek at Walters,311300010020-001AT,Conductivity,Highly Likely Upward,3,270,uS/cm,43.39,Not applicable,Not Applicable
+East Cache Creek,East Cache Creek@WALTERS,East Cache Creek at Walters,311300010020-001AT,Hardness,Highly Likely Upward,3,61.6,mg/L,31.68,Not applicable,Not Applicable
+East Cache Creek,East Cache Creek@WALTERS,East Cache Creek at Walters,311300010020-001AT,Chlorophyll,Likely Upward,1,3.42,ug/L,15.79,Not applicable,Not Applicable
+East Cache Creek,EastCache@Walters,East Cache Creek at Walters,311300010020-001AT,Dissolved oxygen [DO] (mg/l),Likely Upward,1,0.0276,mg/L,0,N/A,N/A
+East Cache Creek,EastCache@Walters,East Cache Creek at Walters,311300010020-001AT,"Temperature, water (deg C)",Highly Likely Upward,3,0.0777,deg C,0,N/A,N/A
+East Cache Creek,EastCache@Walters,East Cache Creek at Walters,311300010020-001AT,Turbidity (NTU),Highly Likely Downward,-3,-0.693,NTU,0,N/A,N/A
+Red River,Red@Davidson,Red at Davidson,311310010010-001AT,Dissolved oxygen [DO] (mg/l),Highly Likely Upward,3,0.05156,mg/L,0,N/A,N/A
+Red River,Red@Davidson,Red at Davidson,311310010010-001AT,"Temperature, water (deg C)",Highly Likely Upward,3,0.1316,deg C,0,N/A,N/A
+Red River,Red@Davidson,Red at Davidson,311310010010-001AT,Turbidity (NTU),No Likely Trend,0,0,NTU,0,N/A,N/A
+Red River,Red@Burkburnett,Red at Burkburnett,311310010010-002AT,Dissolved oxygen [DO] (mg/l),Likely Downward,-1,-0.2728,mg/L,0,N/A,N/A
+Red River,Red@Burkburnett,Red at Burkburnett,311310010010-002AT,"Temperature, water (deg C)",No Likely Trend,0,0,deg C,0,N/A,N/A
+Red River,Red@Burkburnett,Red at Burkburnett,311310010010-002AT,Turbidity (NTU),Likely Upward,1,5.529,NTU,0,N/A,N/A
+West Cache Creek,WestCache@Taylor,West Cache at Taylor,311310020010-001AT,Dissolved oxygen [DO] (mg/l),Highly Likely Upward,3,0.05293,mg/L,0,N/A,N/A
+West Cache Creek,WestCache@Taylor,West Cache at Taylor,311310020010-001AT,"Temperature, water (deg C)",No Likely Trend,0,0,deg C,0,N/A,N/A
+West Cache Creek,WestCache@Taylor,West Cache at Taylor,311310020010-001AT,Turbidity (NTU),No Likely Trend,0,0,NTU,0,N/A,N/A
+Deep Red Creek,DeepRed@Randlett,DeepRed at Randlett,311310030010-001AT,Dissolved oxygen [DO] (mg/l),No Likely Trend,0,0,mg/L,0,N/A,N/A
+Deep Red Creek,DeepRed@Randlett,DeepRed at Randlett,311310030010-001AT,"Temperature, water (deg C)",No Likely Trend,0,0,deg C,0,N/A,N/A
+Deep Red Creek,DeepRed@Randlett,DeepRed at Randlett,311310030010-001AT,Turbidity (NTU),No Likely Trend,0,0,NTU,0,N/A,N/A
+North Fork Red River,North Fork of the Red River@HEADRICK,North Fork of the Red River at Headrick,311500010020-001AT,Total Nitrogen,Highly Likely Upward,3,0.282,mg/L,28.36,0.379 10^6 kg/year,101.66%
+North Fork Red River,North Fork of the Red River@HEADRICK,North Fork of the Red River at Headrick,311500010020-001AT,Total Phosphorus,No Likely Trend,0,-0.0129,mg/L,-8.2,0.23 10^6 kg/year,154.53%
+North Fork Red River,North Fork of the Red River@HEADRICK,North Fork of the Red River at Headrick,311500010020-001AT,Conductivity,Likely Downward,-1,-438,uS/cm,-4.61,Not applicable,Not Applicable
+North Fork Red River,North Fork of the Red River@HEADRICK,North Fork of the Red River at Headrick,311500010020-001AT,Hardness,No Likely Trend,0,-9.54,mg/L,-0.9,Not applicable,Not Applicable
+North Fork Red River,North Fork of the Red River@HEADRICK,North Fork of the Red River at Headrick,311500010020-001AT,Chlorophyll,Likely Downward,-1,-9.24,ug/L,-30.01,Not applicable,Not Applicable
+North Fork of Red River,NFkRed@Headrick,North Fork of the Red River at Headrick,311500010020-001AT,Dissolved oxygen [DO] (mg/l),No Likely Trend,0,0,mg/L,0,N/A,N/A
+North Fork of Red River,NFkRed@Headrick,North Fork of the Red River at Headrick,311500010020-001AT,"Temperature, water (deg C)",No Likely Trend,0,0,deg C,0,N/A,N/A
+North Fork of Red River,NFkRed@Headrick,North Fork of the Red River at Headrick,311500010020-001AT,Turbidity (NTU),Highly Likely Downward,-3,-0.417,NTU,0,N/A,N/A
+North Fork of The Red River,NFkRed@Tipton,North Fork of the Red River at Tipton,311500010020-002AT,Dissolved oxygen [DO] (mg/l),Somewhat Likely Downward,-2,-0.611,mg/L,0,N/A,N/A
+North Fork of The Red River,NFkRed@Tipton,North Fork of the Red River at Tipton,311500010020-002AT,"Temperature, water (deg C)",Likely Downward,-1,-0.3742,deg C,0,N/A,N/A
+North Fork of The Red River,NFkRed@Tipton,North Fork of the Red River at Tipton,311500010020-002AT,Turbidity (NTU),Likely Upward,1,5.921,NTU,0,N/A,N/A
+North Fork of the Red River,North Fork of the Red River@CARTER,North Fork of the Red River at Carter,311510010010-001AT,Total Nitrogen,Likely Downward,-1,-0.132,mg/L,-11.53, -0.0463 10^6 kg/year,-25.09%
+North Fork of the Red River,North Fork of the Red River@CARTER,North Fork of the Red River at Carter,311510010010-001AT,Total Phosphorus,Somewhat Likely Downward,-2,-0.0715,mg/L,-50.21, -0.0678 10^6 kg/year,-0.6515
+North Fork of the Red River,North Fork of the Red River@CARTER,North Fork of the Red River at Carter,311510010010-001AT,Conductivity,Likely Upward,1,177,uS/cm,20.37,Not applicable,Not Applicable
+North Fork of the Red River,North Fork of the Red River@CARTER,North Fork of the Red River at Carter,311510010010-001AT,Hardness,Highly Likely Upward,3,281,mg/L,10.66,Not applicable,Not Applicable
+North Fork of the Red River,North Fork of the Red River@CARTER,North Fork of the Red River at Carter,311510010010-001AT,Chlorophyll,Likely Downward,-1,-1.2,ug/L,-9.85,Not applicable,Not Applicable
+North Fork of The Red River,NFkRed@Carter,North Fork of the Red River at Carter,311510010010-001AT,Dissolved oxygen [DO] (mg/l),Somewhat Likely Upward,2,0.02984,mg/L,0,N/A,N/A
+North Fork of The Red River,NFkRed@Carter,North Fork of the Red River at Carter,311510010010-001AT,"Temperature, water (deg C)",Highly Likely Upward,3,0.1356,deg C,0,N/A,N/A
+North Fork of The Red River,NFkRed@Carter,North Fork of the Red River at Carter,311510010010-001AT,Turbidity (NTU),Highly Likely Downward,-3,-0.3517,NTU,0,N/A,N/A
+Sandy Creek,Sandy@Eldorado,Sandy at Eldorado,311600010040-001AT,Dissolved oxygen [DO] (mg/l),Likely Downward,-1,-0.08377,mg/L,0,N/A,N/A
+Sandy Creek,Sandy@Eldorado,Sandy at Eldorado,311600010040-001AT,"Temperature, water (deg C)",No Likely Trend,0,0,deg C,0,N/A,N/A
+Sandy Creek,Sandy@Eldorado,Sandy at Eldorado,311600010040-001AT,Turbidity (NTU),Somewhat Likely Downward,-2,-0.4535,NTU,0,N/A,N/A
+Salt Fork of The Red River,SFkRed@Mangum,South Fork of the Red River at Mangum,311600020010-001AT,Dissolved oxygen [DO] (mg/l),No Likely Trend,0,0,mg/L,0,N/A,N/A
+Salt Fork of The Red River,SFkRed@Mangum,South Fork of the Red River at Mangum,311600020010-001AT,"Temperature, water (deg C)",No Likely Trend,0,0,deg C,0,N/A,N/A
+Salt Fork of The Red River,SFkRed@Mangum,South Fork of the Red River at Mangum,311600020010-001AT,Turbidity (NTU),Somewhat Likely Downward,-2,-1.119,NTU,0,N/A,N/A
+Salt Fork of the Red River,Salt Fork of the Red River@ELMER,Salt Fork of the Red River at Elmer,311600020010-002AT,Total Nitrogen,Highly Likely Upward,3,1.5,mg/L,81.76,0.218 10^6 kg/year,138.52%
+Salt Fork of the Red River,Salt Fork of the Red River@ELMER,Salt Fork of the Red River at Elmer,311600020010-002AT,Total Phosphorus,No Likely Trend,0,0.0011,mg/L,0.66,0.06657 10^6 kg/year,155.48%
+Salt Fork of the Red River,Salt Fork of the Red River@ELMER,Salt Fork of the Red River at Elmer,311600020010-002AT,Conductivity,Highly Likely Upward,3,647,uS/cm,17.45,Not applicable,Not Applicable
+Salt Fork of the Red River,Salt Fork of the Red River@ELMER,Salt Fork of the Red River at Elmer,311600020010-002AT,Hardness,Highly Likely Upward,3,548,mg/L,42.65,Not applicable,Not Applicable
+Salt Fork of the Red River,Salt Fork of the Red River@ELMER,Salt Fork of the Red River at Elmer,311600020010-002AT,Chlorophyll,Likely Upward,1,6.28,ug/L,23.19,Not applicable,Not Applicable
+Salt Fork of The Red River,SFkRed@Elmer,Salt Fork of the Red River at Elmer,311600020010-002AT,Dissolved oxygen [DO] (mg/l),No Likely Trend,0,0,mg/L,0,N/A,N/A
+Salt Fork of The Red River,SFkRed@Elmer,Salt Fork of the Red River at Elmer,311600020010-002AT,"Temperature, water (deg C)",No Likely Trend,0,0,deg C,0,N/A,N/A
+Salt Fork of The Red River,SFkRed@Elmer,Salt Fork of the Red River at Elmer,311600020010-002AT,Turbidity (NTU),No Likely Trend,0,0,NTU,0,N/A,N/A
+Elm Fork of The Red River,ElmFork@Granite,ElmFork at Granite,311800000010-002AT,Dissolved oxygen [DO] (mg/l),No Likely Trend,0,0,mg/L,0,N/A,N/A
+Elm Fork of The Red River,ElmFork@Granite,ElmFork at Granite,311800000010-002AT,"Temperature, water (deg C)",Likely Upward,1,0.1014,deg C,0,N/A,N/A
+Elm Fork of The Red River,ElmFork@Granite,ElmFork at Granite,311800000010-002AT,Turbidity (NTU),Somewhat Likely Downward,-2,-0.2173,NTU,0,N/A,N/A
+Elm Fork of The Red River,ElmFork@Carl,ElmFork at Carl,311800000010-002RS,Dissolved oxygen [DO] (mg/l),Likely Upward,1,0.107,mg/L,0,N/A,N/A
+Elm Fork of The Red River,ElmFork@Carl,ElmFork at Carl,311800000010-002RS,"Temperature, water (deg C)",Somewhat Likely Upward,2,0.2561,deg C,0,N/A,N/A
+Elm Fork of The Red River,ElmFork@Carl,ElmFork at Carl,311800000010-002RS,Turbidity (NTU),No Likely Trend,0,0,NTU,0,N/A,N/A
+Red River,Red River@HARRIS,Red River at Harris,410100010010-001AT,Total Nitrogen,No Likely Trend,0,-0.00938,mg/L,-0.93, -0.816 10^6 kg/year,-6.65%
+Red River,Red River@HARRIS,Red River at Harris,410100010010-001AT,Total Phosphorus,No Likely Trend,0,0.00478,mg/L,3.85, -0.0671 10^6 kg/year,-3.34%
+Red River,Red River@HARRIS,Red River at Harris,410100010010-001AT,Conductivity,No Likely Trend,0,77.6,uS/cm,7.86,Not applicable,Not Applicable
+Red River,Red River@HARRIS,Red River at Harris,410100010010-001AT,Hardness,No Likely Trend,0,-8.93,mg/L,-3.32,Not applicable,Not Applicable
+Red River,Red River@HARRIS,Red River at Harris,410100010010-001AT,Chlorophyll,No Likely Trend,0,-3.17,ug/L,-12.76,Not applicable,Not Applicable
+Red River,Red@Harris,Red River at Harris,410100010010-001AT,Dissolved oxygen [DO] (mg/l),Highly Likely Upward,3,0.04487,mg/L,0,N/A,N/A
+Red River,Red@Harris,Red River at Harris,410100010010-001AT,"Temperature, water (deg C)",Somewhat Likely Upward,2,0.06022,deg C,0,N/A,N/A
+Red River,Red@Harris,Red River at Harris,410100010010-001AT,Turbidity (NTU),No Likely Trend,0,0,NTU,0,N/A,N/A
+Little River,Little@Holly Creek,Little at Holly Creek,410200010200-002AT,Dissolved oxygen [DO] (mg/l),Highly Likely Upward,3,0.04634,mg/L,0,N/A,N/A
+Little River,Little@Holly Creek,Little at Holly Creek,410200010200-002AT,"Temperature, water (deg C)",Highly Likely Upward,3,0.1093,deg C,0,N/A,N/A
+Little River,Little@Holly Creek,Little at Holly Creek,410200010200-002AT,Turbidity (NTU),Highly Likely Upward,3,0.4286,NTU,0,N/A,N/A
+Little River,Little@Cloudy,Little at Cloudy,410210020140-001AT,Dissolved oxygen [DO] (mg/l),Highly Likely Upward,3,0.0599,mg/L,0,N/A,N/A
+Little River,Little@Cloudy,Little at Cloudy,410210020140-001AT,"Temperature, water (deg C)",No Likely Trend,0,0,deg C,0,N/A,N/A
+Little River,Little@Cloudy,Little at Cloudy,410210020140-001AT,Turbidity (NTU),No Likely Trend,0,0,NTU,0,N/A,N/A
+Mountain Fork River,MountainFK@Eagletown,MountainFK at Eagletown,410210040010-001AT,Dissolved oxygen [DO] (mg/l),Highly Likely Upward,3,0.06097,mg/L,0,N/A,N/A
+Mountain Fork River,MountainFK@Eagletown,MountainFK at Eagletown,410210040010-001AT,"Temperature, water (deg C)",Highly Likely Upward,3,0.07993,deg C,0,N/A,N/A
+Mountain Fork River,MountainFK@Eagletown,MountainFK at Eagletown,410210040010-001AT,Turbidity (NTU),No Likely Trend,0,0,NTU,0,N/A,N/A
+Mountain Fork River,Mountain Fork River@SMITHVILLE,Mountain Fork River at Smithville,410210060010-001AT,Total Nitrogen,Likely Downward,-1,-0.0333,mg/L,-6.41, -0.0422 10^6 kg/year,-6.80%
+Mountain Fork River,Mountain Fork River@SMITHVILLE,Mountain Fork River at Smithville,410210060010-001AT,Total Phosphorus,No Likely Trend,0,0,mg/L,-8.86, -0.00357 10^6 kg/year,-8.21%
+Mountain Fork River,Mountain Fork River@SMITHVILLE,Mountain Fork River at Smithville,410210060010-001AT,Conductivity,No Likely Trend,0,23.2,uS/cm,46.94,Not applicable,Not Applicable
+Mountain Fork River,Mountain Fork River@SMITHVILLE,Mountain Fork River at Smithville,410210060010-001AT,Hardness,No Likely Trend,0,0.31,mg/L,2.23,Not applicable,Not Applicable
+Mountain Fork River,Mountain Fork River@SMITHVILLE,Mountain Fork River at Smithville,410210060010-001AT,Chlorophyll,No Likely Trend,0,0.207,ug/L,7.58,Not applicable,Not Applicable
+Mountain Fork River,MountainFK@Smithville,Mountain Fork River at Smithville,410210060010-001AT,Dissolved oxygen [DO] (mg/l),Somewhat Likely Upward,2,0.02349,mg/L,0,N/A,N/A
+Mountain Fork River,MountainFK@Smithville,Mountain Fork River at Smithville,410210060010-001AT,"Temperature, water (deg C)",No Likely Trend,0,0,deg C,0,N/A,N/A
+Mountain Fork River,MountainFK@Smithville,Mountain Fork River at Smithville,410210060010-001AT,Turbidity (NTU),Somewhat Likely Downward,-2,-0.05963,NTU,0,N/A,N/A
+Glover River,Glover River@GLOVER,Glover River at Glover,410210080010-001AT,Total Nitrogen,Highly Likely Downward,-3,-0.129,mg/L,-24.46, -0.129 10^6 kg/year,-34.40%
+Glover River,Glover River@GLOVER,Glover River at Glover,410210080010-001AT,Total Phosphorus,Highly Likely Downward,-3,-0.0142,mg/L,-38.74, -0.0096 10^6 kg/year,-29.64%
+Glover River,Glover River@GLOVER,Glover River at Glover,410210080010-001AT,Conductivity,Likely Upward,1,44.9,uS/cm,76.05,Not applicable,Not Applicable
+Glover River,Glover River@GLOVER,Glover River at Glover,410210080010-001AT,Hardness,Likely Upward,1,5.86,mg/L,25.59,Not applicable,Not Applicable
+Glover River,Glover River@GLOVER,Glover River at Glover,410210080010-001AT,Chlorophyll,Somewhat Likely Upward,2,1.33,ug/L,75.33,Not applicable,Not Applicable
+Glover River,Glover@Glover,Glover River at Glover,410210080010-001AT,Dissolved oxygen [DO] (mg/l),Highly Likely Upward,3,0.06612,mg/L,0,N/A,N/A
+Glover River,Glover@Glover,Glover River at Glover,410210080010-001AT,"Temperature, water (deg C)",No Likely Trend,0,0,deg C,0,N/A,N/A
+Glover River,Glover@Glover,Glover River at Glover,410210080010-001AT,Turbidity (NTU),No Likely Trend,0,0,NTU,0,N/A,N/A
+Kiamichi River,Kiamichi@FortTowson,Kiamichi at Fort Towson,410300010010-002AT,Dissolved oxygen [DO] (mg/l),Highly Likely Upward,3,0.205,mg/L,0,N/A,N/A
+Kiamichi River,Kiamichi@FortTowson,Kiamichi at Fort Towson,410300010010-002AT,"Temperature, water (deg C)",No Likely Trend,0,0,deg C,0,N/A,N/A
+Kiamichi River,Kiamichi@FortTowson,Kiamichi at Fort Towson,410300010010-002AT,Turbidity (NTU),Highly Likely Downward,-3,-1.505,NTU,0,N/A,N/A
+Kiamichi River,Kiamichi River@ANTLERS,Kiamichi River at Antlers,410300030010-001AT,Total Nitrogen,Likely Upward,1,0.0813,mg/L,14.6,0.0713 10^6 kg/year,6.20%
+Kiamichi River,Kiamichi River@ANTLERS,Kiamichi River at Antlers,410300030010-001AT,Total Phosphorus,Likely Downward,-1,-0.0144,mg/L,-23.26, -0.067 10^6 kg/year,-37.52%
+Kiamichi River,Kiamichi River@ANTLERS,Kiamichi River at Antlers,410300030010-001AT,Conductivity,Likely Upward,1,54.8,uS/cm,109.87,Not applicable,Not Applicable
+Kiamichi River,Kiamichi River@ANTLERS,Kiamichi River at Antlers,410300030010-001AT,Hardness,Likely Upward,1,6.21,mg/L,30.45,Not applicable,Not Applicable
+Kiamichi River,Kiamichi River@ANTLERS,Kiamichi River at Antlers,410300030010-001AT,Chlorophyll,Likely Downward,-1,-6.6,ug/L,-58.76,Not applicable,Not Applicable
+Kiamichi River,Kiamichi@Antlers,Kiamichi River at Antlers,410300030010-001AT,Dissolved oxygen [DO] (mg/l),Highly Likely Upward,3,0.06276,mg/L,0,N/A,N/A
+Kiamichi River,Kiamichi@Antlers,Kiamichi River at Antlers,410300030010-001AT,"Temperature, water (deg C)",No Likely Trend,0,0,deg C,0,N/A,N/A
+Kiamichi River,Kiamichi@Antlers,Kiamichi River at Antlers,410300030010-001AT,Turbidity (NTU),No Likely Trend,0,0,NTU,0,N/A,N/A
+Kiamichi River,Kiamichi@Tuskahoma,Kiamichi at Tuskahoma,410310010010-001AT,Dissolved oxygen [DO] (mg/l),Highly Likely Upward,3,0.08324,mg/L,0,N/A,N/A
+Kiamichi River,Kiamichi@Tuskahoma,Kiamichi at Tuskahoma,410310010010-001AT,"Temperature, water (deg C)",No Likely Trend,0,0,deg C,0,N/A,N/A
+Kiamichi River,Kiamichi@Tuskahoma,Kiamichi at Tuskahoma,410310010010-001AT,Turbidity (NTU),Highly Likely Downward,-3,-0.3775,NTU,0,N/A,N/A
+Kiamichi River,Kiamichi River@BIG CEDAR,Kiamichi River at Big Cedar,410310020010-001AT,Total Nitrogen,Highly Likely Downward,-3,-0.0477,mg/L,-16.41, -0.00838 10^6 kg/year,-25.84%
+Kiamichi River,Kiamichi River@BIG CEDAR,Kiamichi River at Big Cedar,410310020010-001AT,Total Phosphorus,Likely Downward,-1,-0.00232,mg/L,-12.35,0.000207 10^6 kg/year,16.24%
+Kiamichi River,Kiamichi River@BIG CEDAR,Kiamichi River at Big Cedar,410310020010-001AT,Conductivity,Likely Upward,1,100,uS/cm,441.35,Not applicable,Not Applicable
+Kiamichi River,Kiamichi River@BIG CEDAR,Kiamichi River at Big Cedar,410310020010-001AT,Hardness,Likely Downward,-1,-2.21,mg/L,-14.78,Not applicable,Not Applicable
+Kiamichi River,Kiamichi River@BIG CEDAR,Kiamichi River at Big Cedar,410310020010-001AT,Chlorophyll,Likely Downward,-1,-1.22,ug/L,-49.73,Not applicable,Not Applicable
+Kiamichi River,Kiamichi@BigCedar,Kiamichi River at Big Cedar,410310020010-001AT,Dissolved oxygen [DO] (mg/l),Highly Likely Upward,3,0.05867,mg/L,0,N/A,N/A
+Kiamichi River,Kiamichi@BigCedar,Kiamichi River at Big Cedar,410310020010-001AT,"Temperature, water (deg C)",No Likely Trend,0,0,deg C,0,N/A,N/A
+Kiamichi River,Kiamichi@BigCedar,Kiamichi River at Big Cedar,410310020010-001AT,Turbidity (NTU),No Likely Trend,0,0,NTU,0,N/A,N/A
+Red River,Red River@HUGO,Red River at Hugo,410400010010-001AT,Total Nitrogen,No Likely Trend,0,-0.0573,mg/L,-5.43, -3.86 10^6 kg/year,-29.77
+Red River,Red River@HUGO,Red River at Hugo,410400010010-001AT,Total Phosphorus,Likely Downward,-1,-0.511,mg/L,-51.65, -2.19 10^6 kg/year,-62.58%
+Red River,Red River@HUGO,Red River at Hugo,410400010010-001AT,Conductivity,Likely Upward,1,165,uS/cm,15.75,Not applicable,Not Applicable
+Red River,Red River@HUGO,Red River at Hugo,410400010010-001AT,Hardness,No Likely Trend,0,8.53,mg/L,2.96,Not applicable,Not Applicable
+Red River,Red River@HUGO,Red River at Hugo,410400010010-001AT,Chlorophyll,Likely Downward,-1,-3.16,ug/L,-14.79,Not applicable,Not Applicable
+Red River,Red@Hugo,Red River at Hugo,410400010010-001AT,Dissolved oxygen [DO] (mg/l),Highly Likely Upward,3,0.0911,mg/L,0,N/A,N/A
+Red River,Red@Hugo,Red River at Hugo,410400010010-001AT,"Temperature, water (deg C)",Highly Likely Upward,3,0.114,deg C,0,N/A,N/A
+Red River,Red@Hugo,Red River at Hugo,410400010010-001AT,Turbidity (NTU),Somewhat Likely Downward,-2,-0.5346,NTU,0,N/A,N/A
+Muddy Boggy Creek,Muddy Boggy Creek@UNGER,Muddy Boggy Creek at Unger,410400010070-001AT,Total Nitrogen,Likely Upward,1,0.112,mg/L,13.06, -0.0576 10^6 kg/year,-2.48%
+Muddy Boggy Creek,Muddy Boggy Creek@UNGER,Muddy Boggy Creek at Unger,410400010070-001AT,Total Phosphorus,Highly Likely Downward,-3,-0.0984,mg/L,-44.77, -0.305 10^6 kg/year,-44.36%
+Muddy Boggy Creek,Muddy Boggy Creek@UNGER,Muddy Boggy Creek at Unger,410400010070-001AT,Conductivity,Highly Likely Upward,3,126,uS/cm,41.47,Not applicable,Not Applicable
+Muddy Boggy Creek,Muddy Boggy Creek@UNGER,Muddy Boggy Creek at Unger,410400010070-001AT,Hardness,Highly Likely Upward,3,22.7,mg/L,17.44,Not applicable,Not Applicable
+Muddy Boggy Creek,Muddy Boggy Creek@UNGER,Muddy Boggy Creek at Unger,410400010070-001AT,Chlorophyll,Likely Upward,1,2.71,ug/L,29.98,Not applicable,Not Applicable
+Muddy Boggy Creek,MuddyBoggy@Unger,Muddy Boggy Creek at Unger,410400010070-001AT,Dissolved oxygen [DO] (mg/l),Highly Likely Upward,3,0.04882,mg/L,0,N/A,N/A
+Muddy Boggy Creek,MuddyBoggy@Unger,Muddy Boggy Creek at Unger,410400010070-001AT,"Temperature, water (deg C)",No Likely Trend,0,0,deg C,0,N/A,N/A
+Muddy Boggy Creek,MuddyBoggy@Unger,Muddy Boggy Creek at Unger,410400010070-001AT,Turbidity (NTU),Somewhat Likely Downward,-2,-0.6729,NTU,0,N/A,N/A
+Clear Boggy Creek,Clear Boggy@Caney,Clear Boggy at Caney,410400030010-001AT,Dissolved oxygen [DO] (mg/l),Highly Likely Upward,3,0.073,mg/L,0,N/A,N/A
+Clear Boggy Creek,Clear Boggy@Caney,Clear Boggy at Caney,410400030010-001AT,"Temperature, water (deg C)",No Likely Trend,0,0,deg C,0,N/A,N/A
+Clear Boggy Creek,Clear Boggy@Caney,Clear Boggy at Caney,410400030010-001AT,Turbidity (NTU),Highly Likely Downward,-3,-0.9402,NTU,0,N/A,N/A
+Muddy Boggy River,MuddyBoggy@Atoka,Muddy Boggy at Atoka,410400050270-001AT,Dissolved oxygen [DO] (mg/l),Likely Upward,1,0.02783,mg/L,0,N/A,N/A
+Muddy Boggy River,MuddyBoggy@Atoka,Muddy Boggy at Atoka,410400050270-001AT,"Temperature, water (deg C)",Somewhat Likely Upward,2,0.06963,deg C,0,N/A,N/A
+Muddy Boggy River,MuddyBoggy@Atoka,Muddy Boggy at Atoka,410400050270-001AT,Turbidity (NTU),No Likely Trend,0,0,NTU,0,N/A,N/A
+Blue River,Blue River@DURANT,Blue River at Durant,410600010010-001AT,Total Nitrogen,Highly Likely Downward,-3,-0.427,mg/L,-42.43, -0.0421 10^6 kg/year,-7.32%
+Blue River,Blue River@DURANT,Blue River at Durant,410600010010-001AT,Total Phosphorus,Highly Likely Downward,-3,-0.0921,mg/L,-57.9, -0.0293 10^6 kg/year,-24.22%
+Blue River,Blue River@DURANT,Blue River at Durant,410600010010-001AT,Conductivity,Likely Upward,1,76,uS/cm,-9.08,Not applicable,Not Applicable
+Blue River,Blue River@DURANT,Blue River at Durant,410600010010-001AT,Hardness,Highly Likely Upward,3,32.5,mg/L,16.27,Not applicable,Not Applicable
+Blue River,Blue River@DURANT,Blue River at Durant,410600010010-001AT,Chlorophyll,No Likely Trend,0,-0.063,ug/L,-1.26,Not applicable,Not Applicable
+Blue River,Blue@Durant,Blue River at Durant,410600010010-001AT,Dissolved oxygen [DO] (mg/l),Highly Likely Upward,3,0.07,mg/L,0,N/A,N/A
+Blue River,Blue@Durant,Blue River at Durant,410600010010-001AT,"Temperature, water (deg C)",No Likely Trend,0,-0.1553,deg C,0,N/A,N/A
+Blue River,Blue@Durant,Blue River at Durant,410600010010-001AT,Turbidity (NTU),Highly Likely Downward,-3,-0.6405,NTU,0,N/A,N/A
+Island Bayou,IslandBayou@Albany,Island Bayou at Albany,410700000040-001AT,Dissolved oxygen [DO] (mg/l),No Likely Trend,0,0,mg/L,0,N/A,N/A
+Island Bayou,IslandBayou@Albany,Island Bayou at Albany,410700000040-001AT,"Temperature, water (deg C)",No Likely Trend,0,0,deg C,0,N/A,N/A
+Island Bayou,IslandBayou@Albany,Island Bayou at Albany,410700000040-001AT,Turbidity (NTU),No Likely Trend,0,0,NTU,0,N/A,N/A
+North Canadian River,North Canadian River@WETUMKA,North Canadian River at Wetumka,520510000010-001AT,Total Nitrogen,Highly Likely Upward,3,1.09,mg/L,53.46,0.416 10^6 kg/year,17.76%
+North Canadian River,North Canadian River@WETUMKA,North Canadian River at Wetumka,520510000010-001AT,Total Phosphorus,Highly Likely Upward,3,0.15,mg/L,30.83,0.0521 10^6 kg/year,7.38%
+North Canadian River,North Canadian River@WETUMKA,North Canadian River at Wetumka,520510000010-001AT,Conductivity,No Likely Trend,0,9,uS/cm,1.24,Not applicable,Not Applicable
+North Canadian River,North Canadian River@WETUMKA,North Canadian River at Wetumka,520510000010-001AT,Hardness,No Likely Trend,0,-18.4,mg/L,-6.92,Not applicable,Not Applicable
+North Canadian River,North Canadian River@WETUMKA,North Canadian River at Wetumka,520510000010-001AT,Chlorophyll,Likely Upward,1,40.4,ug/L,39.58,Not applicable,Not Applicable
+North Canadian River,NCanadian@Wetumka,North Canadian River at Wetumka,520510000010-001AT,Dissolved oxygen [DO] (mg/l),Highly Likely Upward,3,0.1032,mg/L,0,N/A,N/A
+North Canadian River,NCanadian@Wetumka,North Canadian River at Wetumka,520510000010-001AT,"Temperature, water (deg C)",No Likely Trend,0,0,deg C,0,N/A,N/A
+North Canadian River,NCanadian@Wetumka,North Canadian River at Wetumka,520510000010-001AT,Turbidity (NTU),Highly Likely Downward,-3,-1.836,NTU,0,N/A,N/A
+North Canadian River,NCanadian@Harrah,North Canadian at Harrah,520510000110-001AT,Dissolved oxygen [DO] (mg/l),No Likely Trend,0,0,mg/L,0,N/A,N/A
+North Canadian River,NCanadian@Harrah,North Canadian at Harrah,520510000110-001AT,"Temperature, water (deg C)",No Likely Trend,0,0,deg C,0,N/A,N/A
+North Canadian River,NCanadian@Harrah,North Canadian at Harrah,520510000110-001AT,Turbidity (NTU),Highly Likely Downward,-3,-3.86,NTU,0,N/A,N/A
+North Canadian River,NCanadian@Shawnee,Norrth Canadian at Shawnee,520510000110-005AT,Dissolved oxygen [DO] (mg/l),Likely Upward,1,0.1129,mg/L,0,N/A,N/A
+North Canadian River,NCanadian@Shawnee,Norrth Canadian at Shawnee,520510000110-005AT,"Temperature, water (deg C)",No Likely Trend,0,0,deg C,0,N/A,N/A
+North Canadian River,NCanadian@Shawnee,Norrth Canadian at Shawnee,520510000110-005AT,Turbidity (NTU),Somewhat Likely Downward,-2,-1.259,NTU,0,N/A,N/A
+North Canadian River,North Canadian River@EL RENO,North Canadian River at El Reno,520530000010-001AT,Total Nitrogen,Highly Likely Upward,3,0.349,mg/L,41.48,0.01 10^6 kg/year,3.53%
+North Canadian River,North Canadian River@EL RENO,North Canadian River at El Reno,520530000010-001AT,Total Phosphorus,No Likely Trend,0,0.0156,mg/L,9.88, -0.0128 10^6 kg/year,-19.54%
+North Canadian River,North Canadian River@EL RENO,North Canadian River at El Reno,520530000010-001AT,Conductivity,Likely Upward,1,76.2,uS/cm,5.38,Not applicable,Not Applicable
+North Canadian River,North Canadian River@EL RENO,North Canadian River at El Reno,520530000010-001AT,Hardness,Highly Likely Upward,3,112,mg/L,25.79,Not applicable,Not Applicable
+North Canadian River,North Canadian River@EL RENO,North Canadian River at El Reno,520530000010-001AT,Chlorophyll,No Likely Trend,0,2.3,ug/L,11.23,Not applicable,Not Applicable
+North Canadian River,NCanadian@ElReno,North Canadian River at El Reno,520530000010-001AT,Dissolved oxygen [DO] (mg/l),No Likely Trend,0,0,mg/L,0,N/A,N/A
+North Canadian River,NCanadian@ElReno,North Canadian River at El Reno,520530000010-001AT,"Temperature, water (deg C)",Somewhat Likely Upward,2,0.07785,deg C,0,N/A,N/A
+North Canadian River,NCanadian@ElReno,North Canadian River at El Reno,520530000010-001AT,Turbidity (NTU),No Likely Trend,0,0,NTU,0,N/A,N/A
+Canadian River,Canadian@Konawa,Canadian at Konawa,520600010010-001AT,Dissolved oxygen [DO] (mg/l),No Likely Trend,0,0,mg/L,0,N/A,N/A
+Canadian River,Canadian@Konawa,Canadian at Konawa,520600010010-001AT,"Temperature, water (deg C)",Likely Downward,-1,-0.365,deg C,0,N/A,N/A
+Canadian River,Canadian@Konawa,Canadian at Konawa,520600010010-001AT,Turbidity (NTU),Highly Likely Downward,-3,-2.047,NTU,0,N/A,N/A
+Canadian River (Purcell),Canadian River@PURCELL,Canadian River at Purcell,520610010010-001AT,Total Nitrogen,Highly Likely Upward,3,3,mg/L,21.22, -0.256 10^6 kg/year,-18.47%
+Canadian River (Purcell),Canadian River@PURCELL,Canadian River at Purcell,520610010010-001AT,Total Phosphorus,Highly Likely Upward,3,0.143,mg/L,26.59, -0.229 10^6 kg/year,-42.27%
+Canadian River (Purcell),Canadian River@PURCELL,Canadian River at Purcell,520610010010-001AT,Conductivity,Likely Downward,-1,-44.8,uS/cm,-3.46,Not applicable,Not Applicable
+Canadian River (Purcell),Canadian River@PURCELL,Canadian River at Purcell,520610010010-001AT,Hardness,No Likely Trend,0,25.8,mg/L,6.12,Not applicable,Not Applicable
+Canadian River (Purcell),Canadian River@PURCELL,Canadian River at Purcell,520610010010-001AT,Chlorophyll,Likely Upward,1,8.06,ug/L,14,Not applicable,Not Applicable
+Canadian River,Canadian River@PURCELL,Canadian River at Purcell,520610010010-001AT,Dissolved oxygen [DO] (mg/l),No Likely Trend,0,0,mg/L,0,N/A,N/A
+Canadian River,Canadian River@PURCELL,Canadian River at Purcell,520610010010-001AT,"Temperature, water (deg C)",No Likely Trend,0,0,deg C,0,N/A,N/A
+Canadian River,Canadian River@PURCELL,Canadian River at Purcell,520610010010-001AT,Turbidity (NTU),Highly Likely Downward,-3,-0.5726,NTU,0,N/A,N/A
+Canadian River,Canadian River@BRIDGEPORT,Canadian River at Bridgeport,520610020150-001AT,Total Nitrogen,Highly Likely Upward,3,0.443,mg/L,44.22,0.0524 10^6 kg/year,11.68%
+Canadian River,Canadian River@BRIDGEPORT,Canadian River at Bridgeport,520610020150-001AT,Total Phosphorus,Likely Downward,-1,-0.0443,mg/L,-28.47, -0.051 10^6 kg/year,-45.49%
+Canadian River,Canadian River@BRIDGEPORT,Canadian River at Bridgeport,520610020150-001AT,Conductivity,Highly Likely Upward,3,72.6,uS/cm,20.36,Not applicable,Not Applicable
+Canadian River,Canadian River@BRIDGEPORT,Canadian River at Bridgeport,520610020150-001AT,Hardness,Likely Upward,1,49.9,mg/L,8.2,Not applicable,Not Applicable
+Canadian River,Canadian River@BRIDGEPORT,Canadian River at Bridgeport,520610020150-001AT,Chlorophyll,Likely Downward,-1,-1.83,ug/L,-11.3,Not applicable,Not Applicable
+Canadian River,Canadian@Bridgeport,Canadian River at Bridgeport,520610020150-001AT,Dissolved oxygen [DO] (mg/l),Likely Upward,1,0.02056,mg/L,0,N/A,N/A
+Canadian River,Canadian@Bridgeport,Canadian River at Bridgeport,520610020150-001AT,"Temperature, water (deg C)",No Likely Trend,0,0,deg C,0,N/A,N/A
+Canadian River,Canadian@Bridgeport,Canadian River at Bridgeport,520610020150-001AT,Turbidity (NTU),Highly Likely Downward,-3,-0.4768,NTU,0,N/A,N/A
+Canadian River,Canadian@Taloga,Canadian at Taloga,520620020010-001AT,Dissolved oxygen [DO] (mg/l),Somewhat Likely Upward,2,0.06347,mg/L,0,N/A,N/A
+Canadian River,Canadian@Taloga,Canadian at Taloga,520620020010-001AT,"Temperature, water (deg C)",No Likely Trend,0,0,deg C,0,N/A,N/A
+Canadian River,Canadian@Taloga,Canadian at Taloga,520620020010-001AT,Turbidity (NTU),Highly Likely Downward,-3,-0.6981,NTU,0,N/A,N/A
+Deep Fork,Deep Fork@BEGGS,Deep Fork at Beggs,520700020010-001AT,Total Nitrogen,Somewhat Likely Upward,2,0.608,mg/L,65.09,0.576 10^6 kg/year,48.38%
+Deep Fork,Deep Fork@BEGGS,Deep Fork at Beggs,520700020010-001AT,Total Phosphorus,Somewhat Likely Downward,-2,-0.0403,mg/L,-18.42, -0.0243 10^6 kg/year,-9.40%
+Deep Fork,Deep Fork@BEGGS,Deep Fork at Beggs,520700020010-001AT,Conductivity,Somewhat Likely Upward,2,96.8,uS/cm,15.76,Not applicable,Not Applicable
+Deep Fork,Deep Fork@BEGGS,Deep Fork at Beggs,520700020010-001AT,Hardness,Likely Upward,1,17.9,mg/L,8.27,Not applicable,Not Applicable
+Deep Fork,Deep Fork@BEGGS,Deep Fork at Beggs,520700020010-001AT,Chlorophyll,Likely Upward,1,13,ug/L,86.64,Not applicable,Not Applicable
+Deep Fork River,DeepFk@Beggs,Deep Fork at Beggs,520700020010-001AT,Dissolved oxygen [DO] (mg/l),Highly Likely Upward,3,0.07414,mg/L,0,N/A,N/A
+Deep Fork River,DeepFk@Beggs,Deep Fork at Beggs,520700020010-001AT,"Temperature, water (deg C)",No Likely Trend,0,0,deg C,0,N/A,N/A
+Deep Fork River,DeepFk@Beggs,Deep Fork at Beggs,520700020010-001AT,Turbidity (NTU),Highly Likely Downward,-3,-1.625,NTU,0,N/A,N/A
+Deep Fork River,DeepFk@Stroud,Deep Fork at Stroud,520700040010-001AT,Dissolved oxygen [DO] (mg/l),No Likely Trend,0,0,mg/L,0,N/A,N/A
+Deep Fork River,DeepFk@Stroud,Deep Fork at Stroud,520700040010-001AT,"Temperature, water (deg C)",Somewhat Likely Downward,-2,-0.2035,deg C,0,N/A,N/A
+Deep Fork River,DeepFk@Stroud,Deep Fork at Stroud,520700040010-001AT,Turbidity (NTU),Likely Downward,-1,-0.5177,NTU,0,N/A,N/A
+Little River (Canadian),Little River (Canadian)@SASAKWA,Little River (Canadian) at Sasakwa,520800010010-001AT,Total Nitrogen,Somewhat Likely Upward,2,0.446,mg/L,62.74,0.407 10^6 kg/year,92.04%
+Little River (Canadian),Little River (Canadian)@SASAKWA,Little River (Canadian) at Sasakwa,520800010010-001AT,Total Phosphorus,Highly Likely Downward,-3,-0.0904,mg/L,-47.36, -0.0285 10^6 kg/year,-16.13%
+Little River (Canadian),Little River (Canadian)@SASAKWA,Little River (Canadian) at Sasakwa,520800010010-001AT,Conductivity,No Likely Trend,0,30.5,uS/cm,2.61,Not applicable,Not Applicable
+Little River (Canadian),Little River (Canadian)@SASAKWA,Little River (Canadian) at Sasakwa,520800010010-001AT,Hardness,Likely Upward,1,26.9,mg/L,9.02,Not applicable,Not Applicable
+Little River (Canadian),Little River (Canadian)@SASAKWA,Little River (Canadian) at Sasakwa,520800010010-001AT,Chlorophyll,No Likely Trend,0,-2.57,ug/L,-34.05,Not applicable,Not Applicable
+Little River,Little@Tecumseh,Little at Tecumseh,520800020010-001AT,Dissolved oxygen [DO] (mg/l),No Likely Trend,0,0,mg/L,0,N/A,N/A
+Little River,Little@Tecumseh,Little at Tecumseh,520800020010-001AT,"Temperature, water (deg C)",Highly Likely Upward,3,1.895,deg C,0,N/A,N/A
+Little River,Little@Tecumseh,Little at Tecumseh,520800020010-001AT,Turbidity (NTU),No Likely Trend,0,0,NTU,0,N/A,N/A
+Cimarron River,Cimarron@Oilton,Cimarron at Oilton,620900010170-001AT,Dissolved oxygen [DO] (mg/l),Highly Likely Upward,3,0.1437,mg/L,0,N/A,N/A
+Cimarron River,Cimarron@Oilton,Cimarron at Oilton,620900010170-001AT,"Temperature, water (deg C)",No Likely Trend,0,0,deg C,0,N/A,N/A
+Cimarron River,Cimarron@Oilton,Cimarron at Oilton,620900010170-001AT,Turbidity (NTU),Somewhat Likely Downward,-2,-1.797,NTU,0,N/A,N/A
+Cimarron River,Cimarron River@RIPLEY,Cimarron River at Ripley,620900030010-001AT,Total Nitrogen,Somewhat Likely Upward,2,0.542,mg/L,33.2,0.988 10^6 kg/year,21.86%
+Cimarron River,Cimarron River@RIPLEY,Cimarron River at Ripley,620900030010-001AT,Total Phosphorus,No Likely Trend,0,0.0503,mg/L,13.43, -0.002 10^6 kg/year,-0.14%
+Cimarron River,Cimarron River@RIPLEY,Cimarron River at Ripley,620900030010-001AT,Conductivity,Highly Likely Upward,3,1674,uS/cm,31.5,Not applicable,Not Applicable
+Cimarron River,Cimarron River@RIPLEY,Cimarron River at Ripley,620900030010-001AT,Hardness,Likely Upward,1,103,mg/L,19.81,Not applicable,Not Applicable
+Cimarron River,Cimarron River@RIPLEY,Cimarron River at Ripley,620900030010-001AT,Chlorophyll,Likely Upward,1,55.1,ug/L,155.77,Not applicable,Not Applicable
+Cimarron River,Cimarron@Ripley,Cimarron River at Ripley,620900030010-001AT,Dissolved oxygen [DO] (mg/l),Somewhat Likely Upward,2,0.08459,mg/L,0,N/A,N/A
+Cimarron River,Cimarron@Ripley,Cimarron River at Ripley,620900030010-001AT,"Temperature, water (deg C)",No Likely Trend,0,0,deg C,0,N/A,N/A
+Cimarron River,Cimarron@Ripley,Cimarron River at Ripley,620900030010-001AT,Turbidity (NTU),Somewhat Likely Downward,-2,-0.7307,NTU,0,N/A,N/A
+Cimarron River,Cimarron@Guthrie,Cimarron at Guthrie,620910010010-001AT,Dissolved oxygen [DO] (mg/l),Highly Likely Upward,3,0.08891,mg/L,0,N/A,N/A
+Cimarron River,Cimarron@Guthrie,Cimarron at Guthrie,620910010010-001AT,"Temperature, water (deg C)",Somewhat Likely Upward,2,0.1225,deg C,0,N/A,N/A
+Cimarron River,Cimarron@Guthrie,Cimarron at Guthrie,620910010010-001AT,Turbidity (NTU),Highly Likely Downward,-3,-0.6058,NTU,0,N/A,N/A
+Cimmaron River,Cimarron@Dover,Cimarron at Dover,620910020010-001AT,Dissolved oxygen [DO] (mg/l),No Likely Trend,0,0,mg/L,0,N/A,N/A
+Cimmaron River,Cimarron@Dover,Cimarron at Dover,620910020010-001AT,"Temperature, water (deg C)",Likely Upward,1,0.1675,deg C,0,N/A,N/A
+Cimmaron River,Cimarron@Dover,Cimarron at Dover,620910020010-001AT,Turbidity (NTU),Highly Likely Downward,-3,-1.154,NTU,0,N/A,N/A
+Cimarron River,Cimarron@Ames,Cimarron at Ames,620910020010-004RS,Dissolved oxygen [DO] (mg/l),Likely Upward,1,0.03689,mg/L,0,N/A,N/A
+Cimarron River,Cimarron@Ames,Cimarron at Ames,620910020010-004RS,"Temperature, water (deg C)",No Likely Trend,0,0,deg C,0,N/A,N/A
+Cimarron River,Cimarron@Ames,Cimarron at Ames,620910020010-004RS,Turbidity (NTU),No Likely Trend,0,0,NTU,0,N/A,N/A
+Skeleton Creek,Skeleton Creek@LOVELL,Skeleton Creek at Lovell,620910030010-001AT,Total Nitrogen,Somewhat Likely Downward,-2,-1.03,mg/L,-18.27,0.164 10^6 kg/year,36.66%
+Skeleton Creek,Skeleton Creek@LOVELL,Skeleton Creek at Lovell,620910030010-001AT,Total Phosphorus,Highly Likely Downward,-3,-0.179,mg/L,32.33,0.0231 10^6 kg/year,22.72%
+Skeleton Creek,Skeleton Creek@LOVELL,Skeleton Creek at Lovell,620910030010-001AT,Conductivity,No Likely Trend,0,67,uS/cm,3.98,Not applicable,Not Applicable
+Skeleton Creek,Skeleton Creek@LOVELL,Skeleton Creek at Lovell,620910030010-001AT,Hardness,Highly Likely Upward,3,98.1,mg/L,27.83,Not applicable,Not Applicable
+Skeleton Creek,Skeleton Creek@LOVELL,Skeleton Creek at Lovell,620910030010-001AT,Chlorophyll,Likely Upward,1,22.6,ug/L,44.24,Not applicable,Not Applicable
+Skeleton Creek,Skeleton@Lovell,Skeleton Creek at Lovell,620910030010-001AT,Dissolved oxygen [DO] (mg/l),Likely Upward,1,0.03372,mg/L,0,N/A,N/A
+Skeleton Creek,Skeleton@Lovell,Skeleton Creek at Lovell,620910030010-001AT,"Temperature, water (deg C)",No Likely Trend,0,0,deg C,0,N/A,N/A
+Skeleton Creek,Skeleton@Lovell,Skeleton Creek at Lovell,620910030010-001AT,Turbidity (NTU),Highly Likely Downward,-3,-1.63,NTU,0,N/A,N/A
+Cimarron River,Cimarron@Waynoka,Cimarron at Waynoka,620920020010-001RS,Dissolved oxygen [DO] (mg/l),No Likely Trend,0,0,mg/L,0,N/A,N/A
+Cimarron River,Cimarron@Waynoka,Cimarron at Waynoka,620920020010-001RS,"Temperature, water (deg C)",No Likely Trend,0,0,deg C,0,N/A,N/A
+Cimarron River,Cimarron@Waynoka,Cimarron at Waynoka,620920020010-001RS,Turbidity (NTU),Highly Likely Downward,-3,-0.1975,NTU,0,N/A,N/A
+Cimmaron River,Cimarron@Mocane,Cimarron at Mocane,620930000010-001AT,Dissolved oxygen [DO] (mg/l),No Likely Trend,0,0,mg/L,0,N/A,N/A
+Cimmaron River,Cimarron@Mocane,Cimarron at Mocane,620930000010-001AT,"Temperature, water (deg C)",Somewhat Likely Downward,-2,-0.1029,deg C,0,N/A,N/A
+Cimmaron River,Cimarron@Mocane,Cimarron at Mocane,620930000010-001AT,Turbidity (NTU),Highly Likely Downward,-3,-0.6935,NTU,0,N/A,N/A
+Salt Fork of the Arkansas River,Salt Fork of the Arkansas River@TONKAWA,Salt Fork of the Arkansas River at Tonkawa,621000010010-001AT,Total Nitrogen,Somewhat Likely Upward,2,0.507,mg/L,40.54, -0.0389 10^6 kg/year,-2.58%
+Salt Fork of the Arkansas River,Salt Fork of the Arkansas River@TONKAWA,Salt Fork of the Arkansas River at Tonkawa,621000010010-001AT,Total Phosphorus,No Likely Trend,0,0.0107,mg/L,4.29, -0.0651 10^6 kg/year,-17.01%
+Salt Fork of the Arkansas River,Salt Fork of the Arkansas River@TONKAWA,Salt Fork of the Arkansas River at Tonkawa,621000010010-001AT,Conductivity,Somewhat Likely Upward,2,1275,uS/cm,31.72,Not applicable,Not Applicable
+Salt Fork of the Arkansas River,Salt Fork of the Arkansas River@TONKAWA,Salt Fork of the Arkansas River at Tonkawa,621000010010-001AT,Hardness,Likely Upward,1,60.3,mg/L,13.16,Not applicable,Not Applicable
+Salt Fork of the Arkansas River,Salt Fork of the Arkansas River@TONKAWA,Salt Fork of the Arkansas River at Tonkawa,621000010010-001AT,Chlorophyll,Somewhat Likely Upward,2,26.7,ug/L,61.78,Not applicable,Not Applicable
+Salt Fork of The Arkansas River,SFkArkansas@Tonkawa_SFA,Salt Fork of the Arkansas River at Tonkawa,621000010010-001AT,Dissolved oxygen [DO] (mg/l),Highly Likely Upward,3,0.1019,mg/L,0,N/A,N/A
+Salt Fork of The Arkansas River,SFkArkansas@Tonkawa_SFA,Salt Fork of the Arkansas River at Tonkawa,621000010010-001AT,"Temperature, water (deg C)",No Likely Trend,0,0,deg C,0,N/A,N/A
+Salt Fork of The Arkansas River,SFkArkansas@Tonkawa_SFA,Salt Fork of the Arkansas River at Tonkawa,621000010010-001AT,Turbidity (NTU),Somewhat Likely Downward,-2,-0.9923,NTU,0,N/A,N/A
+Salt Fork of The Arkansas River,SFkArkansas@Ingersol,Salt Fork of the Arkansas River at Ingersol,621010010160-001AT,Dissolved oxygen [DO] (mg/l),Likely Upward,1,0.02942,mg/L,0,N/A,N/A
+Salt Fork of The Arkansas River,SFkArkansas@Ingersol,Salt Fork of the Arkansas River at Ingersol,621010010160-001AT,"Temperature, water (deg C)",Likely Downward,-1,-0.1023,deg C,0,N/A,N/A
+Salt Fork of The Arkansas River,SFkArkansas@Ingersol,Salt Fork of the Arkansas River at Ingersol,621010010160-001AT,Turbidity (NTU),Highly Likely Downward,-3,-1.048,NTU,0,N/A,N/A
+Chickaskia River,Chickaskia River@BLACKWELL,Chickaskia River at Blackwell,621100000010-001AT,Total Nitrogen,Likely Upward,1,0.0575,mg/L,3.29, -0.388 10^6 kg/year,-18.72%
+Chickaskia River,Chickaskia River@BLACKWELL,Chickaskia River at Blackwell,621100000010-001AT,Total Phosphorus,No Likely Trend,0,0.0102,mg/L,4.36, -0.0967 10^6 kg/year,-0.1944
+Chickaskia River,Chickaskia River@BLACKWELL,Chickaskia River at Blackwell,621100000010-001AT,Conductivity,Highly Likely Upward,3,273,uS/cm,33.94,Not applicable,Not Applicable
+Chickaskia River,Chickaskia River@BLACKWELL,Chickaskia River at Blackwell,621100000010-001AT,Hardness,Highly Likely Upward,3,72.9,mg/L,23.74,Not applicable,Not Applicable
+Chickaskia River,Chickaskia River@BLACKWELL,Chickaskia River at Blackwell,621100000010-001AT,Chlorophyll,Likely Upward,1,49,ug/L,32.26,Not applicable,Not Applicable
+Chickaskia River,Chikaskia@Blackwell,Chickaskia River at Blackwell,621100000010-001AT,Dissolved oxygen [DO] (mg/l),Highly Likely Upward,3,0.04189,mg/L,0,N/A,N/A
+Chickaskia River,Chikaskia@Blackwell,Chickaskia River at Blackwell,621100000010-001AT,"Temperature, water (deg C)",No Likely Trend,0,0,deg C,0,N/A,N/A
+Chickaskia River,Chikaskia@Blackwell,Chickaskia River at Blackwell,621100000010-001AT,Turbidity (NTU),Highly Likely Downward,-3,-0.7417,NTU,0,N/A,N/A
+Arkansas River,Arkansas River@RALSTON,Arkansas River at Ralston,621200010200-001AT,Total Nitrogen,Highly Likely Upward,3,0.245,mg/L,18.45,1.5 10^6 kg/year,12.77%
+Arkansas River,Arkansas River@RALSTON,Arkansas River at Ralston,621200010200-001AT,Total Phosphorus,Likely Downward,-1,-0.0161,mg/L,-6.47,0.151 10^6 kg/year,-11.35%
+Arkansas River,Arkansas River@RALSTON,Arkansas River at Ralston,621200010200-001AT,Conductivity,Highly Likely Upward,3,0.2,uS/cm,20.88,Not applicable,Not Applicable
+Arkansas River,Arkansas River@RALSTON,Arkansas River at Ralston,621200010200-001AT,Hardness,Likely Upward,1,1,mg/L,7.47,Not applicable,Not Applicable
+Arkansas River,Arkansas River@RALSTON,Arkansas River at Ralston,621200010200-001AT,Chlorophyll,Likely Upward,1,20.3,ug/L,95.51,Not applicable,Not Applicable
+Arkansas River,Arkansas@Ralston,Arkansas River at Ralston,621200010200-001AT,Dissolved oxygen [DO] (mg/l),Likely Upward,1,0.03013,mg/L,0,N/A,N/A
+Arkansas River,Arkansas@Ralston,Arkansas River at Ralston,621200010200-001AT,"Temperature, water (deg C)",No Likely Trend,0,0,deg C,0,N/A,N/A
+Arkansas River,Arkansas@Ralston,Arkansas River at Ralston,621200010200-001AT,Turbidity (NTU),Highly Likely Downward,-3,-0.9062,NTU,0,N/A,N/A
+Black Bear Creek,Black Bear Creek@PAWNEE,Black Bear Creek at Pawnee,621200030010-001AT,Total Nitrogen,Highly Likely Upward,3,0.579,mg/L,46.86,0.246 10^6 kg/year,49.53%
+Black Bear Creek,Black Bear Creek@PAWNEE,Black Bear Creek at Pawnee,621200030010-001AT,Total Phosphorus,Highly Likely Upward,3,0.0677,mg/L,28.74,0.036 10^6 kg/year,-15.11%
+Black Bear Creek,Black Bear Creek@PAWNEE,Black Bear Creek at Pawnee,621200030010-001AT,Conductivity,Likely Upward,1,31.7,uS/cm,228.71,Not applicable,Not Applicable
+Black Bear Creek,Black Bear Creek@PAWNEE,Black Bear Creek at Pawnee,621200030010-001AT,Hardness,No Likely Trend,0,-2.5,mg/L,-1.09,Not applicable,Not Applicable
+Black Bear Creek,Black Bear Creek@PAWNEE,Black Bear Creek at Pawnee,621200030010-001AT,Chlorophyll,Likely Upward,1,31.7,ug/L,228.71,Not applicable,Not Applicable
+Black Bear Creek,BlackBear@Pawnee,Black Bear Creek at Pawnee,621200030010-001AT,Dissolved oxygen [DO] (mg/l),Likely Downward,-1,-0.03601,mg/L,0,N/A,N/A
+Black Bear Creek,BlackBear@Pawnee,Black Bear Creek at Pawnee,621200030010-001AT,"Temperature, water (deg C)",Likely Upward,1,0.05353,deg C,0,N/A,N/A
+Black Bear Creek,BlackBear@Pawnee,Black Bear Creek at Pawnee,621200030010-001AT,Turbidity (NTU),Highly Likely Downward,-3,-0.9884,NTU,0,N/A,N/A
+North Canadian River,NCanadian@Seiling,North Canadian at Seiling,720500010010-001AT,Dissolved oxygen [DO] (mg/l),Likely Upward,1,0.02995,mg/L,0,N/A,N/A
+North Canadian River,NCanadian@Seiling,North Canadian at Seiling,720500010010-001AT,"Temperature, water (deg C)",Highly Likely Upward,3,0.1269,deg C,0,N/A,N/A
+North Canadian River,NCanadian@Seiling,North Canadian at Seiling,720500010010-001AT,Turbidity (NTU),Highly Likely Downward,-3,-0.6862,NTU,0,N/A,N/A
+Canadian River (Woodward),North Canadian River@WOODWARD,North Canadian River at Woodward,720500010140-001AT,Total Nitrogen,Highly Likely Upward,3,0.719,mg/L,40.96, -0.0631 kg/year,-47.66%
+Canadian River (Woodward),North Canadian River@WOODWARD,North Canadian River at Woodward,720500010140-001AT,Total Phosphorus,Highly Likely Downward,-3,-0.186,mg/L,144.99, -0.039 10^6 kg/year,-29.33%
+Canadian River (Woodward),North Canadian River@WOODWARD,North Canadian River at Woodward,720500010140-001AT,Conductivity,Highly Likely Upward,3,682,uS/cm,44.1,Not applicable,Not Applicable
+Canadian River (Woodward),North Canadian River@WOODWARD,North Canadian River at Woodward,720500010140-001AT,Hardness,Highly Likely Upward,3,119,mg/L,22.89,Not applicable,Not Applicable
+Canadian River (Woodward),North Canadian River@WOODWARD,North Canadian River at Woodward,720500010140-001AT,Chlorophyll,No Likely Trend,0,-5.26,ug/L,24.85,Not applicable,Not Applicable
+North Canadian River,NCanadian@Woodward,North Canadian River at Woodward,720500010140-001AT,Dissolved oxygen [DO] (mg/l),Highly Likely Upward,3,0.07053,mg/L,0,N/A,N/A
+North Canadian River,NCanadian@Woodward,North Canadian River at Woodward,720500010140-001AT,"Temperature, water (deg C)",Somewhat Likely Upward,2,0.1165,deg C,0,N/A,N/A
+North Canadian River,NCanadian@Woodward,North Canadian River at Woodward,720500010140-001AT,Turbidity (NTU),Highly Likely Downward,-3,-0.2064,NTU,0,N/A,N/A
+Beaver River,Beaver@Ft Supply_BR,Beaver at Ft Supply,720500020010-002AT,Dissolved oxygen [DO] (mg/l),Highly Likely Downward,-3,-0.1493,mg/L,0,N/A,N/A
+Beaver River,Beaver@Ft Supply_BR,Beaver at Ft Supply,720500020010-002AT,"Temperature, water (deg C)",No Likely Trend,0,0,deg C,0,N/A,N/A
+Beaver River,Beaver@Ft Supply_BR,Beaver at Ft Supply,720500020010-002AT,Turbidity (NTU),No Likely Trend,0,0,NTU,0,N/A,N/A
+Beaver River,Beaver@Gate,Beaver at Gate,720500020140-001AT,Dissolved oxygen [DO] (mg/l),Likely Upward,1,0.3353,mg/L,0,N/A,N/A
+Beaver River,Beaver@Gate,Beaver at Gate,720500020140-001AT,"Temperature, water (deg C)",Likely Upward,1,1.124,deg C,0,N/A,N/A
+Beaver River,Beaver@Gate,Beaver at Gate,720500020140-001AT,Turbidity (NTU),No Likely Trend,0,0,NTU,0,N/A,N/A
+Beaver River,Beaver River@BEAVER,Beaver River at Beaver,720500020290-001AT,Total Nitrogen,Highly Likely Upward,3,0.821,mg/L,113.42, -0.000691 10^6 kg/year,-18.44%
+Beaver River,Beaver River@BEAVER,Beaver River at Beaver,720500020290-001AT,Total Phosphorus,Likely Downward,-1,-0.00139,mg/L,2.04, -0.000338 10^6 kg/year,-68.16%
+Beaver River,Beaver River@BEAVER,Beaver River at Beaver,720500020290-001AT,Conductivity,Highly Likely Upward,3,7802,uS/cm,109.1,Not applicable,Not Applicable
+Beaver River,Beaver River@BEAVER,Beaver River at Beaver,720500020290-001AT,Hardness,Highly Likely Upward,3,2059,mg/L,172.3,Not applicable,Not Applicable
+Beaver River,Beaver River@BEAVER,Beaver River at Beaver,720500020290-001AT,Chlorophyll,No Likely Trend,0,2.37,ug/L,7.1,Not applicable,Not Applicable
+Beaver River,Beaver@Beaver,Beaver River at Beaver,720500020290-001AT,Dissolved oxygen [DO] (mg/l),Likely Downward,-1,-0.062,mg/L,0,N/A,N/A
+Beaver River,Beaver@Beaver,Beaver River at Beaver,720500020290-001AT,"Temperature, water (deg C)",Highly Likely Downward,-3,-0.1324,deg C,0,N/A,N/A
+Beaver River,Beaver@Beaver,Beaver River at Beaver,720500020290-001AT,Turbidity (NTU),Highly Likely Upward,3,0.135,NTU,0,N/A,N/A
+Beaver River,Beaver@Turpin,Beaver at Turpin,720500020450-001AT,Dissolved oxygen [DO] (mg/l),Somewhat Likely Upward,2,0.3504,mg/L,0,N/A,N/A
+Beaver River,Beaver@Turpin,Beaver at Turpin,720500020450-001AT,"Temperature, water (deg C)",Likely Upward,1,0.6885,deg C,0,N/A,N/A
+Beaver River,Beaver@Turpin,Beaver at Turpin,720500020450-001AT,Turbidity (NTU),No Likely Trend,0,0,NTU,0,N/A,N/A
+Wolf Creek,Wolf@Ft Supply_WC,Wolf at Ft Supply,720500030010-001AT,Dissolved oxygen [DO] (mg/l),No Likely Trend,0,0,mg/L,0,N/A,N/A
+Wolf Creek,Wolf@Ft Supply_WC,Wolf at Ft Supply,720500030010-001AT,"Temperature, water (deg C)",No Likely Trend,0,0,deg C,0,N/A,N/A
+Wolf Creek,Wolf@Ft Supply_WC,Wolf at Ft Supply,720500030010-001AT,Turbidity (NTU),Highly Likely Downward,-3,-0.4262,NTU,0,N/A,N/A
+Beaver River,Beaver@Guymon,Beaver at Guymon,720510000190-001AT,Dissolved oxygen [DO] (mg/l),No Likely Trend,0,0,mg/L,0,N/A,N/A
+Beaver River,Beaver@Guymon,Beaver at Guymon,720510000190-001AT,"Temperature, water (deg C)",Likely Upward,1,0.5285,deg C,0,N/A,N/A
+Beaver River,Beaver@Guymon,Beaver at Guymon,720510000190-001AT,Turbidity (NTU),Highly Likely Downward,-3,-0.5703,NTU,0,N/A,N/A
