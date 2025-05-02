@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Lake Gauge</title>
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+</head>
+<body>
+  <h2 style="text-align:center;">Lake Gauge</h2>
+  <div style="text-align:center;">
+    <label for="lake">Lake:</label>
+    <select id="lake"></select>
+
+    <label for="site">Site:</label>
+    <select id="site"></select>
+
+    <label for="parameter">Parameter:</label>
+    <select id="parameter"></select>
+  </div>
+  <div id="gauge" style="width:600px;height:400px;margin:auto;"></div>
+
+  <script>
+    let dataURL = "https://raw.githubusercontent.com/0011235813/OWRB/main/GAM_percent_change_results2.csv";
+
+    function fetchCSV(url) {
+      return fetch(url)
+        .then(response => response.text())
+        .then(text => {
+          const rows = text.trim().split("\n").map(row => row.split(","));
+          const headers = rows[0];
+          return rows.slice(1).map(row =>
+            Object.fromEntries(row.map((cell, i) => [headers[i], cell]))
+          );
+        });
+    }
+
+    function populateSelects(data) {
+      const lakes = [...new Set(data.map(d => d.Lake))];
+      const lakeSelect = document.getElementById("lake");
+      lakeSelect.innerHTML = lakes.map(l => `<option value="${l}">${l}</option>`).join("");
+
+      lakeSelect.addEventListener("change", () => updateSites(data));
+      document.getElementById("site").addEventListener("change", () => updateParameters(data));
+      document.getElementById("parameter").addEventListener("change", () => updateGauge(data));
+
+      lakeSelect.dispatchEvent(new Event("change"));
+    }
+
+    function updateSites(data) {
+      const lake = document.getElementById("lake").value;
+      const sites = [...new Set(data.filter(d => d.Lake === lake).map(d => d.Monitoring_Location_ID))];
+      const siteSelect = document.getElementById("site");
+      siteSelect.innerHTML = sites.map(s => `<option value="${s}">${s}</option>`).join("");
+      siteSelect.dispatchEvent(new Event("change"));
+    }
+
+    function updateParameters(data) {
+      const lake = document.getElementById("lake").value;
+      const site = document.getElementById("site").value;
+      const parameters = [...new Set(data.filter(d => d.Lake === lake && d.Monitoring_Location_ID === site).map(d => d.Characteristic_Name))];
+      const paramSelect = document.getElementById("parameter");
+      paramSelect.innerHTML = parameters.map(p => `<option value="${p}">${p}</option>`).join("");
+      paramSelect.dispatchEvent(new Event("change"));
+    }
+
+    function updateGauge(data) {
+      const lake = document.getElementById("lake").value;
+      const site = document.getElementById("site").value;
+      const parameter = document.getElementById("parameter").value;
+      const entry = data.find(d => d.Lake === lake && d.Monitoring_Location_ID === site && d.Characteristic_Name === parameter);
+
+      const value = parseFloat(entry?.GAM_Percent_Change);
+      const gaugeValue = Math.max(-100, Math.min(100, isNaN(value) ? 0 : value));
+
+      const displayText = isNaN(value)
+        ? "<b>No Percent Change Available</b>"
+        : `<b>% Change:</b> ${value.toFixed(2)}%`;
+
+      Plotly.newPlot('gauge', [{
+        type: "indicator",
+        mode: "gauge+number",
+        value: gaugeValue,
+        gauge: {
+          axis: { range: [-100, 100], tickvals: [-100, -50, 0, 50, 100] },
+          bar: { color: "lightblue" },
+          steps: [
+            { range: [-100, 0], color: "green" },
+            { range: [0, 100], color: "firebrick" }
+          ]
+        }
+      }], {
+        annotations: [{
+          text: displayText,
+          x: 0.5, y: 0,
+          showarrow: false,
+          font: { size: 16 },
+          align: "center"
+        }]
+      });
+    }
+
+    fetchCSV(dataURL).then(data => populateSelects(data));
+  </script>
+</body>
+</html>
