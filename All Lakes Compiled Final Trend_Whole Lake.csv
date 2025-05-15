@@ -1,0 +1,639 @@
+﻿Name,Site,Parameter,Final,TrendConc,Direction,Final Slope,N,Site ANOVA,Seas ANOVA
+Altus,all,Chlorophyll (ug/L),NS Trend,No Significant Trend,N/A,,23,NS,***
+Altus,all,Pheophytin A (ug/L),↓↓↓,Highly Likely Downward,down,-0.03508,23,NS,***
+Altus,all,Secchi (cm),NS Trend,No Significant Trend,N/A,,17,NS,***
+Altus,all,SpC (uS/cm),↑↑↑,Highly Likely Upward,up,176.9,7,NS,NS
+Altus,all,Total N (mg/L),↑↑↑,Highly Likely Upward,up,0.000034,24,NS,***
+Altus,all,Total P (mg/L),NS Trend,No Significant Trend,N/A,,24,NS,***
+Altus,all,Turbidity (NTU),↓,Likely Downward,down,-0.4603,18,***,NS
+Arbuckle,all,Chlorophyll (ug/L),↑↑↑,Highly Likely Upward,up,0.6518,30,NS,*
+Arbuckle,all,Secchi (cm),↓↓↓,Highly Likely Downward,down,-7.07,22,***,***
+Arbuckle,all,SpC (uS/cm),NS Trend,No Significant Trend,N/A,,44,NS,***
+Arbuckle,all,Total N (mg/L),↑↑↑,Highly Likely Upward,up,0.008325,38,NS,NS
+Arbuckle,all,Total P (mg/L),NS Trend,No Significant Trend,N/A,,36,NS,**
+Arbuckle,all,Turbidity (NTU),↓↓,Somewhat Likely Downward,down,-0.1308,23,***,***
+Arcadia,all,Chlorophyll (ug/L),↑↑↑,Highly Likely Upward,up,0.408,71,**,***
+Arcadia,all,Secchi (cm),↓↓,Somewhat Likely Downward,down,-2.196,68,***,***
+Arcadia,all,SpC (uS/cm),↑↑↑,Highly Likely Upward,up,1.59,82,***,***
+Arcadia,all,Total N (mg/L),↑↑↑,Highly Likely Upward,up,0.01579,83,NS,***
+Arcadia,all,Total P (mg/L),↑↑↑,Highly Likely Upward,up,0.002448,77,***,***
+Arcadia,all,Turbidity (NTU),↓,Likely Downward,down,0.7841,72,NS,NS
+Atoka,all,Chlorophyll (ug/L),NS Trend,No Significant Trend,N/A,,26,**,***
+Atoka,all,Secchi (cm),NS Trend,No Significant Trend,N/A,,20,***,***
+Atoka,all,SpC (uS/cm),↑↑↑,Highly Likely Upward,up,1.53,42,NS,*
+Atoka,all,Total N (mg/L),↓↓,Somewhat Likely Downward,down,-0.0192,44,***,***
+Atoka,all,Total P (mg/L),↓↓↓,Highly Likely Downward,down,-0.00664,38,***,***
+Atoka,all,Turbidity (NTU),NS Trend,No Significant Trend,N/A,,24,***,***
+Bellcow,all,Chlorophyll (ug/L),↑↑↑,Highly Likely Upward,up,0.4549,35,***,***
+Bellcow,all,Pheophytin A (ug/L),↑↑↑,Highly Likely Upward,up,0.697,35,*,***
+Bellcow,all,Secchi (cm),↑↑↑,Highly Likely Upward,up,0.0037,26,*,NS
+Bellcow,all,SpC (uS/cm),↑↑,Somewhat Likely Upward,up,0.9,36,*,NS
+Bellcow,all,Total N (mg/L),↑↑,Somewhat Likely Upward,up,0.006736,35,***,NS
+Bellcow,all,Total P (mg/L),NS Trend,No Significant Trend,N/A,,35,***,NS
+Bellcow,all,Turbidity (NTU),↓↓,Somewhat Likely Downward,down,-0.6172,26,***,NS
+Birch,all,Chlorophyll (ug/L),NS Trend,No Significant Trend,N/A,,30,NS,*
+Birch,all,Pheophytin A (ug/L),↑↑↑,Highly Likely Upward,up,0.2469,30,NS,*
+Birch,all,Secchi (cm),NS Trend,No Significant Trend,N/A,,21,NS,***
+Birch,all,SpC (uS/cm),↑,Likely Upward,up,1.41,39,NS,NS
+Birch,all,Total N (mg/L),↑↑↑,Highly Likely Upward,up,0.007291,36,*,***
+Birch,all,Total P (mg/L),NS Trend,No Significant Trend,N/A,,36,*,***
+Birch,all,Turbidity (NTU),NS Trend,No Significant Trend,N/A,,28,NS,***
+Bluestem,all,Chlorophyll (ug/L),↑↑,Somewhat Likely Upward,up,0.00779,32,*,***
+Bluestem,all,Pheophytin A (ug/L),NS Trend,No Significant Trend,N/A,,32,NS,NS
+Bluestem,all,Secchi (cm),↑,Likely Upward,up,1.464,32,***,***
+Bluestem,all,SpC (uS/cm),↑↑,Somewhat Likely Upward,up,1.85,41,NS,***
+Bluestem,all,Total N (mg/L),↓↓↓,Highly Likely Downward,down,-0.02604,42,NS,***
+Bluestem,all,Total P (mg/L),↓↓↓,Highly Likely Downward,down,-0.0008952,42,NS,***
+Bluestem,all,Turbidity (NTU),↓,Likely Downward,down,-0.3936,32,***,***
+Boomer,all,Chlorophyll (ug/L),↑↑↑,Highly Likely Upward,up,1.822,19,**,***
+Boomer,all,Pheophytin A (ug/L),↑↑,Somewhat Likely Upward,up,0.8772,19,NS,**
+Boomer,all,Secchi (cm),NS Trend,No Significant Trend,N/A,,14,***,***
+Boomer,all,SpC (uS/cm),↑↑↑,Highly Likely Upward,up,5.49,27,***,NS
+Boomer,all,Total N (mg/L),↑↑,Somewhat Likely Upward,up,0.000524,22,NS,NS
+Boomer,all,Total P (mg/L),↑↑↑,Highly Likely Upward,up,0.00006,22,***,*
+Boomer,all,Turbidity (NTU),↓,Likely Downward,down,-0.2677,17,***,**
+BrokenBow,all,Chlorophyll (ug/L),↑↑↑,Highly Likely Upward,up,0.2099,30,**,***
+BrokenBow,all,Secchi (cm),NS Trend,No Significant Trend,N/A,,28,***,***
+BrokenBow,all,SpC (uS/cm),↑↑↑,Highly Likely Upward,up,0.49,41,NS,***
+BrokenBow,all,Total N (mg/L),↓↓↓,Highly Likely Downward,down,-0.01207,35,NS,***
+BrokenBow,all,Total P (mg/L),↓↓↓,Highly Likely Downward,down,-0.00024,33,***,***
+BrokenBow,all,Turbidity (NTU),↓↓↓,Highly Likely Downward,down,-0.00837,29,***,***
+CantonLake,all,Chlorophyll (ug/L),↑,Likely Upward,up,0.5037,35,NS,***
+CantonLake,all,Pheophytin A (ug/L),NS Trend,No Significant Trend,N/A,,34,*,***
+CantonLake,all,Secchi (cm),NS Trend,No Significant Trend,N/A,,36,**,***
+CantonLake,all,SpC (uS/cm),↑↑↑,Highly Likely Upward,up,15.52,40,NS,**
+CantonLake,all,Total N (mg/L),↑↑↑,Highly Likely Upward,up,0.000054,36,NS,***
+CantonLake,all,Total P (mg/L),↓↓↓,Highly Likely Downward,down,-0.00397,36,***,***
+CantonLake,all,Turbidity (NTU),NS Trend,No Significant Trend,N/A,,36,  ,*
+CarlAlbert,all,Chlorophyll (ug/L),↑↑↑,Highly Likely Upward,up,0.1749,18,NS,***
+CarlAlbert,all,Pheophytin A (ug/L),↑↑,Somewhat Likely Upward,up,0.05529,18,NS,NS
+CarlAlbert,all,Secchi (cm),NS Trend,No Significant Trend,N/A,,14,NS,*
+CarlAlbert,all,SpC (uS/cm),↑↑↑,Highly Likely Upward,up,0.81,19,NS,NS
+CarlAlbert,all,Total N (mg/L),↑↑,Somewhat Likely Upward,up,0.004056,20,NS,**
+CarlAlbert,all,Total P (mg/L),NS Trend,No Significant Trend,N/A,,20,NS,NS
+CarlAlbert,all,Turbidity (NTU),↓↓↓,Highly Likely Downward,down,-0.0192,14,NS,***
+CarlBlackwell,all,Chlorophyll (ug/L),NS Trend,No Significant Trend,N/A,,26,NS,***
+CarlBlackwell,all,Secchi (cm),↓↓,Somewhat Likely Downward,down,-2.61,21,***,***
+CarlBlackwell,all,SpC (uS/cm),↑↑↑,Highly Likely Upward,up,30.36,8,NS,***
+CarlBlackwell,all,Total N (mg/L),NS Trend,No Significant Trend,N/A,,34,**,***
+CarlBlackwell,all,Total P (mg/L),↓↓,Somewhat Likely Downward,down,-0.0005255,34,NS,***
+CarlBlackwell,all,Turbidity (NTU),NS Trend,No Significant Trend,N/A,,25,***,***
+Chandler,all,Chlorophyll (ug/L),NS Trend,No Significant Trend,N/A,,20,NS,*
+Chandler,all,Pheophytin A (ug/L),↑↑,Somewhat Likely Upward,up,0.09941,20,NS,NS
+Chandler,all,Secchi (cm),NS Trend,No Significant Trend,N/A,,13,NS,***
+Chandler,all,SpC (uS/cm),↑↑↑,Highly Likely Upward,up,6.5,18,NS,**
+Chandler,all,Total N (mg/L),↓,Likely Downward,down,-0.0171,26,NS,NS
+Chandler,all,Total P (mg/L),NS Trend,No Significant Trend,N/A,,26,NS,NS
+Chandler,all,Turbidity (NTU),NS Trend,No Significant Trend,N/A,,16,NS,*
+Chickasha,all,Chlorophyll (ug/L),NS Trend,No Significant Trend,N/A,,32,NS,***
+Chickasha,all,Pheophytin A (ug/L),↑↑,Somewhat Likely Upward,up,0.05824,32,NS,***
+Chickasha,all,Secchi (cm),NS Trend,No Significant Trend,N/A,,25,NS,***
+Chickasha,all,SpC (uS/cm),↑↑↑,Highly Likely Upward,up,37.67,33,***,***
+Chickasha,all,Total N (mg/L),NS Trend,No Significant Trend,N/A,,36,***,NS
+Chickasha,all,Total P (mg/L),↓↓↓,Highly Likely Downward,down,-0.000002,36,NS,***
+Chickasha,all,Turbidity (NTU),↓,Likely Downward,down,-0.2113,30,***,***
+Claremore,all,Chlorophyll (ug/L),↓,Likely Downward,down,-0.001225,23,NS,***
+Claremore,all,Pheophytin A (ug/L),↑,Likely Upward,up,0.1864,23,NS,NS
+Claremore,all,Secchi (cm),NS Trend,No Significant Trend,N/A,,24,NS,*
+Claremore,all,SpC (uS/cm),NS Trend,No Significant Trend,N/A,,24,NS,***
+Claremore,all,Total N (mg/L),↑↑,Somewhat Likely Upward,up,0.00061,26,NS,***
+Claremore,all,Total P (mg/L),NS Trend,No Significant Trend,N/A,,26,NS,***
+Claremore,all,Turbidity (NTU),NS Trend,No Significant Trend,N/A,,24,***,***
+ClearCreek,all,Chlorophyll (ug/L),↑↑↑,Highly Likely Upward,up,1.156,28,NS,***
+ClearCreek,all,Secchi (cm),↑↑↑,Highly Likely Upward,up,1.668,24,NS,***
+ClearCreek,all,SpC (uS/cm),↑↑↑,Highly Likely Upward,up,5.71,35,NS,NS
+ClearCreek,all,Total N (mg/L),↑↑↑,Highly Likely Upward,up,0.01219,33,NS,***
+ClearCreek,all,Total P (mg/L),NS Trend,No Significant Trend,N/A,,33,NS,***
+ClearCreek,all,Turbidity (NTU),NS Trend,No Significant Trend,N/A,,29,**,***
+Clinton,all,Chlorophyll (ug/L),NS Trend,No Significant Trend,N/A,,18,NS,***
+Clinton,all,Pheophytin A (ug/L),NS Trend,No Significant Trend,N/A,,18,NS,***
+Clinton,all,Secchi (cm),↑↑,Somewhat Likely Upward,up,0.9196,16,NS,***
+Clinton,all,SpC (uS/cm),↑↑↑,Highly Likely Upward,up,11,23,NS,**
+Clinton,all,Total N (mg/L),NS Trend,No Significant Trend,N/A,,33,NS,*
+Clinton,all,Total P (mg/L),NS Trend,No Significant Trend,N/A,,33,NS,***
+Clinton,all,Turbidity (NTU),↓↓↓,Highly Likely Downward,down,-1.631,16,NS,***
+Coalgate,all,Chlorophyll (ug/L),↑,Likely Upward,up,0.1612,21,NS,***
+Coalgate,all,Pheophytin A (ug/L),↑,Likely Upward,up,0.09554,21,NS,NS
+Coalgate,all,Secchi (cm),NS Trend,No Significant Trend,N/A,,17,NS,**
+Coalgate,all,SpC (uS/cm),↑↑↑,Highly Likely Upward,up,2.33,22,NS,NS
+Coalgate,all,Total N (mg/L),NS Trend,No Significant Trend,N/A,,25,NS,***
+Coalgate,all,Total P (mg/L),↓,Likely Downward,down,-0.0008761,25,NS,NS
+Coalgate,all,Turbidity (NTU),↑↑↑,Highly Likely Upward,up,0.1017,21,NS,***
+Copan,all,Chlorophyll (ug/L),NS Trend,No Significant Trend,N/A,,22,**,***
+Copan,all,Secchi (cm),↑↑↑,Highly Likely Upward,up,3.538,14,NS,***
+Copan,all,SpC (uS/cm),NS Trend,No Significant Trend,N/A,,33,NS,***
+Copan,all,Total N (mg/L),↑↑↑,Highly Likely Upward,up,0.001675,31,*,***
+Copan,all,Total P (mg/L),NS Trend,No Significant Trend,N/A,,29,***,***
+Copan,all,Turbidity (NTU),↓,Likely Downward,down,-3.057,18,***,***
+CrowderLake,all,Chlorophyll (ug/L),↑,Likely Upward,up,1.464,66,*,***
+CrowderLake,all,Pheophytin A (ug/L),↑↑↑,Highly Likely Upward,up,0.3638,66,***,*
+CrowderLake,all,Secchi (cm),NS Trend,No Significant Trend,N/A,,64,***,***
+CrowderLake,all,SpC (uS/cm),↑↑↑,Highly Likely Upward,up,13.42,60,***,***
+CrowderLake,all,Total N (mg/L),↑↑↑,Highly Likely Upward,up,0.03213,66,***,***
+CrowderLake,all,Total P (mg/L),↑↑↑,Highly Likely Upward,up,0.0043,63,***,***
+CrowderLake,all,Turbidity (NTU),NS Trend,No Significant Trend,N/A,,63,***,***
+Cushing,all,Chlorophyll (ug/L),NS Trend,No Significant Trend,N/A,,20,*,NS
+Cushing,all,Pheophytin A (ug/L),NS Trend,No Significant Trend,N/A,,20,***,***
+Cushing,all,Secchi (cm),NS Trend,No Significant Trend,N/A,,15,NS,***
+Cushing,all,SpC (uS/cm),↑↑↑,Highly Likely Upward,up,9,29,NS,*
+Cushing,all,Total N (mg/L),NS Trend,No Significant Trend,N/A,,24,NS,***
+Cushing,all,Total P (mg/L),NS Trend,No Significant Trend,N/A,,24,NS,***
+Cushing,all,Turbidity (NTU),↓↓↓,Highly Likely Downward,down,-0.2651,18,***,***
+Stanley Draper,all,Chlorophyll (ug/L),↑↑↑,Highly Likely Upward,up,0.1825,29,NS,***
+Draper,all,Pheophytin A (ug/L),↑,Likely Upward,up,0.0612,29,NS,NS
+Draper,all,Secchi (cm),NS Trend,No Significant Trend,N/A,,25,NS,***
+Draper,all,SpC (uS/cm),↑↑↑,Highly Likely Upward,up,0.73,41,NS,***
+Draper,all,Total N (mg/L),NS Trend,No Significant Trend,N/A,,34,NS,NS
+Draper,all,Total P (mg/L),↓↓,Somewhat Likely Downward,down,-0.0004432,34,NS,*
+Draper,all,Turbidity (NTU),↓↓,Somewhat Likely Downward,down,-0.5477,26,NS,***
+Dripping,all,Chlorophyll (ug/L),↑↑,Somewhat Likely Upward,up,0.000257,25,NS,***
+Dripping,all,Pheophytin A (ug/L),↓↓,Somewhat Likely Downward,down,-0.512,25,NS,*
+Dripping,all,Secchi (cm),NS Trend,No Significant Trend,N/A,,26,*,***
+Dripping,all,SpC (uS/cm),↑↑↑,Highly Likely Upward,up,1.54,32,*,NS
+Dripping,all,Total N (mg/L),NS Trend,No Significant Trend,N/A,,29,NS,NS
+Dripping,all,Total P (mg/L),↓↓↓,Highly Likely Downward,down,-0.000102,29,NS,NS
+Dripping,all,Turbidity (NTU),NS Trend,No Significant Trend,N/A,,29,NS,***
+Duncan,all,Chlorophyll (ug/L),NS Trend,No Significant Trend,N/A,,18,NS,**
+Duncan,all,Pheophytin A (ug/L),↑↑↑,Highly Likely Upward,up,0.2985,18,NS,NS
+Duncan,all,Secchi (cm),↑↑↑,Highly Likely Upward,up,36.67,12,NS,NS
+Duncan,all,SpC (uS/cm),↑↑,Somewhat Likely Upward,up,7.66,22,NS,***
+Duncan,all,Total N (mg/L),↓↓↓,Highly Likely Downward,down,-0.1266,25,NS,NS
+Duncan,all,Total P (mg/L),NS Trend,No Significant Trend,N/A,,25,NS,***
+Duncan,all,Turbidity (NTU),↓↓↓,Highly Likely Downward,down,-2.121,19,NS,***
+Ellsworth,all,Chlorophyll (ug/L),NS Trend,No Significant Trend,N/A,,28,**,***
+Ellsworth,all,Secchi (cm),NS Trend,No Significant Trend,N/A,,21,***,***
+Ellsworth,all,SpC (uS/cm),NS Trend,No Significant Trend,N/A,,41,NS,***
+Ellsworth,all,Total N (mg/L),NS Trend,No Significant Trend,N/A,,38,**,***
+Ellsworth,all,Total P (mg/L),↑↑,Somewhat Likely Upward,up,0.001048,36,***,***
+Ellsworth,all,Turbidity (NTU),NS Trend,No Significant Trend,N/A,,27,***,***
+EThomas,all,Chlorophyll (ug/L),↑↑↑,Highly Likely Upward,up,0.07368,19,NS,NS
+EThomas,all,Pheophytin A (ug/L),NS Trend,No Significant Trend,N/A,,19,NS,**
+EThomas,all,Secchi (cm),NS Trend,No Significant Trend,N/A,,8,NS,**
+EThomas,all,SpC (uS/cm),↑↑↑,Highly Likely Upward,up,1.84,22,NS,***
+EThomas,all,Total N (mg/L),NS Trend,No Significant Trend,N/A,,22,NS,***
+EThomas,all,Total P (mg/L),↓↓↓,Highly Likely Downward,down,-0.0004395,22,NS,NS
+EThomas,all,Turbidity (NTU),NS Trend,No Significant Trend,N/A,,14,NS,***
+EuchaLake,all,Chlorophyll (ug/L),↑↑↑,Highly Likely Upward,up,0.4181,49,***,***
+EuchaLake,all,Pheophytin A (ug/L),↑,Likely Upward,up,0.2134,49,NS,**
+EuchaLake,all,Secchi (cm),NS Trend,No Significant Trend,N/A,,31,*,***
+EuchaLake,all,SpC (uS/cm),NS Trend,No Significant Trend,N/A,,27,***,***
+EuchaLake,all,Total N (mg/L),↑↑↑,Highly Likely Upward,up,0.000105,32,***,***
+EuchaLake,all,Total P (mg/L),↑↑↑,Highly Likely Upward,up,0.000003,31,NS,***
+EuchaLake,all,Turbidity (NTU),NS Trend,No Significant Trend,N/A,,31,*,***
+Eufaula,all,Chlorophyll (ug/L),NS Trend,No Significant Trend,N/A,,38,***,***
+Eufaula,all,Pheophytin A (ug/L),↑↑↑,Highly Likely Upward,up,0.1638,38,***,***
+Eufaula,all,Secchi (cm),NS Trend,No Significant Trend,N/A,,30,***,***
+Eufaula,all,SpC (uS/cm),NS Trend,No Significant Trend,N/A,,44,***,***
+Eufaula,all,Total N (mg/L),↑↑↑,Highly Likely Upward,up,0.008307,46,***,***
+Eufaula,all,Total P (mg/L),↑↑↑,Highly Likely Upward,up,0.001224,46,***,***
+Eufaula,all,Turbidity (NTU),↑↑,Somewhat Likely Upward,up,0.5091,34,***,***
+Fairfax,all,Chlorophyll (ug/L),↑↑↑,Highly Likely Upward,up,0.001472,23,NS,***
+Fairfax,all,Pheophytin A (ug/L),↑↑↑,Highly Likely Upward,up,0.000739,23,NS,***
+Fairfax,all,Secchi (cm),NS Trend,No Significant Trend,N/A,,22,*,***
+Fairfax,all,SpC (uS/cm),↑,Likely Upward,up,0.93,31,NS,***
+Fairfax,all,Total N (mg/L),↓↓,Somewhat Likely Downward,down,-0.000378,33,*,***
+Fairfax,all,Total P (mg/L),NS Trend,No Significant Trend,N/A,,33,NS,*
+Fairfax,all,Turbidity (NTU),NS Trend,No Significant Trend,N/A,,22,NS,***
+FortCobb,all,Chlorophyll (ug/L),NS Trend,No Significant Trend,N/A,,39,*,***
+FortCobb,all,Pheophytin A (ug/L),↑↑↑,Highly Likely Upward,up,0.3144,39,*,***
+FortCobb,all,Secchi (cm),↑↑,Somewhat Likely Upward,up,0.7934,37,***,***
+FortCobb,all,SpC (uS/cm),↑↑↑,Highly Likely Upward,up,6.07,47,NS,***
+FortCobb,all,Total N (mg/L),↑↑↑,Highly Likely Upward,up,0.01166,48,NS,***
+FortCobb,all,Total P (mg/L),↑↑↑,Highly Likely Upward,up,0.001706,48,***,***
+FortCobb,all,Turbidity (NTU),↓↓↓,Highly Likely Downward,down,-0.2883,38,***,***
+FortGibson,all,Chlorophyll (ug/L),↑↑,Somewhat Likely Upward,up,0.4281,28,NS,***
+FortGibson,all,Pheophytin A (ug/L),↑↑↑,Highly Likely Upward,up,0.1801,28,NS,***
+FortGibson,all,Secchi (cm),NS Trend,No Significant Trend,N/A,,27,***,***
+FortGibson,all,SpC (uS/cm),↑,Likely Upward,up,0.94,36,NS,***
+FortGibson,all,Total N (mg/L),NS Trend,No Significant Trend,N/A,,34,NS,***
+FortGibson,all,Total P (mg/L),NS Trend,No Significant Trend,N/A,,34,***,***
+FortGibson,all,Turbidity (NTU),NS Trend,No Significant Trend,N/A,,28,***,***
+FortSupplyLake,all,Chlorophyll (ug/L),↑↑,Somewhat Likely Upward,up,0.4539,38,NS,***
+FortSupplyLake,all,Pheophytin A (ug/L),↑↑,Somewhat Likely Upward,up,0.134,38,NS,***
+FortSupplyLake,all,Secchi (cm),NS Trend,No Significant Trend,N/A,,36,***,***
+FortSupplyLake,all,SpC (uS/cm),↑↑↑,Highly Likely Upward,up,19.51,40,***,NS
+FortSupplyLake,all,Total N (mg/L),↑↑,Somewhat Likely Upward,up,0.01718,39,NS,***
+FortSupplyLake,all,Total P (mg/L),NS Trend,No Significant Trend,N/A,,39,*,***
+FortSupplyLake,all,Turbidity (NTU),NS Trend,No Significant Trend,N/A,,37,***,***
+Foss,all,Chlorophyll (ug/L),↓↓↓,Highly Likely Downward,down,-0.3312,36,NS,***
+Foss,all,Pheophytin A (ug/L),↓↓,Somewhat Likely Downward,down,-0.00651,36,NS,***
+Foss,all,Secchi (cm),↑↑↑,Highly Likely Upward,up,4.265,28,***,***
+Foss,all,SpC (uS/cm),↑↑↑,Highly Likely Upward,up,16.14,35,NS,*
+Foss,all,Total N (mg/L),↑↑↑,Highly Likely Upward,up,0.004877,47,***,***
+Foss,all,Total P (mg/L),↓↓↓,Highly Likely Downward,down,-0.0004082,47,***,***
+Foss,all,Turbidity (NTU),↓↓↓,Highly Likely Downward,down,-0.437,31,***,***
+Frederick,all,Chlorophyll (ug/L),NS Trend,No Significant Trend,N/A,,33,NS,NS
+Frederick,all,Pheophytin A (ug/L),↑↑↑,Highly Likely Upward,up,0.06047,33,*,***
+Frederick,all,Secchi (cm),↑,Likely Upward,up,0.000733,29,NS,***
+Frederick,all,SpC (uS/cm),↑↑↑,Highly Likely Upward,up,4.46,35,NS,***
+Frederick,all,Total N (mg/L),↑↑↑,Highly Likely Upward,up,0.002054,35,NS,***
+Frederick,all,Total P (mg/L),NS Trend,No Significant Trend,N/A,,35,NS,***
+Frederick,all,Turbidity (NTU),↓↓,Somewhat Likely Downward,down,-2.036,32,*,*
+Fuqua,all,Chlorophyll (ug/L),↑,Likely Upward,up,0.32,30,**,***
+Fuqua,all,Secchi (cm),↓↓,Somewhat Likely Downward,down,1.115,26,***,***
+Fuqua,all,SpC (uS/cm),↑↑↑,Highly Likely Upward,up,4.38,33,NS,NS
+Fuqua,all,Total N (mg/L),↓↓↓,Highly Likely Downward,down,-0.01526,34,NS,***
+Fuqua,all,Total P (mg/L),NS Trend,No Significant Trend,N/A,,34,NS,***
+Fuqua,all,Turbidity (NTU),↓,Likely Downward,down,-0.3543,31,***,***
+Grand,all,SpC (uS/cm),NS Trend,No Significant Trend,N/A,,44,***,***
+GreatSalt,all,Chlorophyll (ug/L),NS Trend,No Significant Trend,N/A,,19,NS,*
+GreatSalt,all,Pheophytin A (ug/L),NS Trend,No Significant Trend,N/A,,19,NS,***
+GreatSalt,all,Secchi (cm),NS Trend,No Significant Trend,N/A,,18,NS,NS
+GreatSalt,all,SpC (uS/cm),↑↑↑,Highly Likely Upward,up,193.8,34,NS,***
+GreatSalt,all,Total N (mg/L),↓↓↓,Highly Likely Downward,down,-0.1554,26,NS,***
+GreatSalt,all,Total P (mg/L),NS Trend,No Significant Trend,N/A,,26,NS,*
+GreatSalt,all,Turbidity (NTU),NS Trend,No Significant Trend,N/A,,18,NS,NS
+Greenleaf,all,Chlorophyll (ug/L),↑↑↑,Highly Likely Upward,up,0.000739,28,NS,*
+Greenleaf,all,Pheophytin A (ug/L),NS Trend,No Significant Trend,N/A,,28,NS,***
+Greenleaf,all,Secchi (cm),NS Trend,No Significant Trend,N/A,,26,*,NS
+Greenleaf,all,SpC (uS/cm),↑↑↑,Highly Likely Upward,up,1.8,32,NS,*
+Greenleaf,all,Total N (mg/L),NS Trend,No Significant Trend,N/A,,32,NS,*
+Greenleaf,all,Total P (mg/L),NS Trend,No Significant Trend,N/A,,32,NS,**
+Greenleaf,all,Turbidity (NTU),NS Trend,No Significant Trend,N/A,,27,NS,*
+Guthrie,all,Chlorophyll (ug/L),↑,Likely Upward,up,1.283,18,NS,***
+Guthrie,all,Pheophytin A (ug/L),↑↑↑,Highly Likely Upward,up,1.617,18,*,***
+Guthrie,all,Secchi (cm),NS Trend,No Significant Trend,N/A,,20,NS,***
+Guthrie,all,SpC (uS/cm),NS Trend,No Significant Trend,N/A,,28,***,***
+Guthrie,all,Total N (mg/L),↑↑↑,Highly Likely Upward,up,-0.001584,25,NS,***
+Guthrie,all,Total P (mg/L),NS Trend,No Significant Trend,N/A,,25,*,***
+Guthrie,all,Turbidity (NTU),NS Trend,No Significant Trend,N/A,,21,NS,***
+Hefner,all,Chlorophyll (ug/L),↑,Likely Upward,up,0.867,29,NS,**
+Hefner,all,Pheophytin A (ug/L),NS Trend,No Significant Trend,N/A,,29,NS,***
+Hefner,all,Secchi (cm),NS Trend,No Significant Trend,N/A,,24,NS,***
+Hefner,all,SpC (uS/cm),↑↑↑,Highly Likely Upward,up,5.94,38,NS,NS
+Hefner,all,Total N (mg/L),NS Trend,No Significant Trend,N/A,,35,***,NS
+Hefner,all,Total P (mg/L),↑↑↑,Highly Likely Upward,up,0.002506,35,NS,***
+Hefner,all,Turbidity (NTU),↓,Likely Downward,down,-0.179,25,NS,***
+Henryetta,all,Chlorophyll (ug/L),NS Trend,No Significant Trend,N/A,,28,***,***
+Henryetta,all,Pheophytin A (ug/L),↑↑↑,Highly Likely Upward,up,0.1069,28,NS,NS
+Henryetta,all,Secchi (cm),NS Trend,No Significant Trend,N/A,,20,NS,NS
+Henryetta,all,SpC (uS/cm),↑↑↑,Highly Likely Upward,up,1.49,30,NS,NS
+Henryetta,all,Total N (mg/L),↓,Likely Downward,down,0.006364,36,NS,***
+Henryetta,all,Total P (mg/L),NS Trend,No Significant Trend,N/A,,36,**,NS
+Henryetta,all,Turbidity (NTU),NS Trend,No Significant Trend,N/A,,23,NS,NS
+Heyburn,all,Chlorophyll (ug/L),↑,Likely Upward,up,0.000264,28,NS,***
+Heyburn,all,Secchi (cm),NS Trend,No Significant Trend,N/A,,21,NS,***
+Heyburn,all,SpC (uS/cm),↑↑,Somewhat Likely Upward,up,3.2,35,NS,**
+Heyburn,all,Total N (mg/L),↑↑↑,Highly Likely Upward,up,0.01419,33,NS,***
+Heyburn,all,Total P (mg/L),NS Trend,No Significant Trend,N/A,,33,NS,***
+Heyburn,all,Turbidity (NTU),NS Trend,No Significant Trend,N/A,,25,NS,***
+Holdenville,all,Chlorophyll (ug/L),↑↑↑,Highly Likely Upward,up,1.738,19,**,***
+Holdenville,all,Secchi (cm),↓,Likely Downward,down,-2.028,20,**,***
+Holdenville,all,SpC (uS/cm),↑↑↑,Highly Likely Upward,up,3.84,29,NS,NS
+Holdenville,all,Total N (mg/L),↑↑↑,Highly Likely Upward,up,0.01442,28,NS,NS
+Holdenville,all,Total P (mg/L),NS Trend,No Significant Trend,N/A,,22,NS,NS
+Holdenville,all,Turbidity (NTU),↑↑↑,Highly Likely Upward,up,0.001267,20,**,***
+Hominy,all,Chlorophyll (ug/L),↓↓↓,Highly Likely Downward,down,-0.2055,20,NS,**
+Hominy,all,Pheophytin A (ug/L),NS Trend,No Significant Trend,N/A,,20,*,NS
+Hominy,all,Secchi (cm),↑↑,Somewhat Likely Upward,up,1.722,23,***,*
+Hominy,all,Total N (mg/L),↓↓↓,Highly Likely Downward,down,-0.01158,28,*,NS
+Hominy,all,Total P (mg/L),↓↓↓,Highly Likely Downward,down,-0.0008183,28,*,NS
+Hominy,all,Turbidity (NTU),↓↓,Somewhat Likely Downward,down,-0.1657,24,***,***
+HudsonLake,all,Chlorophyll (ug/L),NS Trend,No Significant Trend,N/A,,##,*,***
+HudsonLake,all,Pheophytin A (ug/L),NS Trend,No Significant Trend,N/A,,##,**,NS
+HudsonLake,all,Secchi (cm),↓,Likely Downward,down,-0.186,##,NS,NS
+HudsonLake,all,SpC (uS/cm),NS Trend,No Significant Trend,N/A,,72,***,***
+HudsonLake,all,Total N (mg/L),NS Trend,No Significant Trend,N/A,,26,NS,NS
+HudsonLake,all,Total P (mg/L),NS Trend,No Significant Trend,N/A,,25,*,*
+HudsonLake,all,Turbidity (NTU),↑↑↑,Highly Likely Upward,up,0.001365,25,**,***
+Hugo,all,Chlorophyll (ug/L),↑↑,Somewhat Likely Upward,up,0.0246,31,NS,NS
+Hugo,all,Pheophytin A (ug/L),↑↑,Somewhat Likely Upward,up,0.1121,31,*,NS
+Hugo,all,Secchi (cm),NS Trend,No Significant Trend,N/A,,21,*,NS
+Hugo,all,SpC (uS/cm),↑↑↑,Highly Likely Upward,up,1.16,34,NS,***
+Hugo,all,Total N (mg/L),NS Trend,No Significant Trend,N/A,,35,NS,NS
+Hugo,all,Total P (mg/L),NS Trend,No Significant Trend,N/A,,35,NS,***
+Hugo,all,Turbidity (NTU),NS Trend,No Significant Trend,N/A,,25,NS,*
+Hulah,all,Chlorophyll (ug/L),NS Trend,No Significant Trend,N/A,,25,NS,***
+Hulah,all,Pheophytin A (ug/L),↑,Likely Upward,up,0.1426,25,*,***
+Hulah,all,Secchi (cm),NS Trend,No Significant Trend,N/A,,20,NS,*
+Hulah,all,SpC (uS/cm),NS Trend,No Significant Trend,N/A,,33,NS,***
+Hulah,all,Total N (mg/L),↑↑,Somewhat Likely Upward,up,0.006487,33,NS,***
+Hulah,all,Total P (mg/L),NS Trend,No Significant Trend,N/A,,33,***,***
+Hulah,all,Turbidity (NTU),NS Trend,No Significant Trend,N/A,,24,***,***
+Humphreys,all,Chlorophyll (ug/L),NS Trend,No Significant Trend,N/A,,30,NS,***
+Humphreys,all,Secchi (cm),↑↑,Somewhat Likely Upward,up,7.92,22,***,**
+Humphreys,all,SpC (uS/cm),↑↑↑,Highly Likely Upward,up,6.7,42,NS,NS
+Humphreys,all,Total N (mg/L),NS Trend,No Significant Trend,N/A,,37,**,***
+Humphreys,all,Total P (mg/L),↓↓,Somewhat Likely Downward,down,-0.00139,35,NS,NS
+Humphreys,all,Turbidity (NTU),↓,Likely Downward,down,0.517,30,*,***
+JNeustadt,all,Chlorophyll (ug/L),NS Trend,No Significant Trend,N/A,,25,NS,***
+JNeustadt,all,Pheophytin A (ug/L),↑↑,Somewhat Likely Upward,up,0.04763,25,**,***
+JNeustadt,all,Secchi (cm),↑,Likely Upward,up,1.491,21,***,NS
+JNeustadt,all,SpC (uS/cm),↑,Likely Upward,up,1.3,29,NS,***
+JNeustadt,all,Total N (mg/L),↓↓↓,Highly Likely Downward,down,-0.0409,30,NS,***
+JNeustadt,all,Total P (mg/L),↓↓↓,Highly Likely Downward,down,-0.0006969,30,NS,NS
+JNeustadt,all,Turbidity (NTU),↓↓,Somewhat Likely Downward,down,-0.3004,27,***,***
+JohnWells,all,Chlorophyll (ug/L),NS Trend,No Significant Trend,N/A,,15,NS,***
+JohnWells,all,Pheophytin A (ug/L),↑↑,Somewhat Likely Upward,up,0.000106,15,NS,***
+JohnWells,all,Secchi (cm),↑↑↑,Highly Likely Upward,up,430.6,15,NS,NS
+JohnWells,all,SpC (uS/cm),↑↑↑,Highly Likely Upward,up,2.5,23,NS,**
+JohnWells,all,Total N (mg/L),NS Trend,No Significant Trend,N/A,,25,NS,***
+JohnWells,all,Total P (mg/L),NS Trend,No Significant Trend,N/A,,25,NS,***
+JohnWells,all,Turbidity (NTU),↓↓↓,Highly Likely Downward,down,-17.76,15,NS,***
+Kaw,all,Chlorophyll (ug/L),NS Trend,No Significant Trend,N/A,,35,***,***
+Kaw,all,Pheophytin A (ug/L),↑,Likely Upward,up,0.2135,35,***,***
+Kaw,all,Secchi (cm),NS Trend,No Significant Trend,N/A,,26,***,***
+Kaw,all,SpC (uS/cm),NS Trend,No Significant Trend,N/A,,41,***,***
+Kaw,all,Total N (mg/L),NS Trend,No Significant Trend,N/A,,38,***,***
+Kaw,all,Total P (mg/L),NS Trend,No Significant Trend,N/A,,38,***,***
+Kaw,all,Turbidity (NTU),↓,Likely Downward,down,-0.3003,29,***,***
+Keystone,all,Chlorophyll (ug/L),NS Trend,No Significant Trend,N/A,,42,***,***
+Keystone,all,Pheophytin A (ug/L),↑↑,Somewhat Likely Upward,up,0.1021,41,***,***
+Keystone,all,Secchi (cm),↑,Likely Upward,up,0.8409,44,***,***
+Keystone,all,SpC (uS/cm),↑,Likely Upward,up,15.24,45,***,***
+Keystone,all,Total N (mg/L),NS Trend,No Significant Trend,N/A,,44,***,***
+Keystone,all,Total P (mg/L),↑↑↑,Highly Likely Upward,up,0.003869,44,***,***
+Keystone,all,Turbidity (NTU),↓,Likely Downward,down,-0.5866,43,***,***
+Konawa,all,Chlorophyll (ug/L),↓↓↓,Highly Likely Downward,down,-3.017,28,**,NS
+Konawa,all,Pheophytin A (ug/L),↑↑↑,Highly Likely Upward,up,0.3491,28,NS,***
+Konawa,all,Secchi (cm),NS Trend,No Significant Trend,N/A,,21,**,***
+Konawa,all,SpC (uS/cm),NS Trend,No Significant Trend,N/A,,29,NS,**
+Konawa,all,Total N (mg/L),↑↑↑,Highly Likely Upward,up,0.01878,30,*,***
+Konawa,all,Total P (mg/L),NS Trend,No Significant Trend,N/A,,30,NS,***
+Konawa,all,Turbidity (NTU),NS Trend,No Significant Trend,N/A,,25,**,***
+LakeHudson,all,Chlorophyll (ug/L),↓↓↓,Highly Likely Downward,down,0.2685,38,***,***
+LakeHudson,all,Pheophytin A (ug/L),↑↑↑,Highly Likely Upward,up,0.367,38,**,***
+LakeHudson,all,Secchi (cm),NS Trend,No Significant Trend,N/A,,36,***,***
+LakeHudson,all,Total N (mg/L),↑↑↑,Highly Likely Upward,up,0.000057,38,**,***
+LakeHudson,all,Total P (mg/L),↑↑↑,Highly Likely Upward,up,0.001793,38,**,***
+LakeHudson,all,Turbidity (NTU),NS Trend,No Significant Trend,N/A,,36,**,***
+LakeMurray,all,Chlorophyll (ug/L),NS Trend,No Significant Trend,N/A,,32,***,***
+LakeMurray,all,Pheophytin A (ug/L),↑↑↑,Highly Likely Upward,up,0.1419,29,***,**
+LakeMurray,all,Secchi (cm),NS Trend,No Significant Trend,N/A,,31,***,***
+LakeMurray,all,SpC (uS/cm),↑↑↑,Highly Likely Upward,up,2.34,37,NS,NS
+LakeMurray,all,Total N (mg/L),NS Trend,No Significant Trend,N/A,,33,***,***
+LakeMurray,all,Total P (mg/L),↑,Likely Upward,up,0.000291,28,*,NS
+LakeMurray,all,Turbidity (NTU),NS Trend,No Significant Trend,N/A,,31,***,NS
+LakeWayneWallace,all,Chlorophyll (ug/L),NS Trend,No Significant Trend,N/A,,27,NS,**
+LakeWayneWallace,all,Pheophytin A (ug/L),↑↑↑,Highly Likely Upward,up,0.07907,26,NS,***
+LakeWayneWallace,all,Secchi (cm),NS Trend,No Significant Trend,N/A,,27,NS,***
+LakeWayneWallace,all,SpC (uS/cm),↑↑↑,Highly Likely Upward,up,1.67,27,*,NS
+LakeWayneWallace,all,Total N (mg/L),NS Trend,No Significant Trend,N/A,,27,***,**
+LakeWayneWallace,all,Total P (mg/L),↓↓↓,Highly Likely Downward,down,-0.001866,26,NS,***
+LakeWayneWallace,all,Turbidity (NTU),↑↑↑,Highly Likely Upward,up,0.0336,27,*,***
+Langston,all,Chlorophyll (ug/L),↑↑↑,Highly Likely Upward,up,0.001481,23,NS,***
+Langston,all,Pheophytin A (ug/L),NS Trend,No Significant Trend,N/A,,23,NS,NS
+Langston,all,Secchi (cm),NS Trend,No Significant Trend,N/A,,20,NS,***
+Langston,all,SpC (uS/cm),↑↑↑,Highly Likely Upward,up,1.77,22,NS,***
+Langston,all,Total N (mg/L),NS Trend,No Significant Trend,N/A,,25,NS,NS
+Langston,all,Total P (mg/L),↓,Likely Downward,down,-0.000111,25,NS,***
+Langston,all,Turbidity (NTU),↓↓↓,Highly Likely Downward,down,-0.2841,21,NS,***
+Lawtonka,all,Chlorophyll (ug/L),NS Trend,No Significant Trend,N/A,,30,NS,***
+Lawtonka,all,Secchi (cm),NS Trend,No Significant Trend,N/A,,25,*,***
+Lawtonka,all,SpC (uS/cm),NS Trend,No Significant Trend,N/A,,42,NS,***
+Lawtonka,all,Total N (mg/L),↑,Likely Upward,up,0.00489,42,NS,***
+Lawtonka,all,Total P (mg/L),NS Trend,No Significant Trend,N/A,,36,***,***
+Lawtonka,all,Turbidity (NTU),↓,Likely Downward,down,-0.09555,30,NS,*
+Liberty,all,Chlorophyll (ug/L),↑,Likely Upward,up,1.588,18,NS,***
+Liberty,all,Pheophytin A (ug/L),↑↑↑,Highly Likely Upward,up,0.2571,18,NS,***
+Liberty,all,Secchi (cm),NS Trend,No Significant Trend,N/A,,18,NS,**
+Liberty,all,SpC (uS/cm),↑↑,Somewhat Likely Upward,up,7.4,23,NS,***
+Liberty,all,Total N (mg/L),↑↑↑,Highly Likely Upward,up,0.01362,28,NS,***
+Liberty,all,Total P (mg/L),↑↑↑,Highly Likely Upward,up,0.0009551,28,NS,***
+Liberty,all,Turbidity (NTU),NS Trend,No Significant Trend,N/A,,22,NS,***
+LoneChimney,all,Chlorophyll (ug/L),↑,Likely Upward,up,0.2494,26,NS,***
+LoneChimney,all,Pheophytin A (ug/L),↑↑↑,Highly Likely Upward,up,0.217,26,NS,**
+LoneChimney,all,Secchi (cm),↓,Likely Downward,down,-0.5987,26,*,***
+LoneChimney,all,SpC (uS/cm),↑↑↑,Highly Likely Upward,up,4.5,29,NS,*
+LoneChimney,all,Total N (mg/L),↑↑↑,Highly Likely Upward,up,0.01519,30,NS,NS
+LoneChimney,all,Total P (mg/L),NS Trend,No Significant Trend,N/A,,30,NS,*
+LoneChimney,all,Turbidity (NTU),NS Trend,No Significant Trend,N/A,,30,**,***
+McAlester,all,Chlorophyll (ug/L),↑↑↑,Highly Likely Upward,up,1.069,29,NS,***
+McAlester,all,Secchi (cm),NS Trend,No Significant Trend,N/A,,26,NS,***
+McAlester,all,SpC (uS/cm),↑↑↑,Highly Likely Upward,up,2.11,42,NS,***
+McAlester,all,Total N (mg/L),↑↑,Somewhat Likely Upward,up,0.01006,41,NS,***
+McAlester,all,Total P (mg/L),↓↓↓,Highly Likely Downward,down,-0.00527,35,NS,***
+McAlester,all,Turbidity (NTU),NS Trend,No Significant Trend,N/A,,25,NS,***
+McGeeCreek,all,Chlorophyll (ug/L),↑↑↑,Highly Likely Upward,up,0.2135,27,NS,***
+McGeeCreek,all,Secchi (cm),↓↓↓,Highly Likely Downward,down,-4.816,20,NS,***
+McGeeCreek,all,SpC (uS/cm),↑↑↑,Highly Likely Upward,up,0.98,40,NS,*
+McGeeCreek,all,Total N (mg/L),↑↑,Somewhat Likely Upward,up,0.01014,33,**,***
+McGeeCreek,all,Total P (mg/L),↑,Likely Upward,up,0.0004209,31,NS,***
+McGeeCreek,all,Turbidity (NTU),NS Trend,No Significant Trend,N/A,,29,***,***
+McMurtry,all,Chlorophyll (ug/L),NS Trend,No Significant Trend,N/A,,27,**,***
+McMurtry,all,Secchi (cm),NS Trend,No Significant Trend,N/A,,24,***,***
+McMurtry,all,SpC (uS/cm),↑↑↑,Highly Likely Upward,up,3.74,38,NS,***
+McMurtry,all,Total N (mg/L),NS Trend,No Significant Trend,N/A,,38,NS,***
+McMurtry,all,Total P (mg/L),↑↑↑,Highly Likely Upward,up,0.001498,36,NS,***
+McMurtry,all,Turbidity (NTU),NS Trend,No Significant Trend,N/A,,25,***,***
+NewSpiroLake,all,Chlorophyll (ug/L),↑,Likely Upward,up,1.453,22,NS,***
+NewSpiroLake,all,Pheophytin A (ug/L),↑↑↑,Highly Likely Upward,up,0.712,22,NS,***
+NewSpiroLake,all,Secchi (cm),NS Trend,No Significant Trend,N/A,,20,***,***
+NewSpiroLake,all,SpC (uS/cm),NS Trend,No Significant Trend,N/A,,27,NS,***
+NewSpiroLake,all,Total N (mg/L),↑↑↑,Highly Likely Upward,up,0.000109,21,NS,***
+NewSpiroLake,all,Total P (mg/L),NS Trend,No Significant Trend,N/A,,21,NS,***
+NewSpiroLake,all,Turbidity (NTU),NS Trend,No Significant Trend,N/A,,20,NS,***
+Okemah,all,Chlorophyll (ug/L),NS Trend,No Significant Trend,N/A,,28,***,**
+Okemah,all,Pheophytin A (ug/L),NS Trend,No Significant Trend,N/A,,28,NS,***
+Okemah,all,Secchi (cm),↓↓↓,Highly Likely Downward,down,-5.89,24,***,***
+Okemah,all,SpC (uS/cm),NS Trend,No Significant Trend,N/A,,30,NS,NS
+Okemah,all,Total N (mg/L),↑↑↑,Highly Likely Upward,up,0.01535,32,NS,***
+Okemah,all,Total P (mg/L),↑,Likely Upward,up,0.0003458,32,***,**
+Okemah,all,Turbidity (NTU),NS Trend,No Significant Trend,N/A,,31,***,***
+Okmulgee,all,Chlorophyll (ug/L),NS Trend,No Significant Trend,N/A,,25,**,***
+Okmulgee,all,Secchi (cm),NS Trend,No Significant Trend,N/A,,22,***,**
+Okmulgee,all,SpC (uS/cm),NS Trend,No Significant Trend,N/A,,39,NS,NS
+Okmulgee,all,Total N (mg/L),↓↓↓,Highly Likely Downward,down,-0.0271,38,NS,***
+Okmulgee,all,Total P (mg/L),↑↑↑,Highly Likely Upward,up,0.001007,36,NS,***
+Okmulgee,all,Turbidity (NTU),↑↑↑,Highly Likely Upward,up,0.74,30,***,***
+Oologah,all,Chlorophyll (ug/L),↑,Likely Upward,up,0.1614,31,***,*
+Oologah,all,Pheophytin A (ug/L),↑↑↑,Highly Likely Upward,up,0.1736,31,***,NS
+Oologah,all,Secchi (cm),NS Trend,No Significant Trend,N/A,,25,***,***
+Oologah,all,SpC (uS/cm),NS Trend,No Significant Trend,N/A,,38,*,***
+Oologah,all,Total N (mg/L),↓↓↓,Highly Likely Downward,down,-0.01314,36,***,***
+Oologah,all,Total P (mg/L),↑↑↑,Highly Likely Upward,up,0.000005,36,***,***
+Oologah,all,Turbidity (NTU),↑↑↑,Highly Likely Upward,up,4.32,24,***,***
+Overholser,all,Chlorophyll (ug/L),↑↑↑,Highly Likely Upward,up,1.799,33,NS,***
+Overholser,all,Pheophytin A (ug/L),↑,Likely Upward,up,0.4304,33,NS,***
+Overholser,all,Secchi (cm),↑↑,Somewhat Likely Upward,up,0.6481,35,NS,***
+Overholser,all,SpC (uS/cm),↑,Likely Upward,up,11.81,41,NS,***
+Overholser,all,Total N (mg/L),↑,Likely Upward,up,0.02053,38,NS,***
+Overholser,all,Total P (mg/L),↓↓,Somewhat Likely Downward,down,-0.003746,38,NS,***
+Overholser,all,Turbidity (NTU),↓↓↓,Highly Likely Downward,down,-1.594,36,*,***
+PaulsValley,all,Chlorophyll (ug/L),↑↑↑,Highly Likely Upward,up,0.6504,34,*,NS
+PaulsValley,all,Pheophytin A (ug/L),↑↑↑,Highly Likely Upward,up,0.2825,34,**,NS
+PaulsValley,all,Secchi (cm),NS Trend,No Significant Trend,N/A,,32,**,***
+PaulsValley,all,SpC (uS/cm),↑↑,Somewhat Likely Upward,up,1.66,36,NS,NS
+PaulsValley,all,Total N (mg/L),↑↑↑,Highly Likely Upward,up,0.01522,39,NS,***
+PaulsValley,all,Total P (mg/L),NS Trend,No Significant Trend,N/A,,39,NS,NS
+PaulsValley,all,Turbidity (NTU),↓↓,Somewhat Likely Downward,down,-0.5903,33,***,***
+Pawnee,all,Chlorophyll (ug/L),↑↑↑,Highly Likely Upward,up,3.19,12,NS,***
+Pawnee,all,Pheophytin A (ug/L),↑,Likely Upward,up,0.2469,12,NS,***
+Pawnee,all,Secchi (cm),↓↓↓,Highly Likely Downward,down,-0.008099,9,NS,***
+Pawnee,all,SpC (uS/cm),NS Trend,No Significant Trend,N/A,,18,NS,NS
+Pawnee,all,Total N (mg/L),↑↑↑,Highly Likely Upward,up,0.03234,16,NS,NS
+Pawnee,all,Total P (mg/L),NS Trend,No Significant Trend,N/A,,16,NS,***
+Pawnee,all,Turbidity (NTU),NS Trend,No Significant Trend,N/A,,16,*,***
+Perry,all,Chlorophyll (ug/L),↑↑↑,Highly Likely Upward,up,0.3302,27,NS,NS
+Perry,all,Pheophytin A (ug/L),↑↑↑,Highly Likely Upward,up,0.1866,27,NS,NS
+Perry,all,Secchi (cm),↑,Likely Upward,up,1.154,22,***,NS
+Perry,all,SpC (uS/cm),↑↑↑,Highly Likely Upward,up,8.47,29,NS,NS
+Perry,all,Total N (mg/L),↑↑↑,Highly Likely Upward,up,0.000035,31,NS,**
+Perry,all,Total P (mg/L),↓↓↓,Highly Likely Downward,down,-0.00222,31,NS,NS
+Perry,all,Turbidity (NTU),↓↓↓,Highly Likely Downward,down,-2.068,26,*,**
+PineCreek,all,Chlorophyll (ug/L),↑↑↑,Highly Likely Upward,up,0.0336,31,***,***
+PineCreek,all,Pheophytin A (ug/L),↑↑↑,Highly Likely Upward,up,0.2365,31,NS,***
+PineCreek,all,Secchi (cm),↓,Likely Downward,down,-0.9851,27,***,***
+PineCreek,all,SpC (uS/cm),↑↑↑,Highly Likely Upward,up,0.87,41,NS,*
+PineCreek,all,Total N (mg/L),NS Trend,No Significant Trend,N/A,,38,NS,NS
+PineCreek,all,Total P (mg/L),↑,Likely Upward,up,0.0003033,38,NS,***
+PineCreek,all,Turbidity (NTU),NS Trend,No Significant Trend,N/A,,27,***,***
+Ponca,all,Chlorophyll (ug/L),↑↑↑,Highly Likely Upward,up,0.6937,34,NS,***
+Ponca,all,Secchi (cm),NS Trend,No Significant Trend,N/A,,25,NS,***
+Ponca,all,SpC (uS/cm),↑↑,Somewhat Likely Upward,up,2.04,37,NS,***
+Ponca,all,Total N (mg/L),↑↑↑,Highly Likely Upward,up,0.01105,42,NS,***
+Ponca,all,Total P (mg/L),NS Trend,No Significant Trend,N/A,,37,NS,***
+Ponca,all,Turbidity (NTU),↓↓,Somewhat Likely Downward,down,-0.1628,25,***,***
+RCLongmire,all,Chlorophyll (ug/L),↑↑↑,Highly Likely Upward,up,0.122,27,NS,***
+RCLongmire,all,Pheophytin A (ug/L),↑↑↑,Highly Likely Upward,up,0.001481,27,NS,***
+RCLongmire,all,Secchi (cm),NS Trend,No Significant Trend,N/A,,21,***,NS
+RCLongmire,all,SpC (uS/cm),↓,Likely Downward,down,-1.58,25,NS,***
+RCLongmire,all,Total N (mg/L),↑↑↑,Highly Likely Upward,up,0.01514,32,**,***
+RCLongmire,all,Total P (mg/L),NS Trend,No Significant Trend,N/A,,32,NS,NS
+RCLongmire,all,Turbidity (NTU),NS Trend,No Significant Trend,N/A,,24,NS,*
+Rocky,all,Chlorophyll (ug/L),↓↓,Somewhat Likely Downward,down,-0.00446,18,NS,***
+Rocky,all,Pheophytin A (ug/L),NS Trend,No Significant Trend,N/A,,18,*,***
+Rocky,all,Secchi (cm),NS Trend,No Significant Trend,N/A,,15,***,***
+Rocky,all,SpC (uS/cm),↑,Likely Upward,up,6.62,23,NS,*
+Rocky,all,Total N (mg/L),NS Trend,No Significant Trend,N/A,,21,NS,***
+Rocky,all,Total P (mg/L),↑↑↑,Highly Likely Upward,up,0.000008,21,NS,**
+Rocky,all,Turbidity (NTU),NS Trend,No Significant Trend,N/A,,19,*,***
+RSKerr,all,Chlorophyll (ug/L),NS Trend,No Significant Trend,N/A,,26,NS,***
+RSKerr,all,Pheophytin A (ug/L),↑↑↑,Highly Likely Upward,up,0.2148,26,NS,***
+RSKerr,all,Secchi (cm),NS Trend,No Significant Trend,N/A,,18,NS,*
+RSKerr,all,SpC (uS/cm),↓,Likely Downward,down,-12.93,26,***,***
+RSKerr,all,Total N (mg/L),↑↑↑,Highly Likely Upward,up,0.000065,31,***,***
+RSKerr,all,Total P (mg/L),NS Trend,No Significant Trend,N/A,,31,***,***
+RSKerr,all,Turbidity (NTU),NS Trend,No Significant Trend,N/A,,19,NS,NS
+Sahoma,all,Chlorophyll (ug/L),↑↑↑,Highly Likely Upward,up,0.001481,22,***,***
+Sahoma,all,Pheophytin A (ug/L),↑↑,Somewhat Likely Upward,up,0.2663,22,NS,*
+Sahoma,all,Secchi (cm),NS Trend,No Significant Trend,N/A,,19,NS,***
+Sahoma,all,SpC (uS/cm),↑↑,Somewhat Likely Upward,up,2.11,23,NS,***
+Sahoma,all,Total N (mg/L),↑↑,Somewhat Likely Upward,up,0.01391,26,NS,***
+Sahoma,all,Total P (mg/L),NS Trend,No Significant Trend,N/A,,26,NS,NS
+Sahoma,all,Turbidity (NTU),↓,Likely Downward,down,-0.7,19,NS,***
+Sardis,all,Chlorophyll (ug/L),↑,Likely Upward,up,0.1574,34,NS,NS
+Sardis,all,Pheophytin A (ug/L),↓↓↓,Highly Likely Downward,down,-0.4091,34,NS,***
+Sardis,all,Secchi (cm),↑↑↑,Highly Likely Upward,up,6.43,27,NS,***
+Sardis,all,SpC (uS/cm),↑↑↑,Highly Likely Upward,up,0.51,34,NS,NS
+Sardis,all,Total N (mg/L),↓↓↓,Highly Likely Downward,down,-0.000278,37,NS,***
+Sardis,all,Total P (mg/L),↑↑↑,Highly Likely Upward,up,0.001086,37,*,***
+Sardis,all,Turbidity (NTU),↑↑↑,Highly Likely Upward,up,0.8228,27,***,***
+ShawneeTwin#1,all,Chlorophyll (ug/L),↑↑↑,Highly Likely Upward,up,0.2667,25,NS,NS
+ShawneeTwin#1,all,Secchi (cm),NS Trend,No Significant Trend,N/A,,22,NS,***
+ShawneeTwin#1,all,SpC (uS/cm),↑↑↑,Highly Likely Upward,up,3.27,35,NS,NS
+ShawneeTwin#1,all,Total N (mg/L),↑↑,Somewhat Likely Upward,up,0.005543,39,NS,***
+ShawneeTwin#1,all,Total P (mg/L),NS Trend,No Significant Trend,N/A,,32,NS,*
+ShawneeTwin#1,all,Turbidity (NTU),↓↓↓,Highly Likely Downward,down,-0.3129,24,NS,***
+ShawneeTwin#2,all,Chlorophyll (ug/L),↑↑↑,Highly Likely Upward,up,0.3965,27,NS,***
+ShawneeTwin#2,all,Secchi (cm),↑,Likely Upward,up,1.473,21,***,***
+ShawneeTwin#2,all,SpC (uS/cm),↑↑↑,Highly Likely Upward,up,2.95,40,NS,NS
+ShawneeTwin#2,all,Total N (mg/L),↑↑↑,Highly Likely Upward,up,0.01369,41,NS,**
+ShawneeTwin#2,all,Total P (mg/L),↓,Likely Downward,down,-0.0002782,34,NS,***
+ShawneeTwin#2,all,Turbidity (NTU),↓↓↓,Highly Likely Downward,down,-0.4927,23,***,***
+Shell,all,Chlorophyll (ug/L),↑↑↑,Highly Likely Upward,up,4,19,**,***
+Shell,all,Secchi (cm),NS Trend,No Significant Trend,N/A,,16,NS,***
+Shell,all,SpC (uS/cm),↑↑↑,Highly Likely Upward,up,3.13,26,NS,*
+Shell,all,Total N (mg/L),↑↑,Somewhat Likely Upward,up,0.008095,24,**,**
+Shell,all,Total P (mg/L),NS Trend,No Significant Trend,N/A,,22,NS,***
+Shell,all,Turbidity (NTU),NS Trend,No Significant Trend,N/A,,16,**,***
+Skiatook,all,Chlorophyll (ug/L),↑↑↑,Highly Likely Upward,up,0.1727,26,NS,***
+Skiatook,all,Secchi (cm),↑↑,Somewhat Likely Upward,up,0.00451,19,***,***
+Skiatook,all,SpC (uS/cm),↑,Likely Upward,up,1.47,38,**,***
+Skiatook,all,Total N (mg/L),NS Trend,No Significant Trend,N/A,,37,***,***
+Skiatook,all,Total P (mg/L),↓,Likely Downward,down,-0.0006373,33,***,***
+Skiatook,all,Turbidity (NTU),NS Trend,No Significant Trend,N/A,,24,***,***
+Sooner,all,Chlorophyll (ug/L),NS Trend,No Significant Trend,N/A,,27,***,***
+Sooner,all,Pheophytin A (ug/L),↑,Likely Upward,up,0.05029,27,NS,***
+Sooner,all,Secchi (cm),NS Trend,No Significant Trend,N/A,,19,***,***
+Sooner,all,SpC (uS/cm),↑↑↑,Highly Likely Upward,up,21.81,32,NS,NS
+Sooner,all,Total N (mg/L),↓,Likely Downward,down,-0.00918,31,*,*
+Sooner,all,Total P (mg/L),↑↑↑,Highly Likely Upward,up,0.00092,31,NS,***
+Sooner,all,Turbidity (NTU),↓↓↓,Highly Likely Downward,down,-0.1528,23,***,***
+Spavinaw,all,SpC (uS/cm),NS Trend,No Significant Trend,N/A,,39,NS,***
+Stroud,all,Chlorophyll (ug/L),↑,Likely Upward,up,0.1636,23,NS,NS
+Stroud,all,Pheophytin A (ug/L),↑↑↑,Highly Likely Upward,up,0.08263,23,NS,NS
+Stroud,all,Secchi (cm),↓↓↓,Highly Likely Downward,down,-0.01216,22,*,***
+Stroud,all,SpC (uS/cm),↑↑↑,Highly Likely Upward,up,3.38,28,NS,NS
+Stroud,all,Total N (mg/L),↑↑↑,Highly Likely Upward,up,0.0156,28,***,**
+Stroud,all,Total P (mg/L),NS Trend,No Significant Trend,N/A,,28,NS,***
+Stroud,all,Turbidity (NTU),↑↑↑,Highly Likely Upward,up,0.5337,22,NS,***
+Talawanda#1,all,Chlorophyll (ug/L),NS Trend,No Significant Trend,N/A,,20,NS,***
+Talawanda#1,all,Pheophytin A (ug/L),NS Trend,No Significant Trend,N/A,,20,NS,NS
+Talawanda#1,all,Secchi (cm),↓,Likely Downward,down,-3.439,17,NS,*
+Talawanda#1,all,SpC (uS/cm),↑↑,Somewhat Likely Upward,up,1.16,26,NS,**
+Talawanda#1,all,Total N (mg/L),↓↓↓,Highly Likely Downward,down,-0.001283,24,*,NS
+Talawanda#1,all,Total P (mg/L),NS Trend,No Significant Trend,N/A,,24,**,NS
+Talawanda#1,all,Turbidity (NTU),NS Trend,No Significant Trend,N/A,,16,NS,***
+Talawanda#2,all,Chlorophyll (ug/L),NS Trend,No Significant Trend,N/A,,22,NS,*
+Talawanda#2,all,Pheophytin A (ug/L),NS Trend,No Significant Trend,N/A,,22,NS,*
+Talawanda#2,all,Secchi (cm),NS Trend,No Significant Trend,N/A,,21,NS,***
+Talawanda#2,all,SpC (uS/cm),↑↑↑,Highly Likely Upward,up,1.78,30,NS,*
+Talawanda#2,all,Total N (mg/L),NS Trend,No Significant Trend,N/A,,26,NS,NS
+Talawanda#2,all,Total P (mg/L),↓↓↓,Highly Likely Downward,down,-0.0005971,26,NS,***
+Talawanda#2,all,Turbidity (NTU),↓↓↓,Highly Likely Downward,down,-0.00241,21,NS,***
+Tecumseh,all,Chlorophyll (ug/L),NS Trend,No Significant Trend,N/A,,15,NS,***
+Tecumseh,all,Pheophytin A (ug/L),↓↓↓,Highly Likely Downward,down,-0.0508,15,NS,NS
+Tecumseh,all,Secchi (cm),NS Trend,No Significant Trend,N/A,,12,NS,***
+Tecumseh,all,SpC (uS/cm),↑,Likely Upward,up,3.53,26,NS,***
+Tecumseh,all,Total N (mg/L),NS Trend,No Significant Trend,N/A,,24,NS,***
+Tecumseh,all,Total P (mg/L),↓↓↓,Highly Likely Downward,down,-0.01699,24,NS,*
+Tecumseh,all,Turbidity (NTU),NS Trend,No Significant Trend,N/A,,12,NS,***
+TenkillerFerry,all,Chlorophyll (ug/L),NS Trend,No Significant Trend,N/A,,55,**,***
+TenkillerFerry,all,Secchi (cm),NS Trend,No Significant Trend,N/A,,35,***,***
+TenkillerFerry,all,SpC (uS/cm),↑↑↑,Highly Likely Upward,up,1.22,40,NS,***
+TenkillerFerry,all,Total N (mg/L),↓,Likely Downward,down,-0.000951,40,***,***
+TenkillerFerry,all,Total P (mg/L),↓↓↓,Highly Likely Downward,down,-0.001417,36,***,NS
+TenkillerFerry,all,Turbidity (NTU),↑↑↑,Highly Likely Upward,up,1.154,36,**,***
+Texoma,all,Chlorophyll (ug/L),↑,Likely Upward,up,0.2557,43,***,***
+Texoma,all,Pheophytin A (ug/L),↑,Likely Upward,up,0.05846,43,***,***
+Texoma,all,Secchi (cm),NS Trend,No Significant Trend,N/A,,29,***,***
+Texoma,all,SpC (uS/cm),↑↑↑,Highly Likely Upward,up,45.38,16,***,NS
+Texoma,all,Total N (mg/L),↑↑↑,Highly Likely Upward,up,0.001061,40,***,NS
+Texoma,all,Total P (mg/L),NS Trend,No Significant Trend,N/A,,40,***,*
+Texoma,all,Turbidity (NTU),↓,Likely Downward,down,-0.3239,29,***,***
+Thunderbird,all,SpC (uS/cm),↑↑↑,Highly Likely Upward,up,3.03,303,***,***
+TomSteed,all,Chlorophyll (ug/L),↑↑↑,Highly Likely Upward,up,0.3465,30,NS,***
+TomSteed,all,Secchi (cm),NS Trend,No Significant Trend,N/A,,23,NS,***
+TomSteed,all,SpC (uS/cm),↑↑↑,Highly Likely Upward,up,18.62,38,NS,***
+TomSteed,all,Total N (mg/L),↑↑↑,Highly Likely Upward,up,0.0167,36,NS,***
+TomSteed,all,Total P (mg/L),↑↑↑,Highly Likely Upward,up,-0.00435,34,NS,***
+TomSteed,all,Turbidity (NTU),↓↓↓,Highly Likely Downward,down,-1.221,27,NS,***
+Walters,all,SpC (uS/cm),↑,Likely Upward,up,7.58,24,NS,***
+WaurikaLake,all,Chlorophyll (ug/L),NS Trend,No Significant Trend,N/A,,27,**,NS
+WaurikaLake,all,Pheophytin A (ug/L),NS Trend,No Significant Trend,N/A,,31,**,***
+WaurikaLake,all,Secchi (cm),NS Trend,No Significant Trend,N/A,,31,***,***
+WaurikaLake,all,SpC (uS/cm),↑↑↑,Highly Likely Upward,up,6,35,NS,***
+WaurikaLake,all,Total N (mg/L),↑,Likely Upward,up,0.000014,31,***,***
+WaurikaLake,all,Total P (mg/L),↓↓↓,Highly Likely Downward,down,-0.00906,31,***,***
+WaurikaLake,all,Turbidity (NTU),NS Trend,No Significant Trend,N/A,,31,***,NS
+WebbersFalls,all,Chlorophyll (ug/L),NS Trend,No Significant Trend,N/A,,23,NS,***
+WebbersFalls,all,Pheophytin A (ug/L),↑↑↑,Highly Likely Upward,up,0.6157,23,NS,***
+WebbersFalls,all,Secchi (cm),↑,Likely Upward,up,0.0458,18,NS,***
+WebbersFalls,all,SpC (uS/cm),NS Trend,No Significant Trend,N/A,,28,NS,***
+WebbersFalls,all,Total N (mg/L),NS Trend,No Significant Trend,N/A,,26,NS,***
+WebbersFalls,all,Total P (mg/L),↑↑↑,Highly Likely Upward,up,0.00621,26,NS,***
+WebbersFalls,all,Turbidity (NTU),NS Trend,No Significant Trend,N/A,,20,NS,***
+WesWatkins,all,Chlorophyll (ug/L),↑↑↑,Highly Likely Upward,up,0.3395,30,NS,***
+WesWatkins,all,Pheophytin A (ug/L),↑↑↑,Highly Likely Upward,up,0.1814,30,*,*
+WesWatkins,all,Secchi (cm),NS Trend,No Significant Trend,N/A,,28,***,***
+WesWatkins,all,SpC (uS/cm),↑↑↑,Highly Likely Upward,up,3.9,36,NS,NS
+WesWatkins,all,Total N (mg/L),↓↓↓,Highly Likely Downward,down,-0.02266,39,NS,**
+WesWatkins,all,Total P (mg/L),NS Trend,No Significant Trend,N/A,,39,NS,***
+WesWatkins,all,Turbidity (NTU),NS Trend,No Significant Trend,N/A,,31,NS,**
+Wetumka,all,SpC (uS/cm),NS Trend,No Significant Trend,N/A,,18,NS,***
+Wewoka,all,Chlorophyll (ug/L),↑↑↑,Highly Likely Upward,up,0.3836,27,NS,***
+Wewoka,all,Pheophytin A (ug/L),↑↑↑,Highly Likely Upward,up,0.1484,27,NS,**
+Wewoka,all,Secchi (cm),↑↑↑,Highly Likely Upward,up,1.365,21,***,***
+Wewoka,all,SpC (uS/cm),NS Trend,No Significant Trend,N/A,,29,NS,*
+Wewoka,all,Total N (mg/L),↑,Likely Upward,up,0.006765,29,NS,*
+Wewoka,all,Total P (mg/L),NS Trend,No Significant Trend,N/A,,29,***,*
+Wewoka,all,Turbidity (NTU),↓↓↓,Highly Likely Downward,down,-0.7597,24,**,NS
+Wister,all,Chlorophyll (ug/L),↑↑↑,Highly Likely Upward,up,0.801,40,NS,***
+Wister,all,Pheophytin A (ug/L),↑↑↑,Highly Likely Upward,up,0.4361,40,NS,***
+Wister,all,Secchi (cm),NS Trend,No Significant Trend,N/A,,31,**,***
+Wister,all,SpC (uS/cm),↑↑↑,Highly Likely Upward,up,0.77,40,NS,**
+Wister,all,Total N (mg/L),↑↑↑,Highly Likely Upward,up,0.01153,44,NS,***
+Wister,all,Total P (mg/L),NS Trend,No Significant Trend,N/A,,44,NS,***
+Wister,all,Turbidity (NTU),↓↓,Somewhat Likely Downward,down,-0.5982,32,NS,*
+WRHolway,all,SpC (uS/cm),↑↑↑,Highly Likely Upward,up,2.69,28,NS,**
