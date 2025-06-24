@@ -1,0 +1,594 @@
+﻿Lake,Latitude,Longitude,County,Country,Site,Constituent_Name,Trend_Langauge,Trend_Arrows2,Trend_Arrows,Trend_Direction,Trend,Final_Slope,N,Site_ANOVA,Seasonal_ANOVA,POR_Start ,POR_End,%change,PercentChange,POR_Years,Y-intercept,End_Point,units
+Altus,34.887219,-99.294858,Greer,US,Whole Lake,Chlorophyll (ug/L),No Significant Trend,0,0,,NS Trend,N/A,23,NS,***,11/28/2002,9/28/2021,NS Trend,0,19,NS Trend,NS Trend,ug/L
+Altus,34.887219,-99.294858,Greer,US,Whole Lake,Total Nitrogen (mg/L),Highly Likely Upward,-3,3,,↑↑↑,0.0153,24,NS,***,10/13/1999,9/28/2021,32.80%,32.8,22,0.69,1.03,mg/L
+Altus,34.887219,-99.294858,Greer,US,Whole Lake,Secchi (cm),No Significant Trend,0,0,N/A,NS Trend,N/A,17,NS,***,9/7/2004,9/28/2021,NS Trend,0,17,NS Trend,NS Trend,cm
+Altus,34.887219,-99.294858,Greer,US,Whole Lake,Conductivity (uS/cm),Insufficient Data,Insufficient Data,99,N/A,NEI,N/A,7,NS,NS,NEI,NEI,NEI,,NEI,NEI,NEI,uS/cm
+Altus,34.887219,-99.294858,Greer,US,Whole Lake,Total Phosphorus (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,24,NS,***,10/13/1999,9/28/2021,NS Trend,0,22,NS Trend,NS Trend,mg/L
+Altus,34.887219,-99.294858,Greer,US,Whole Lake,Turbidity (NTU),Likely Downward,1,-1,down,↓,-0.4603,18,***,NS,9/7/2004,10/29/2021,-56.00%,-56,17,22,14.1,NTU
+Arbuckle,34.433106,-97.026622,Murray,US,Whole Lake,Chlorophyll (ug/L),Highly Likely Upward,-3,3,up,↑↑↑,0.635,30,NS,*,6/3/2003,5/2/2023,71.70%,71.7,20,5,17.65,ug/L
+Arbuckle,34.433106,-97.026622,Murray,US,Whole Lake,Total Nitrogen (mg/L),Highly Likely Upward,-3,3,up,↑↑↑,0.009329,40,NS,NS,11/16/1999,8/22/2023,33.00%,33,24,0.45,0.67,mg/L
+Arbuckle,34.433106,-97.026622,Murray,US,Whole Lake,Secchi (cm),Likely Downward,1,-1,down,↓,-5.706,25,***,***,11/9/2004,6/5/2023,-145.30%,-145.3,19,179,72.98,cm
+Arbuckle,34.433106,-97.026622,Murray,US,Whole Lake,Conductivity (uS/cm),No Significant Trend,0,0,N/A,NS Trend,N/A,44,NS,***,6/6/1998,11/8/2023,NS Trend,0,25,NS Trend,NS Trend,uS/cm
+Arbuckle,34.433106,-97.026622,Murray,US,Whole Lake,Total Phosphorus (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,36,NS,**,11/16/1999,5/2/2023,NS Trend,0,23,NS Trend,NS Trend,mg/L
+Arbuckle,34.433106,-97.026622,Murray,US,Whole Lake,Turbidity (NTU),Likely Downward,1,-1,down,↓,-0.1259,26,***,***,11/9/2004,6/5/2023,-59.10%,-59.1,19,6.3,3.96,NTU
+Arcadia,35.64894,-97.36424,Oklahoma,US,Whole Lake,Chlorophyll (ug/L),No Significant Trend,0,0,N/A,NS Trend,N/A,77,**,***,6/11/2003,11/21/2022,NS Trend,0,19,NS Trend,NS Trend,ug/L
+Arcadia,35.64894,-97.36424,Oklahoma,US,Whole Lake,Total Nitrogen (mg/L),Highly Likely Upward,-3,3,up,↑↑↑,0.008867,83,NS,***,10/13/1999,11/21/2022,19.40%,19.4,23,0.85,1.06,mg/L
+Arcadia,35.64894,-97.36424,Oklahoma,US,Whole Lake,Secchi (cm),Somewhat Likely Downward,2,-2,down,↓↓,-1.244,74,***,***,3/9/2005,11/21/2022,-51.30%,-51.3,18,65,42.96,cm
+Arcadia,35.64894,-97.36424,Oklahoma,US,Whole Lake,Conductivity (uS/cm),Highly Likely Upward,-3,3,up,↑↑↑,1.59,82,***,***,10/13/1999,11/12/2022,8.60%,8.6,23,390,426.73,uS/cm
+Arcadia,35.64894,-97.36424,Oklahoma,US,Whole Lake,Total Phosphorus (mg/L),Highly Likely Upward,-3,3,up,↑↑↑,0.0008402,83,***,***,10/13/1999,11/21/2022,21.70%,21.7,23,0.07,0.09,mg/L
+Arcadia,35.64894,-97.36424,Oklahoma,US,Whole Lake,Turbidity (NTU),No Significant Trend,0,0,N/A,NS Trend,N/A,78,NS,NS,9/9/2004,11/21/2022,NS Trend,0,18,NS Trend,NS Trend,NTU
+Atoka,34.446236,-96.087172,Atoka,US,Whole Lake,Chlorophyll (ug/L),Somewhat Likely Downward,2,-2,down,↓↓,-0.2819,32,**,***,8/6/2002,11/8/2022,-133.30%,-133.3,20,10,4.29,ug/L
+Atoka,34.446236,-96.087172,Atoka,US,Whole Lake,Total Nitrogen (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,44,***,***,11/5/2001,1/23/2023,NS Trend,0,21,NS Trend,NS Trend,mg/L
+Atoka,34.446236,-96.087172,Atoka,US,Whole Lake,Secchi (cm),No Significant Trend,0,0,N/A,NS Trend,N/A,20,***,***,12/7/2004,11/8/2022,NS Trend,0,18,NS Trend,NS Trend,cm
+Atoka,34.446236,-96.087172,Atoka,US,Whole Lake,Conductivity (uS/cm),Highly Likely Upward,-3,3,up,↑↑↑,1.81,41,NS,*,8/6/1997,3/3/2023,41.60%,41.6,26,65,111.26,uS/cm
+Atoka,34.446236,-96.087172,Atoka,US,Whole Lake,Total Phosphorus (mg/L),Somewhat Likely Downward,2,-2,down,↓↓,-0.001117,38,***,***,11/6/2001,11/8/2022,-41.50%,-41.5,21,0.08,0.06,mg/L
+Atoka,34.446236,-96.087172,Atoka,US,Whole Lake,Turbidity (NTU),No Significant Trend,0,0,N/A,NS Trend,N/A,24,***,***,12/7/2004,11/8/2022,NS Trend,0,18,NS Trend,NS Trend,NTU
+Bellcow,35.731678,-96.918081,Lincoln,US,Whole Lake,Chlorophyll (ug/L),Highly Likely Upward,-3,3,up,↑↑↑,0.4549,35,***,***,2/28/2002,12/16/2022,51.30%,51.3,21,9,18.47,ug/L
+Bellcow,35.731678,-96.918081,Lincoln,US,Whole Lake,Total Nitrogen (mg/L),Likely Upward,-1,1,up,↑,0.005669,35,***,NS,12/3/2001,11/9/2022,11.70%,11.7,21,0.9,1.02,mg/L
+Bellcow,35.731678,-96.918081,Lincoln,US,Whole Lake,Secchi (cm),Highly Likely Upward,-3,3,up,↑↑↑,2.074,26,*,NS,12/2/2009,11/9/2022,40.50%,40.5,13,39.5,66.35,cm
+Bellcow,35.731678,-96.918081,Lincoln,US,Whole Lake,Conductivity (uS/cm),No Significant Trend,0,0,N/A,NS Trend,N/A,34,*,NS,12/3/2001,1/24/2023,NS Trend,0,21,NS Trend,NS Trend,uS/cm
+Bellcow,35.731678,-96.918081,Lincoln,US,Whole Lake,Total Phosphorus (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,35,***,NS,12/3/2001,11/9/2022,NS Trend,0,21,NS Trend,NS Trend,mg/L
+Bellcow,35.731678,-96.918081,Lincoln,US,Whole Lake,Turbidity (NTU),Somewhat Likely Downward,2,-2,down,↓↓,-0.6172,26,***,NS,12/2/2009,12/2/2022,-64.40%,-64.4,13,20.5,12.47,NTU
+Birch,36.533092,-96.163586,Osage,US,Whole Lake,Chlorophyll (ug/L),No Significant Trend,0,0,N/A,NS Trend,N/A,30,NS,*,6/9/2003,9/27/2021,NS Trend,0,18,NS Trend,NS Trend,ug/L
+Birch,36.533092,-96.163586,Osage,US,Whole Lake,Total Nitrogen (mg/L),Highly Likely Upward,-3,3,up,↑↑↑,0.008059,36,*,***,10/19/1999,11/6/2021,22.90%,22.9,22,0.6,0.78,mg/L
+Birch,36.533092,-96.163586,Osage,US,Whole Lake,Secchi (cm),No Significant Trend,0,0,N/A,NS Trend,N/A,21,NS,***,8/21/2007,9/27/2021,NS Trend,0,14,NS Trend,NS Trend,cm
+Birch,36.533092,-96.163586,Osage,US,Whole Lake,Conductivity (uS/cm),Somewhat Likely Upward,-2,2,up,↑↑,1.72,38,NS,NS,10/19/1999,11/6/2021,21.30%,21.3,22,140,177.95,uS/cm
+Birch,36.533092,-96.163586,Osage,US,Whole Lake,Total Phosphorus (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,36,*,***,10/19/1999,9/24/2001,NS Trend,0,2,NS Trend,NS Trend,mg/L
+Birch,36.533092,-96.163586,Osage,US,Whole Lake,Turbidity (NTU),No Significant Trend,0,0,N/A,NS Trend,N/A,28,NS,***,9/20/2004,9/27/2021,NS Trend,0,17,NS Trend,NS Trend,NTU
+Bluestem,36.695208,-96.396675,Osage,US,Whole Lake,Chlorophyll (ug/L),Likely Upward,-1,1,up,↑,0.1032,25,*,***,9/29/2003,8/12/2019,30.10%,30.1,16,3.8,5.44,ug/L
+Bluestem,36.695208,-96.396675,Osage,US,Whole Lake,Total Nitrogen (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,35,NS,***,4/28/1998,8/12/2019,NS Trend,0,21,NS Trend,NS Trend,mg/L
+Bluestem,36.695208,-96.396675,Osage,US,Whole Lake,Secchi (cm),No Significant Trend,0,0,N/A,NS Trend,N/A,26,***,***,10/29/2001,8/12/2019,NS Trend,0,18,NS Trend,NS Trend,cm
+Bluestem,36.695208,-96.396675,Osage,US,Whole Lake,Conductivity (uS/cm),Likely Upward,-1,1,up,↑,1.38,40,NS,***,4/28/1998,8/22/2023,12.10%,12.1,25,255,290.01,uS/cm
+Bluestem,36.695208,-96.396675,Osage,US,Whole Lake,Total Phosphorus (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,35,NS,***,4/28/1998,8/12/1999,NS Trend,0,1,NS Trend,NS Trend,mg/L
+Bluestem,36.695208,-96.396675,Osage,US,Whole Lake,Turbidity (NTU),No Significant Trend,0,0,N/A,NS Trend,N/A,26,***,***,10/29/2001,8/12/2019,NS Trend,0,18,NS Trend,NS Trend,NTU
+Boomer,36.144222,-97.065161,Payne,US,Whole Lake,Chlorophyll (ug/L),Highly Likely Upward,-3,3,up,↑↑↑,1.822,19,**,***,9/14/2004,9/8/2020,96.70%,96.7,16,1,30.14,ug/L
+Boomer,36.144222,-97.065161,Payne,US,Whole Lake,Total Nitrogen (mg/L),Highly Likely Upward,-3,3,up,↑↑↑,0.03141,22,NS,NS,10/24/2001,10/12/2020,49.80%,49.8,19,0.6,1.2,mg/L
+Boomer,36.144222,-97.065161,Payne,US,Whole Lake,Secchi (cm),No Significant Trend,0,0,N/A,NS Trend,N/A,14,***,***,10/24/2001,9/8/2020,NS Trend,0,19,NS Trend,NS Trend,cm
+Boomer,36.144222,-97.065161,Payne,US,Whole Lake,Conductivity (uS/cm),Highly Likely Upward,-3,3,up,↑↑↑,7.19,24,***,NS,10/24/2001,10/12/2020,35.30%,35.3,19,250,386.43,uS/cm
+Boomer,36.144222,-97.065161,Payne,US,Whole Lake,Total Phosphorus (mg/L),Highly Likely Upward,-3,3,up,↑↑↑,0.001947,22,***,*,10/24/2001,9/8/2020,56.80%,56.8,19,0.028,0.06,mg/L
+Boomer,36.144222,-97.065161,Payne,US,Whole Lake,Turbidity (NTU),Likely Downward,1,-1,down,↓,-0.2677,17,***,**,10/24/2001,9/8/2020,-31.70%,-31.7,19,21,15.94,NTU
+Broken Bow,34.1475,-94.683056,McCurtain,US,Whole Lake,Chlorophyll (ug/L),Highly Likely Upward,-3,3,up,↑↑↑,0.2073,30,**,***,11/3/2003,10/16/2021,71.30%,71.3,18,1.5,5.22,ug/L
+Broken Bow,34.1475,-94.683056,McCurtain,US,Whole Lake,Total Nitrogen (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,33,NS,***,11/29/2000,9/14/2021,NS Trend,0,21,NS Trend,NS Trend,mg/L
+Broken Bow,34.1475,-94.683056,McCurtain,US,Whole Lake,Secchi (cm),No Significant Trend,0,0,N/A,NS Trend,N/A,28,***,***,11/29/2000,7/27/2021,NS Trend,0,21,NS Trend,NS Trend,cm
+Broken Bow,34.1475,-94.683056,McCurtain,US,Whole Lake,Conductivity (uS/cm),Highly Likely Upward,-3,3,up,↑↑↑,0.62,41,NS,***,11/29/2000,8/29/2023,37.00%,37,23,24,38.11,uS/cm
+Broken Bow,34.1475,-94.683056,McCurtain,US,Whole Lake,Total Phosphorus (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,27,***,***,11/29/2000,7/27/2021,NS Trend,0,21,NS Trend,NS Trend,mg/L
+Broken Bow,34.1475,-94.683056,McCurtain,US,Whole Lake,Turbidity (NTU),No Significant Trend,0,0,N/A,NS Trend,N/A,29,***,***,11/29/2000,9/14/2021,NS Trend,0,21,NS Trend,NS Trend,NTU
+Canton Lake,36.093372,-98.588339,Blaine,US,Whole Lake,Chlorophyll (ug/L),Likely Upward,-1,1,up,↑,0.5037,35,NS,***,11/30/1998,7/16/2019,51.00%,51,21,10,20.4,ug/L
+Canton Lake,36.093372,-98.588339,Blaine,US,Whole Lake,Total Nitrogen (mg/L),Highly Likely Upward,-3,3,up,↑↑↑,0.01595,36,NS,***,11/30/1998,7/16/2019,32.00%,32,21,0.7,1.03,mg/L
+Canton Lake,36.093372,-98.588339,Blaine,US,Whole Lake,Secchi (cm),No Significant Trend,0,0,N/A,NS Trend,N/A,36,**,***,11/30/1998,7/16/2019,NS Trend,0,21,NS Trend,NS Trend,cm
+Canton Lake,36.093372,-98.588339,Blaine,US,Whole Lake,Conductivity (uS/cm),Highly Likely Upward,-3,3,up,↑↑↑,15.52,37,NS,**,2/24/1998,7/20/2019,19.20%,19.2,21,1400,1732.34,uS/cm
+Canton Lake,36.093372,-98.588339,Blaine,US,Whole Lake,Total Phosphorus (mg/L),Somewhat Likely Downward,2,-2,down,↓↓,-0.001261,36,***,***,11/30/1998,8/22/2019,-53.50%,-53.5,21,0.075,0.05,mg/L
+Canton Lake,36.093372,-98.588339,Blaine,US,Whole Lake,Turbidity (NTU),No Significant Trend,0,0,N/A,NS Trend,N/A,36,  ,*,11/30/1998,7/16/2019,NS Trend,0,21,NS Trend,NS Trend,NTU
+Carl Albert,34.767789,-95.068258,Latimver,US,Whole Lake,Chlorophyll (ug/L),Highly Likely Upward,-3,3,up,↑↑↑,0.1749,18,NS,***,11/19/2003,11/6/2022,66.10%,66.1,19,1.7,5.02,ug/L
+Carl Albert,34.767789,-95.068258,Latimver,US,Whole Lake,Total Nitrogen (mg/L),Somewhat Likely Upward,-2,2,up,↑↑,0.00416,20,NS,**,11/28/2000,10/3/2022,20.20%,20.2,22,0.36,0.45,mg/L
+Carl Albert,34.767789,-95.068258,Latimver,US,Whole Lake,Secchi (cm),Insufficient Data,Insufficient Data,99,N/A,NEI,N/A,14,NS,*,NEI,NEI,NEI,,NEI,NEI,NEI,cm
+Carl Albert,34.767789,-95.068258,Latimver,US,Whole Lake,Conductivity (uS/cm),Highly Likely Upward,-3,3,up,↑↑↑,0.81,19,NS,NS,6/17/1997,8/11/2022,42.10%,42.1,25,28,48.39,uS/cm
+Carl Albert,34.767789,-95.068258,Latimver,US,Whole Lake,Total Phosphorus (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,20,NS,NS,11/28/2000,10/3/2022,NS Trend,0,22,NS Trend,NS Trend,mg/L
+Carl Albert,34.767789,-95.068258,Latimver,US,Whole Lake,Turbidity (NTU),Insufficient Data,Insufficient Data,99,N/A,NEI,N/A,14,NS,***,NEI,NEI,NEI,,NEI,NEI,NEI,NTU
+Carl Blackwell,36.134231,-97.194942,Payne,US,Whole Lake,Chlorophyll (ug/L),No Significant Trend,0,0,N/A,NS Trend,N/A,26,NS,***,9/7/2004,9/27/2021,NS Trend,0,17,NS Trend,NS Trend,ug/L
+Carl Blackwell,36.134231,-97.194942,Payne,US,Whole Lake,Total Nitrogen (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,34,**,***,5/18/1998,9/27/2021,NS Trend,0,23,NS Trend,NS Trend,mg/L
+Carl Blackwell,36.134231,-97.194942,Payne,US,Whole Lake,Secchi (cm),Somewhat Likely Upward,-2,2,up,↑↑,1.211,21,***,***,10/24/2001,9/27/2021,36.50%,36.5,20,42,66.15,cm
+Carl Blackwell,36.134231,-97.194942,Payne,US,Whole Lake,Conductivity (uS/cm),Insufficient Data,Insufficient Data,99,N/A,NEI,N/A,8,NS,***,NEI,NEI,NEI,,NEI,NEI,NEI,uS/cm
+Carl Blackwell,36.134231,-97.194942,Payne,US,Whole Lake,Total Phosphorus (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,33,NS,***,5/18/1998,9/27/2021,NS Trend,0,23,NS Trend,NS Trend,mg/L
+Carl Blackwell,36.134231,-97.194942,Payne,US,Whole Lake,Turbidity (NTU),No Significant Trend,0,0,N/A,NS Trend,N/A,25,***,***,10/24/2001,9/27/2021,NS Trend,0,20,NS Trend,NS Trend,NTU
+Chandler,35.733669,-96.908456,Lincoln,US,Whole Lake,Chlorophyll (ug/L),Insufficient Data,Insufficient Data,99,N/A,NEI,N/A,15,NS,*,NEI,NEI,NEI,,NEI,NEI,NEI,ug/L
+Chandler,35.733669,-96.908456,Lincoln,US,Whole Lake,Total Nitrogen (mg/L),Highly Likely Upward,-3,3,up,↑↑↑,0.02859,21,NS,NS,6/10/1998,10/2/2017,45.90%,45.9,19,0.65,1.2,mg/L
+Chandler,35.733669,-96.908456,Lincoln,US,Whole Lake,Secchi (cm),Insufficient Data,Insufficient Data,99,N/A,NEI,N/A,13,NS,***,NEI,NEI,NEI,,NEI,NEI,NEI,cm
+Chandler,35.733669,-96.908456,Lincoln,US,Whole Lake,Conductivity (uS/cm),Highly Likely Upward,-3,3,up,↑↑↑,6.58,16,NS,**,6/10/1998,10/2/2017,34.60%,34.6,19,240,367.11,uS/cm
+Chandler,35.733669,-96.908456,Lincoln,US,Whole Lake,Total Phosphorus (mg/L),Highly Likely Upward,-3,3,up,↑↑↑,0.0009148,21,NS,NS,6/10/1998,10/2/2017,38.70%,38.7,19,0.028,0.05,mg/L
+Chandler,35.733669,-96.908456,Lincoln,US,Whole Lake,Turbidity (NTU),Insufficient Data,Insufficient Data,99,N/A,NEI,N/A,12,NS,*,NEI,NEI,NEI,,NEI,NEI,NEI,NTU
+Chickasha,35.131989,-98.132894,Caddo,US,Whole Lake,Chlorophyll (ug/L),No Significant Trend,0,0,N/A,NS Trend,N/A,32,NS,***,4/29/2003,9/27/2021,NS Trend,0,18,NS Trend,NS Trend,ug/L
+Chickasha,35.131989,-98.132894,Caddo,US,Whole Lake,Total Nitrogen (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,36,***,NS,11/15/1999,9/27/2021,NS Trend,0,22,NS Trend,NS Trend,mg/L
+Chickasha,35.131989,-98.132894,Caddo,US,Whole Lake,Secchi (cm),No Significant Trend,0,0,N/A,NS Trend,N/A,25,NS,***,11/13/2006,9/27/2021,NS Trend,0,15,NS Trend,NS Trend,cm
+Chickasha,35.131989,-98.132894,Caddo,US,Whole Lake,Conductivity (uS/cm),Highly Likely Upward,-3,3,up,↑↑↑,29.78,32,***,***,11/15/1999,9/27/2021,24.60%,24.6,22,2000,2651.65,uS/cm
+Chickasha,35.131989,-98.132894,Caddo,US,Whole Lake,Total Phosphorus (mg/L),Somewhat Likely Downward,2,-2,down,↓↓,-0.0007782,35,NS,***,11/15/1999,9/27/2021,-53.30%,-53.3,22,0.049,0.03,mg/L
+Chickasha,35.131989,-98.132894,Caddo,US,Whole Lake,Turbidity (NTU),Somewhat Likely Downward,2,-2,down,↓↓,-0.2834,30,***,***,9/22/2004,9/27/2021,-67.20%,-67.2,17,12,7.18,NTU
+Claremore,36.325136,-95.579578,Rogers,US,Whole Lake,Chlorophyll (ug/L),No Significant Trend,0,0,N/A,NS Trend,N/A,23,NS,***,9/2/2003,10/10/2022,NS Trend,0,19,NS Trend,NS Trend,ug/L
+Claremore,36.325136,-95.579578,Rogers,US,Whole Lake,Total Nitrogen (mg/L),Somewhat Likely Upward,-2,2,up,↑↑,0.01165,26,NS,***,10/1/2001,10/10/2022,21.40%,21.4,21,0.9,1.15,mg/L
+Claremore,36.325136,-95.579578,Rogers,US,Whole Lake,Secchi (cm),No Significant Trend,0,0,N/A,NS Trend,N/A,24,NS,*,10/1/2001,10/10/2022,NS Trend,0,21,NS Trend,NS Trend,cm
+Claremore,36.325136,-95.579578,Rogers,US,Whole Lake,Conductivity (uS/cm),No Significant Trend,0,0,N/A,NS Trend,N/A,22,NS,***,10/20/2001,8/30/2022,NS Trend,0,21,NS Trend,NS Trend,uS/cm
+Claremore,36.325136,-95.579578,Rogers,US,Whole Lake,Total Phosphorus (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,26,NS,***,10/1/2001,10/10/2022,NS Trend,0,21,NS Trend,NS Trend,mg/L
+Claremore,36.325136,-95.579578,Rogers,US,Whole Lake,Turbidity (NTU),No Significant Trend,0,0,N/A,NS Trend,N/A,24,***,***,10/1/2001,10/10/2022,NS Trend,0,21,NS Trend,NS Trend,NTU
+Clear Creek,34.585278,-97.840833,Stephens,US,Whole Lake,Chlorophyll (ug/L),Highly Likely Upward,-3,3,up,↑↑↑,0.5999,28,NS,***,11/20/2002,10/31/2021,55.80%,55.8,19,9,20.37,ug/L
+Clear Creek,34.585278,-97.840833,Stephens,US,Whole Lake,Total Nitrogen (mg/L),Highly Likely Upward,-3,3,up,↑↑↑,0.01219,33,NS,***,11/6/2000,9/27/2021,26.70%,26.7,21,0.7,0.95,mg/L
+Clear Creek,34.585278,-97.840833,Stephens,US,Whole Lake,Secchi (cm),Likely Upward,-1,1,up,↑,1.668,24,NS,***,11/6/2000,9/27/2021,41.10%,41.1,21,50,84.87,cm
+Clear Creek,34.585278,-97.840833,Stephens,US,Whole Lake,Conductivity (uS/cm),Highly Likely Upward,-3,3,up,↑↑↑,4.85,33,NS,NS,11/6/2000,8/3/2021,14.40%,14.4,21,600,700.7,uS/cm
+Clear Creek,34.585278,-97.840833,Stephens,US,Whole Lake,Total Phosphorus (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,33,NS,***,11/6/2000,9/27/2021,NS Trend,0,21,NS Trend,NS Trend,mg/L
+Clear Creek,34.585278,-97.840833,Stephens,US,Whole Lake,Turbidity (NTU),Likely Downward,1,-1,down,↓,-0.1704,29,**,***,11/6/2000,9/27/2021,-55.30%,-55.3,21,10,6.44,NTU
+Clinton,35.435214,-99.221256,Washita,US,Whole Lake,Chlorophyll (ug/L),No Significant Trend,0,0,N/A,NS Trend,N/A,18,NS,***,8/14/2002,8/15/2018,NS Trend,0,16,NS Trend,NS Trend,ug/L
+Clinton,35.435214,-99.221256,Washita,US,Whole Lake,Total Nitrogen (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,33,NS,*,4/22/1998,8/15/2018,NS Trend,0,20,NS Trend,NS Trend,mg/L
+Clinton,35.435214,-99.221256,Washita,US,Whole Lake,Secchi (cm),Somewhat Likely Upward,-2,2,up,↑↑,1.499,13,NS,***,11/19/2001,9/14/2018,50.20%,50.2,17,25,50.23,cm
+Clinton,35.435214,-99.221256,Washita,US,Whole Lake,Conductivity (uS/cm),Highly Likely Upward,-3,3,up,↑↑↑,10.83,21,NS,**,4/22/1998,8/15/2018,33.90%,33.9,20,430,650.16,uS/cm
+Clinton,35.435214,-99.221256,Washita,US,Whole Lake,Total Phosphorus (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,33,NS,***,4/22/1998,8/15/2018,NS Trend,0,20,NS Trend,NS Trend,mg/L
+Clinton,35.435214,-99.221256,Washita,US,Whole Lake,Turbidity (NTU),Insufficient Data,Insufficient Data,99,N/A,NEI,N/A,13,NS,***,NEI,NEI,NEI,,NEI,NEI,NEI,NTU
+Coalgate,34.57175,-96.233131,Coal,US,Whole Lake,Chlorophyll (ug/L),Likely Upward,-1,1,up,↑,0.1612,21,NS,***,10/20/2003,11/8/2022,33.90%,33.9,19,6,9.07,ug/L
+Coalgate,34.57175,-96.233131,Coal,US,Whole Lake,Total Nitrogen (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,25,NS,***,11/16/2001,11/8/2022,NS Trend,0,21,NS Trend,NS Trend,mg/L
+Coalgate,34.57175,-96.233131,Coal,US,Whole Lake,Secchi (cm),No Significant Trend,0,0,N/A,NS Trend,N/A,17,NS,**,11/6/2001,11/8/2022,NS Trend,0,21,NS Trend,NS Trend,cm
+Coalgate,34.57175,-96.233131,Coal,US,Whole Lake,Conductivity (uS/cm),Highly Likely Upward,-3,3,up,↑↑↑,2.8,20,NS,NS,11/6/2001,9/23/2022,51.50%,51.5,21,55,113.5,uS/cm
+Coalgate,34.57175,-96.233131,Coal,US,Whole Lake,Total Phosphorus (mg/L),Likely Downward,1,-1,down,↓,-0.001147,25,NS,NS,11/6/2001,12/16/2022,-34.20%,-34.2,21,0.095,0.07,mg/L
+Coalgate,34.57175,-96.233131,Coal,US,Whole Lake,Turbidity (NTU),Somewhat Likely Downward,2,-2,down,↓↓,-2.194,21,NS,***,11/6/2001,11/8/2022,-128.50%,-128.5,21,82,35.88,NTU
+Copan,36.886408,-95.967894,Washington,US,Whole Lake,Chlorophyll (ug/L),No Significant Trend,0,0,N/A,NS Trend,N/A,22,**,***,1/13/2003,2/24/2020,NS Trend,0,17,NS Trend,NS Trend,ug/L
+Copan,36.886408,-95.967894,Washington,US,Whole Lake,Total Nitrogen (mg/L),Likely Upward,-1,1,up,↑,0.01512,29,*,***,10/17/1999,2/24/2020,32.10%,32.1,20,0.65,0.96,mg/L
+Copan,36.886408,-95.967894,Washington,US,Whole Lake,Secchi (cm),Highly Likely Upward,-3,3,up,↑↑↑,3.538,14,NS,***,10/15/2012,3/8/2020,63.60%,63.6,7,15,41.18,cm
+Copan,36.886408,-95.967894,Washington,US,Whole Lake,Conductivity (uS/cm),No Significant Trend,0,0,N/A,NS Trend,N/A,30,NS,***,10/18/1999,2/24/2020,NS Trend,0,20,NS Trend,NS Trend,uS/cm
+Copan,36.886408,-95.967894,Washington,US,Whole Lake,Total Phosphorus (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,29,***,***,10/17/1999,2/24/2020,NS Trend,0,20,NS Trend,NS Trend,mg/L
+Copan,36.886408,-95.967894,Washington,US,Whole Lake,Turbidity (NTU),Likely Downward,1,-1,down,↓,-2.788,18,***,***,10/25/2004,2/24/2020,-132.70%,-132.7,15,75,32.23,NTU
+Crowder,35.394658,-98.701731,Washita,US,Whole Lake,Chlorophyll (ug/L),Highly Likely Upward,-3,3,up,↑↑↑,1.248,66,*,***,10/12/1998,8/22/2019,68.50%,68.5,21,12,38.05,ug/L
+Crowder,35.394658,-98.701731,Washita,US,Whole Lake,Total Nitrogen (mg/L),Highly Likely Upward,-3,3,up,↑↑↑,0.04837,66,***,***,4/21/1998,7/16/2019,59.50%,59.5,21,0.7,1.73,mg/L
+Crowder,35.394658,-98.701731,Washita,US,Whole Lake,Secchi (cm),No Significant Trend,0,0,N/A,NS Trend,N/A,64,***,***,10/12/1998,7/16/2019,NS Trend,0,21,NS Trend,NS Trend,cm
+Crowder,35.394658,-98.701731,Washita,US,Whole Lake,Conductivity (uS/cm),Highly Likely Upward,-3,3,up,↑↑↑,11.36,59,***,***,4/21/1998,7/16/2019,19.10%,19.1,21,1025,1266.39,uS/cm
+Crowder,35.394658,-98.701731,Washita,US,Whole Lake,Total Phosphorus (mg/L),Highly Likely Upward,-3,3,up,↑↑↑,0.0043,63,***,***,4/21/1998,7/16/2019,72.30%,72.3,21,0.035,0.13,mg/L
+Crowder,35.394658,-98.701731,Washita,US,Whole Lake,Turbidity (NTU),No Significant Trend,0,0,N/A,NS Trend,N/A,63,***,***,10/12/1998,7/16/2019,NS Trend,0,21,NS Trend,NS Trend,NTU
+Cushing,35.394658,-98.701731,Payne,US,Whole Lake,Chlorophyll (ug/L),No Significant Trend,0,0,N/A,NS Trend,N/A,20,*,NS,2/28/2002,7/5/2017,NS Trend,0,15,NS Trend,NS Trend,ug/L
+Cushing,36.011389,-96.875031,Payne,US,Whole Lake,Total Nitrogen (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,24,NS,***,4/14/1998,7/5/2017,NS Trend,0,19,NS Trend,NS Trend,mg/L
+Cushing,36.011389,-96.875031,Payne,US,Whole Lake,Secchi (cm),No Significant Trend,0,0,N/A,NS Trend,N/A,15,NS,***,2/28/2002,7/5/2017,NS Trend,0,15,NS Trend,NS Trend,cm
+Cushing,36.011389,-96.875031,Payne,US,Whole Lake,Conductivity (uS/cm),Highly Likely Upward,-3,3,up,↑↑↑,9.7,28,NS,*,8/27/1997,8/10/2017,52.50%,52.5,20,175,368.66,uS/cm
+Cushing,36.011389,-96.875031,Payne,US,Whole Lake,Total Phosphorus (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,24,NS,***,4/4/1998,7/5/2017,NS Trend,0,19,NS Trend,NS Trend,mg/L
+Cushing,36.011389,-96.875031,Payne,US,Whole Lake,Turbidity (NTU),Highly Likely Downward,3,-3,down,↓↓↓,-1.259,18,***,***,2/28/2002,9/13/2017,-44.60%,-44.6,16,63.5,43.92,NTU
+Dripping Springs,35.573717,-96.106853,Okmulgee,US,Whole Lake,Chlorophyll (ug/L),Likely Upward,-1,1,up,↑,0.1598,25,NS,***,11/22/2004,8/11/2020,39.80%,39.8,16,3.8,6.31,ug/L
+Dripping Springs,35.573717,-96.106853,Okmulgee,US,Whole Lake,Total Nitrogen (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,29,NS,NS,10/18/2001,8/11/2020,NS Trend,0,19,NS Trend,NS Trend,mg/L
+Dripping Springs,35.573717,-96.106853,Okmulgee,US,Whole Lake,Secchi (cm),No Significant Trend,0,0,N/A,NS Trend,N/A,26,*,***,10/8/2001,8/11/2020,NS Trend,0,19,NS Trend,NS Trend,cm
+Dripping Springs,35.573717,-96.106853,Okmulgee,US,Whole Lake,Conductivity (uS/cm),Somewhat Likely Upward,-2,2,up,↑↑,1.94,31,*,NS,10/18/2001,11/5/2020,27.00%,27,19,100,137.04,uS/cm
+Dripping Springs,35.573717,-96.106853,Okmulgee,US,Whole Lake,Total Phosphorus (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,25,NS,NS,10/8/2001,8/11/2020,NS Trend,0,19,NS Trend,NS Trend,mg/L
+Dripping Springs,35.573717,-96.106853,Okmulgee,US,Whole Lake,Turbidity (NTU),No Significant Trend,0,0,N/A,NS Trend,N/A,29,NS,***,10/8/2001,8/11/2020,NS Trend,0,19,NS Trend,NS Trend,NTU
+Duncan,34.519431,-97.811086,Stephens,US,Whole Lake,Chlorophyll (ug/L),No Significant Trend,0,0,N/A,NS Trend,N/A,18,NS,**,11/20/2002,7/8/2019,NS Trend,0,17,NS Trend,NS Trend,ug/L
+Duncan,34.519431,-97.811086,Stephens,US,Whole Lake,Total Nitrogen (mg/L),Somewhat Likely Upward,-2,2,up,↑↑,0.01644,25,NS,NS,6/15/1998,8/15/2019,38.80%,38.8,21,0.55,0.9,mg/L
+Duncan,34.519431,-97.811086,Stephens,US,Whole Lake,Secchi (cm),Insufficient Data,Insufficient Data,99,N/A,NEI,N/A,12,NEI,NEI,NEI,NEI,NEI,,NEI,NEI,NEI,cm
+Duncan,34.519431,-97.811086,Stephens,US,Whole Lake,Conductivity (uS/cm),Likely Upward,-1,1,up,↑,5.49,21,NS,***,6/15/1998,7/8/2019,25.70%,25.7,21,335,450.67,uS/cm
+Duncan,34.519431,-97.811086,Stephens,US,Whole Lake,Total Phosphorus (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,25,NS,***,6/15/1998,7/8/2019,NS Trend,0,21,NS Trend,NS Trend,mg/L
+Duncan,34.519431,-97.811086,Stephens,US,Whole Lake,Turbidity (NTU),No Significant Trend,0,0,N/A,NS Trend,N/A,19,NS,***,11/6/2000,7/8/2019,NS Trend,0,19,NS Trend,NS Trend,NTU
+Ellsworth,34.795461,-98.366422,Comanche,US,Whole Lake,Chlorophyll (ug/L),No Significant Trend,0,0,N/A,NS Trend,N/A,28,**,***,8/12/2002,7/9/2019,NS Trend,0,17,NS Trend,NS Trend,ug/L
+Ellsworth,34.795461,-98.366422,Comanche,US,Whole Lake,Total Nitrogen (mg/L),Somewhat Likely Upward,-2,2,up,↑↑,0.008974,36,**,***,4/15/1998,8/16/2019,19.30%,19.3,21,0.8,0.99,mg/L
+Ellsworth,34.795461,-98.366422,Comanche,US,Whole Lake,Secchi (cm),No Significant Trend,0,0,N/A,NS Trend,N/A,21,***,***,11/7/2001,7/9/2019,NS Trend,0,18,NS Trend,NS Trend,cm
+Ellsworth,34.795461,-98.366422,Comanche,US,Whole Lake,Conductivity (uS/cm),No Significant Trend,0,0,N/A,NS Trend,N/A,38,NS,***,8/15/1994,7/9/2019,NS Trend,0,25,NS Trend,NS Trend,uS/cm
+Ellsworth,34.795461,-98.366422,Comanche,US,Whole Lake,Total Phosphorus (mg/L),Somewhat Likely Upward,-2,2,up,↑↑,0.002098,36,***,***,4/15/1998,7/9/2019,49.80%,49.8,21,0.045,0.09,mg/L
+Ellsworth,34.795461,-98.366422,Comanche,US,Whole Lake,Turbidity (NTU),No Significant Trend,0,0,N/A,NS Trend,N/A,27,***,***,11/7/2001,7/9/2019,NS Trend,0,18,NS Trend,NS Trend,NTU
+Elmer Thomas,34.727492,-98.515336,Comanche,US,Whole Lake,Chlorophyll (ug/L),Highly Likely Upward,-3,3,up,↑↑↑,0.1053,19,NS,NS,1/29/2003,11/1/2021,62.20%,62.2,19,1.2,3.18,ug/L
+Elmer Thomas,34.727492,-98.515336,Comanche,US,Whole Lake,Total Nitrogen (mg/L),Likely Upward,-1,1,up,↑,0.007483,25,NS,***,10/13/1999,11/7/2021,32.70%,32.7,22,0.34,0.51,mg/L
+Elmer Thomas,34.727492,-98.515336,Comanche,US,Whole Lake,Secchi (cm),Insufficient Data,Insufficient Data,99,N/A,NEI,N/A,9,NEI,NEI,NEI,NEI,NEI,,NEI,NEI,NEI,cm
+Elmer Thomas,34.727492,-98.515336,Comanche,US,Whole Lake,Conductivity (uS/cm),Highly Likely Upward,-3,3,up,↑↑↑,2,21,NS,***,10/12/1999,11/7/2021,37.00%,37,22,75,119.09,uS/cm
+Elmer Thomas,34.727492,-98.515336,Comanche,US,Whole Lake,Total Phosphorus (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,24,NS,NS,10/13/1999,9/28/2021,NS Trend,0,22,NS Trend,NS Trend,mg/L
+Elmer Thomas,34.727492,-98.515336,Comanche,US,Whole Lake,Turbidity (NTU),Insufficient Data,Insufficient Data,99,N/A,NEI,N/A,14,NS,***,NEI,NEI,NEI,,NEI,NEI,NEI,NTU
+Eucha,36.373889,-94.933636,Delaware,US,Whole Lake,Chlorophyll (ug/L),Highly Likely Upward,-3,3,up,↑↑↑,0.4621,49,***,***,10/17/2002,11/15/2022,62.80%,62.8,20,5.5,14.79,ug/L
+Eucha,36.373889,-94.933636,Delaware,US,Whole Lake,Total Nitrogen (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,32,***,***,10/17/2002,10/10/2022,NS Trend,0,20,NS Trend,NS Trend,mg/L
+Eucha,36.373889,-94.933636,Delaware,US,Whole Lake,Secchi (cm),No Significant Trend,0,0,N/A,NS Trend,N/A,31,*,***,10/17/2002,10/10/2022,NS Trend,0,20,NS Trend,NS Trend,cm
+Eucha,36.373889,-94.933636,Delaware,US,Whole Lake,Conductivity (uS/cm),No Significant Trend,0,0,N/A,NS Trend,N/A,26,***,***,10/17/2002,10/10/2022,NS Trend,0,20,NS Trend,NS Trend,uS/cm
+Eucha,36.373889,-94.933636,Delaware,US,Whole Lake,Total Phosphorus (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,31,NS,***,10/17/2002,10/10/2022,NS Trend,0,20,NS Trend,NS Trend,mg/L
+Eucha,36.373889,-94.933636,Delaware,US,Whole Lake,Turbidity (NTU),No Significant Trend,0,0,N/A,NS Trend,N/A,31,*,***,10/17/2002,10/10/2022,NS Trend,0,20,NS Trend,NS Trend,NTU
+Eufaula,35.4615,-95.60973,Haskell,US,Whole Lake,Chlorophyll (ug/L),No Significant Trend,0,0,N/A,NS Trend,N/A,38,***,***,12/2/2002,11/16/2022,NS Trend,0,20,NS Trend,NS Trend,ug/L
+Eufaula,35.4615,-95.60973,Haskell,US,Whole Lake,Total Nitrogen (mg/L),Highly Likely Upward,-3,3,up,↑↑↑,0.007508,46,***,***,11/3/1999,11/16/2022,21.00%,21,23,0.65,0.82,mg/L
+Eufaula,35.4615,-95.60973,Haskell,US,Whole Lake,Secchi (cm),No Significant Trend,0,0,N/A,NS Trend,N/A,30,***,***,11/15/2004,11/16/2022,NS Trend,0,18,NS Trend,NS Trend,cm
+Eufaula,35.4615,-95.60973,Haskell,US,Whole Lake,Conductivity (uS/cm),Likely Downward,1,-1,down,↓,-2.06,43,***,***,11/3/1999,11/16/2022,-13.10%,-13.1,23,410,362.42,uS/cm
+Eufaula,35.4615,-95.60973,Haskell,US,Whole Lake,Total Phosphorus (mg/L),Somewhat Likely Upward,-2,2,up,↑↑,0.0007388,46,***,***,11/3/1999,12/28/2022,23.70%,23.7,23,0.055,0.07,mg/L
+Eufaula,35.4615,-95.60973,Haskell,US,Whole Lake,Turbidity (NTU),Somewhat Likely Upward,-2,2,up,↑↑,0.5107,34,***,***,11/15/2004,11/16/2022,29.50%,29.5,18,22,31.2,NTU
+Fairfax,36.606983,-96.727828,Osage,US,Whole Lake,Chlorophyll (ug/L),Highly Likely Upward,-3,3,up,↑↑↑,0.706,23,NS,***,9/29/2003,1/3/2023,81.90%,81.9,19,3,16.61,ug/L
+Fairfax,36.606983,-96.727828,Osage,US,Whole Lake,Total Nitrogen (mg/L),Somewhat Likely Upward,-2,2,up,↑↑,0.007855,33,*,***,5/27/1998,1/29/2022,23.70%,23.7,24,0.6,0.79,mg/L
+Fairfax,36.606983,-96.727828,Osage,US,Whole Lake,Secchi (cm),No Significant Trend,0,0,N/A,NS Trend,N/A,22,*,***,10/28/2001,11/29/2022,NS Trend,0,21,NS Trend,NS Trend,cm
+Fairfax,36.606983,-96.727828,Osage,US,Whole Lake,Conductivity (uS/cm),No Significant Trend,0,0,N/A,NS Trend,N/A,30,NS,***,5/27/1998,11/29/2022,NS Trend,0,25,NS Trend,NS Trend,uS/cm
+Fairfax,36.606983,-96.727828,Osage,US,Whole Lake,Total Phosphorus (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,33,NS,*,5/27/1998,11/29/2022,NS Trend,0,25,NS Trend,NS Trend,mg/L
+Fairfax,36.606983,-96.727828,Osage,US,Whole Lake,Turbidity (NTU),No Significant Trend,0,0,N/A,NS Trend,N/A,22,NS,***,10/28/2001,11/29/2022,NS Trend,0,21,NS Trend,NS Trend,NTU
+Fort Cobb,35.162153,-98.456836,Caddo,US,Whole Lake,Chlorophyll (ug/L),No Significant Trend,0,0,N/A,NS Trend,N/A,39,*,***,8/13/2002,11/7/2022,NS Trend,0,20,NS Trend,NS Trend,ug/L
+Fort Cobb,35.162153,-98.456836,Caddo,US,Whole Lake,Total Nitrogen (mg/L),Highly Likely Upward,-3,3,up,↑↑↑,0.01062,48,NS,***,4/21/1998,11/7/2022,19.20%,19.2,25,1.1,1.36,mg/L
+Fort Cobb,35.162153,-98.456836,Caddo,US,Whole Lake,Secchi (cm),Somewhat Likely Upward,-2,2,up,↑↑,0.9608,36,***,***,11/13/2001,12/15/2022,26.90%,26.9,21,55,75.27,cm
+Fort Cobb,35.162153,-98.456836,Caddo,US,Whole Lake,Conductivity (uS/cm),Highly Likely Upward,-3,3,up,↑↑↑,5.76,46,NS,***,4/21/1998,11/7/2022,24.80%,24.8,25,430,571.52,uS/cm
+Fort Cobb,35.162153,-98.456836,Caddo,US,Whole Lake,Total Phosphorus (mg/L),Highly Likely Upward,-3,3,up,↑↑↑,0.001706,48,***,***,4/21/1998,11/7/2022,39.20%,39.2,25,0.065,0.11,mg/L
+Fort Cobb,35.162153,-98.456836,Caddo,US,Whole Lake,Turbidity (NTU),Highly Likely Downward,3,-3,down,↓↓↓,-0.2883,38,***,***,11/13/2001,11/7/2022,-67.70%,-67.7,21,15,8.95,NTU
+Fort Gibson,35.871667,-95.233056,Cherokee,US,Whole Lake,Chlorophyll (ug/L),Likely Upward,-1,1,up,↑,0.4976,22,NS,***,11/19/2003,9/15/2020,33.00%,33,17,17,25.38,ug/L
+Fort Gibson,35.871667,-95.233056,Cherokee,US,Whole Lake,Total Nitrogen (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,34,NS,***,6/23/1998,9/15/2020,NS Trend,0,22,NS Trend,NS Trend,mg/L
+Fort Gibson,35.871667,-95.233056,Cherokee,US,Whole Lake,Secchi (cm),No Significant Trend,0,0,N/A,NS Trend,N/A,27,***,***,10/30/2000,9/15/2020,NS Trend,0,20,NS Trend,NS Trend,cm
+Fort Gibson,35.871667,-95.233056,Cherokee,US,Whole Lake,Conductivity (uS/cm),No Significant Trend,0,0,N/A,NS Trend,N/A,35,NS,***,6/24/1998,11/7/2023,NS Trend,0,25,NS Trend,NS Trend,uS/cm
+Fort Gibson,35.871667,-95.233056,Cherokee,US,Whole Lake,Total Phosphorus (mg/L),Likely Upward,-1,1,up,↑,0.001118,28,***,***,6/23/1998,9/15/2020,21.70%,21.7,22,0.09,0.11,mg/L
+Fort Gibson,35.871667,-95.233056,Cherokee,US,Whole Lake,Turbidity (NTU),No Significant Trend,0,0,N/A,NS Trend,N/A,28,***,***,10/30/2000,9/15/2020,NS Trend,0,20,NS Trend,NS Trend,NTU
+Fort Supply,36.548517,-99.565136,Woodward,US,Whole Lake,Chlorophyll (ug/L),Somewhat Likely Upward,-2,2,up,↑↑,0.522,38,NS,***,10/19/1998,10/18/2021,50.00%,50,23,12,24.01,ug/L
+Fort Supply,36.548517,-99.565136,Woodward,US,Whole Lake,Total Nitrogen (mg/L),Somewhat Likely Upward,-2,2,up,↑↑,0.01592,39,NS,***,4/27/1998,9/7/2021,30.50%,30.5,23,0.85,1.22,mg/L
+Fort Supply,36.548517,-99.565136,Woodward,US,Whole Lake,Secchi (cm),No Significant Trend,0,0,N/A,NS Trend,N/A,36,***,***,10/19/1998,9/7/2021,NS Trend,0,23,NS Trend,NS Trend,cm
+Fort Supply,36.548517,-99.565136,Woodward,US,Whole Lake,Conductivity (uS/cm),Highly Likely Upward,-3,3,up,↑↑↑,27.89,39,***,NS,4/27/1998,10/19/2021,44.30%,44.3,23,825,1480.3,uS/cm
+Fort Supply,36.548517,-99.565136,Woodward,US,Whole Lake,Total Phosphorus (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,39,*,***,4/27/1998,9/7/2021,NS Trend,0,23,NS Trend,NS Trend,mg/L
+Fort Supply,36.548517,-99.565136,Woodward,US,Whole Lake,Turbidity (NTU),Likely Downward,1,-1,down,↓,-0.9328,37,***,***,10/19/1998,9/7/2021,-39.80%,-39.8,23,75,53.64,NTU
+Foss,35.539364,-99.189006,Custer,US,Whole Lake,Chlorophyll (ug/L),Highly Likely Downward,3,-3,down,↓↓↓,-0.3258,36,NS,***,4/22/2003,12/12/2022,-178.10%,-178.1,20,10,3.6,ug/L
+Foss,35.539364,-99.189006,Custer,US,Whole Lake,Total Nitrogen (mg/L),Highly Likely Upward,-3,3,up,↑↑↑,0.004877,47,***,***,10/25/1999,11/7/2022,17.00%,17,23,0.55,0.66,mg/L
+Foss,35.539364,-99.189006,Custer,US,Whole Lake,Secchi (cm),Highly Likely Upward,-3,3,up,↑↑↑,4.467,27,***,***,9/13/2004,11/7/2022,57.50%,57.5,18,60,141.13,cm
+Foss,35.539364,-99.189006,Custer,US,Whole Lake,Conductivity (uS/cm),Highly Likely Upward,-3,3,up,↑↑↑,16.14,35,NS,*,10/25/1999,11/7/2022,14.80%,14.8,23,2150,2522.06,uS/cm
+Foss,35.539364,-99.189006,Custer,US,Whole Lake,Total Phosphorus (mg/L),Highly Likely Downward,3,-3,down,↓↓↓,-0.0004082,47,***,***,10/25/1999,11/7/2022,-60.40%,-60.4,23,0.025,0.02,mg/L
+Foss,35.539364,-99.189006,Custer,US,Whole Lake,Turbidity (NTU),Highly Likely Downward,3,-3,down,↓↓↓,-0.4617,31,***,***,9/13/2004,11/7/2022,-320.70%,-320.7,18,11,2.61,NTU
+Frederick,34.513272,-98.8876,Tillman,US,Whole Lake,Chlorophyll (ug/L),No Significant Trend,0,0,N/A,NS Trend,N/A,33,NS,NS,10/28/2002,1/22/2020,NS Trend,0,17,NS Trend,NS Trend,ug/L
+Frederick,34.513272,-98.8876,Tillman,US,Whole Lake,Total Nitrogen (mg/L),Highly Likely Upward,-3,3,up,↑↑↑,0.01377,28,NS,***,10/16/2000,1/22/2020,29.00%,29,19,0.65,0.92,mg/L
+Frederick,34.513272,-98.8876,Tillman,US,Whole Lake,Secchi (cm),Likely Upward,-1,1,up,↑,0.8299,22,NS,***,10/16/2000,2/26/2020,70.30%,70.3,19,6.8,22.88,cm
+Frederick,34.513272,-98.8876,Tillman,US,Whole Lake,Conductivity (uS/cm),No Significant Trend,0,0,N/A,NS Trend,N/A,30,NS,***,10/16/2000,4/1/2020,NS Trend,0,19,NS Trend,NS Trend,uS/cm
+Frederick,34.513272,-98.8876,Tillman,US,Whole Lake,Total Phosphorus (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,35,NS,***,10/16/2000,1/22/2020,NS Trend,0,19,NS Trend,NS Trend,mg/L
+Frederick,34.513272,-98.8876,Tillman,US,Whole Lake,Turbidity (NTU),Somewhat Likely Downward,2,-2,down,↓↓,-2.403,25,*,*,10/16/2000,2/26/2020,-79.70%,-79.7,19,105,58.44,NTU
+Fuqua,34.600833,-97.671111,Stephens,US,Whole Lake,Chlorophyll (ug/L),Somewhat Likely Upward,-2,2,up,↑↑,0.4682,30,**,***,11/20/2002,10/31/2021,68.90%,68.9,19,4,12.88,ug/L
+Fuqua,34.600833,-97.671111,Stephens,US,Whole Lake,Total Nitrogen (mg/L),Highly Likely Upward,-3,3,up,↑↑↑,0.01369,34,NS,***,11/6/2000,9/27/2021,39.10%,39.1,21,0.445,0.73,mg/L
+Fuqua,34.600833,-97.671111,Stephens,US,Whole Lake,Secchi (cm),Somewhat Likely Upward,-2,2,up,↑↑,1.116,26,***,***,11/6/2000,9/27/2021,31.80%,31.8,21,50,73.33,cm
+Fuqua,34.600833,-97.671111,Stephens,US,Whole Lake,Conductivity (uS/cm),No Significant Trend,0,0,N/A,NS Trend,N/A,31,NS,NS,11/6/2000,9/27/2021,NS Trend,0,21,NS Trend,NS Trend,uS/cm
+Fuqua,34.600833,-97.671111,Stephens,US,Whole Lake,Total Phosphorus (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,34,NS,***,11/6/2000,9/27/2021,NS Trend,0,21,NS Trend,NS Trend,mg/L
+Fuqua,34.600833,-97.671111,Stephens,US,Whole Lake,Turbidity (NTU),Somewhat Likely Downward,2,-2,down,↓↓,-0.4267,31,***,***,11/6/2000,9/27/2021,-98.20%,-98.2,21,18,9.08,NTU
+Grand,36.474722,-95.034722,Mayes,US,Whole Lake,Chlorophyll (ug/L),Likely Downward,1,-1,down,↓,-0.2837,40,,,10/9/2000,10/11/2022,-64.00%,-64,22,16,9.75,ug/L
+Grand,36.474722,-95.034722,Mayes,US,Whole Lake,Total Nitrogen (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,49,,,6/22/1998,10/11/2022,NS Trend,0,24,NS Trend,NS Trend,mg/L
+Grand,36.474722,-95.034722,Mayes,US,Whole Lake,Secchi (cm),No Significant Trend,0,0,N/A,NS Trend,N/A,40,,,10/9/2000,10/11/2022,NS Trend,0,22,NS Trend,NS Trend,cm
+Grand,36.474722,-95.034722,Mayes,US,Whole Lake,Conductivity (uS/cm),No Significant Trend,0,0,N/A,NS Trend,N/A,42,***,***,6/22/1998,10/11/2022,NS Trend,0,24,NS Trend,NS Trend,uS/cm
+Grand,36.474722,-95.034722,Mayes,US,Whole Lake,Total Phosphorus (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,49,,,6/22/1998,10/11/2022,NS Trend,0,24,NS Trend,NS Trend,mg/L
+Grand,36.474722,-95.034722,Mayes,US,Whole Lake,Turbidity (NTU),No Significant Trend,0,0,N/A,NS Trend,N/A,40,,,10/9/2000,10/11/2002,NS Trend,0,2,NS Trend,NS Trend,NTU
+Great Salt,36.743033,-98.156006,Alfalfa,US,Whole Lake,Chlorophyll (ug/L),No Significant Trend,0,0,N/A,NS Trend,N/A,19,NS,*,8/19/2002,7/15/2019,NS Trend,0,17,NS Trend,NS Trend,ug/L
+Great Salt,36.743033,-98.156006,Alfalfa,US,Whole Lake,Total Nitrogen (mg/L),Somewhat Likely Upward,-2,2,up,↑↑,0.028,26,NS,***,4/27/1998,7/15/2019,29.80%,29.8,21,1.4,1.99,mg/L
+Great Salt,36.743033,-98.156006,Alfalfa,US,Whole Lake,Secchi (cm),No Significant Trend,0,0,N/A,NS Trend,N/A,18,NS,NS,11/27/2001,7/15/2019,NS Trend,0,18,NS Trend,NS Trend,cm
+Great Salt,36.743033,-98.156006,Alfalfa,US,Whole Lake,Conductivity (uS/cm),Highly Likely Upward,-3,3,up,↑↑↑,164.2,33,NS,***,4/27/1998,7/15/2019,63.00%,63,21,2050,5535.99,uS/cm
+Great Salt,36.743033,-98.156006,Alfalfa,US,Whole Lake,Total Phosphorus (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,26,NS,*,4/27/1998,7/15/2019,NS Trend,0,21,NS Trend,NS Trend,mg/L
+Great Salt,36.743033,-98.156006,Alfalfa,US,Whole Lake,Turbidity (NTU),No Significant Trend,0,0,N/A,NS Trend,N/A,18,NS,NS,11/27/2001,7/15/2019,NS Trend,0,18,NS Trend,NS Trend,NTU
+Greenleaf,35.617192,-95.166389,Muskogee,US,Whole Lake,Chlorophyll (ug/L),No Significant Trend,0,0,N/A,NS Trend,N/A,27,NS,*,10/7/2003,11/16/2022,NS Trend,0,19,NS Trend,NS Trend,ug/L
+Greenleaf,35.617192,-95.166389,Muskogee,US,Whole Lake,Total Nitrogen (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,32,NS,*,10/31/2000,11/16/2022,NS Trend,0,22,NS Trend,NS Trend,mg/L
+Greenleaf,35.617192,-95.166389,Muskogee,US,Whole Lake,Secchi (cm),No Significant Trend,0,0,N/A,NS Trend,N/A,26,*,NS,10/31/2000,11/16/2022,NS Trend,0,22,NS Trend,NS Trend,cm
+Greenleaf,35.617192,-95.166389,Muskogee,US,Whole Lake,Conductivity (uS/cm),Highly Likely Upward,-3,3,up,↑↑↑,2.95,32,30,*,10/31/2000,8/1/2022,35.80%,35.8,22,115,179.18,uS/cm
+Greenleaf,35.617192,-95.166389,Muskogee,US,Whole Lake,Total Phosphorus (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,32,NS,**,10/31/2000,11/16/2022,NS Trend,0,22,NS Trend,NS Trend,mg/L
+Greenleaf,35.617192,-95.166389,Muskogee,US,Whole Lake,Turbidity (NTU),No Significant Trend,0,0,N/A,NS Trend,N/A,27,NS,*,10/31/2000,11/16/2022,NS Trend,0,22,NS Trend,NS Trend,NTU
+Guthrie,35.818886,-97.43885,Logan,US,Whole Lake,Chlorophyll (ug/L),Likely Upward,-1,1,up,↑,1.283,18,NS,***,10/15/2003,9/22/2022,75.20%,75.2,19,8,32.31,ug/L
+Guthrie,35.818886,-97.43885,Logan,US,Whole Lake,Total Nitrogen (mg/L),Likely Upward,-1,1,up,↑,0.0127,25,NS,***,4/14/1998,10/26/2022,24.70%,24.7,25,0.95,1.26,mg/L
+Guthrie,35.818886,-97.43885,Logan,US,Whole Lake,Secchi (cm),No Significant Trend,0,0,N/A,NS Trend,N/A,20,NS,***,11/5/2001,9/12/2022,NS Trend,0,21,NS Trend,NS Trend,cm
+Guthrie,35.818886,-97.43885,Logan,US,Whole Lake,Conductivity (uS/cm),No Significant Trend,0,0,N/A,NS Trend,N/A,27,***,***,6/23/1997,9/12/2022,NS Trend,0,25,NS Trend,NS Trend,uS/cm
+Guthrie,35.818886,-97.43885,Logan,US,Whole Lake,Total Phosphorus (mg/L),Likely Upward,-1,1,up,↑,0.0004786,25,*,***,4/14/1998,9/12/2022,18.70%,18.7,24,0.051,0.06,mg/L
+Guthrie,35.818886,-97.43885,Logan,US,Whole Lake,Turbidity (NTU),No Significant Trend,0,0,N/A,NS Trend,N/A,21,NS,***,11/5/2001,9/12/2022,NS Trend,0,21,NS Trend,NS Trend,NTU
+Hefner,35.581019,-97.597431,Oklahoma,US,Whole Lake,Chlorophyll (ug/L),No Significant Trend,0,0,N/A,NS Trend,N/A,24,NS,**,9/9/2003,9/7/2021,NS Trend,0,18,NS Trend,NS Trend,ug/L
+Hefner,35.581019,-97.597431,Oklahoma,US,Whole Lake,Total Nitrogen (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,35,***,NS,10/9/2001,9/7/2021,NS Trend,0,20,NS Trend,NS Trend,mg/L
+Hefner,35.581019,-97.597431,Oklahoma,US,Whole Lake,Secchi (cm),Likely Upward,-1,1,up,↑,1.332,20,NS,***,1/9/2002,9/7/2021,28.70%,28.7,20,65,91.21,cm
+Hefner,35.581019,-97.597431,Oklahoma,US,Whole Lake,Conductivity (uS/cm),Highly Likely Upward,-3,3,up,↑↑↑,8.69,32,NS,NS,2/17/1998,8/22/2018,16.50%,16.5,21,900,1078.43,uS/cm
+Hefner,35.581019,-97.597431,Oklahoma,US,Whole Lake,Total Phosphorus (mg/L),Highly Likely Upward,-3,3,up,↑↑↑,0.002997,30,NS,***,10/9/2001,9/7/2021,49.90%,49.9,20,0.06,0.12,mg/L
+Hefner,35.581019,-97.597431,Oklahoma,US,Whole Lake,Turbidity (NTU),Likely Downward,1,-1,down,↓,-0.2221,25,NS,***,10/9/2001,9/7/2021,-96.70%,-96.7,20,9,4.57,NTU
+Henryetta,35.417047,-95.922617,Okmulgee,US,Whole Lake,Chlorophyll (ug/L),No Significant Trend,0,0,N/A,NS Trend,N/A,28,***,***,5/14/2003,9/27/2022,NS Trend,0,19,NS Trend,NS Trend,ug/L
+Henryetta,35.417047,-95.922617,Okmulgee,US,Whole Lake,Total Nitrogen (mg/L),Likely Upward,-1,1,up,↑,0.006652,35,NS,***,10/7/1999,11/7/2022,14.60%,14.6,23,0.9,1.05,mg/L
+Henryetta,35.417047,-95.922617,Okmulgee,US,Whole Lake,Secchi (cm),No Significant Trend,0,0,N/A,NS Trend,N/A,20,NS,NS,10/17/2011,9/27/2022,NS Trend,0,11,NS Trend,NS Trend,cm
+Henryetta,35.417047,-95.922617,Okmulgee,US,Whole Lake,Conductivity (uS/cm),Highly Likely Upward,-3,3,up,↑↑↑,1.66,29,NS,NS,1/12/2000,11/7/2022,36.80%,36.8,23,65,102.88,uS/cm
+Henryetta,35.417047,-95.922617,Okmulgee,US,Whole Lake,Total Phosphorus (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,36,**,NS,10/7/1999,9/27/2022,NS Trend,0,23,NS Trend,NS Trend,mg/L
+Henryetta,35.417047,-95.922617,Okmulgee,US,Whole Lake,Turbidity (NTU),No Significant Trend,0,0,N/A,NS Trend,N/A,23,NS,NS,11/15/2004,9/27/2022,NS Trend,0,18,NS Trend,NS Trend,NTU
+Heyburn,35.94935,-96.297858,Creek,US,Whole Lake,Chlorophyll (ug/L),Somewhat Likely Upward,-2,2,up,↑↑,0.2891,28,NS,***,5/21/2003,10/17/2021,49.20%,49.2,18,5.5,10.83,ug/L
+Heyburn,35.94935,-96.297858,Creek,US,Whole Lake,Total Nitrogen (mg/L),Highly Likely Upward,-3,3,up,↑↑↑,0.01419,33,NS,***,11/17/1999,9/14/2021,32.30%,32.3,22,0.65,0.96,mg/L
+Heyburn,35.94935,-96.297858,Creek,US,Whole Lake,Secchi (cm),No Significant Trend,0,0,N/A,NS Trend,N/A,21,NS,***,12/2/2009,9/14/2021,NS Trend,0,12,NS Trend,NS Trend,cm
+Heyburn,35.94935,-96.297858,Creek,US,Whole Lake,Conductivity (uS/cm),Highly Likely Upward,-3,3,up,↑↑↑,3.67,34,NS,**,11/17/1999,9/14/2021,32.10%,32.1,22,170,250.22,uS/cm
+Heyburn,35.94935,-96.297858,Creek,US,Whole Lake,Total Phosphorus (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,33,NS,***,11/17/1999,9/14/2021,NS Trend,0,22,NS Trend,NS Trend,mg/L
+Heyburn,35.94935,-96.297858,Creek,US,Whole Lake,Turbidity (NTU),No Significant Trend,0,0,N/A,NS Trend,N/A,25,NS,***,10/18/2004,9/14/2021,NS Trend,0,17,NS Trend,NS Trend,NTU
+Holdenville,35.028506,-96.368464,Hughes,US,Whole Lake,Chlorophyll (ug/L),Likely Upward,-1,1,up,↑,0.268,25,**,***,10/1/2003,11/30/2022,31.80%,31.8,19,11,16.14,ug/L
+Holdenville,35.028506,-96.368464,Hughes,US,Whole Lake,Total Nitrogen (mg/L),Highly Likely Upward,-3,3,up,↑↑↑,0.01161,28,NS,NS,10/23/2001,11/30/2022,24.60%,24.6,21,0.75,1,mg/L
+Holdenville,35.028506,-96.368464,Hughes,US,Whole Lake,Secchi (cm),Likely Downward,1,-1,down,↓,-1.557,25,**,***,10/23/2001,11/30/2022,-88.60%,-88.6,21,70,37.12,cm
+Holdenville,35.028506,-96.368464,Hughes,US,Whole Lake,Conductivity (uS/cm),Highly Likely Upward,-3,3,up,↑↑↑,3.94,27,NS,NS,10/23/2001,11/4/2022,34.90%,34.9,21,155,237.94,uS/cm
+Holdenville,35.028506,-96.368464,Hughes,US,Whole Lake,Total Phosphorus (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,22,NS,NS,10/23/2001,11/30/2022,NS Trend,0,21,NS Trend,NS Trend,mg/L
+Holdenville,35.028506,-96.368464,Hughes,US,Whole Lake,Turbidity (NTU),No Significant Trend,0,0,N/A,NS Trend,N/A,26,**,***,10/23/2001,11/30/2022,NS Trend,0,21,NS Trend,NS Trend,NTU
+Hominy,36.408811,-96.415092,Osage,US,Whole Lake,Chlorophyll (ug/L),No Significant Trend,0,0,N/A,NS Trend,N/A,20,NS,**,9/22/2003,7/31/2018,NS Trend,0,15,NS Trend,NS Trend,ug/L
+Hominy,36.408811,-96.415092,Osage,US,Whole Lake,Total Nitrogen (mg/L),Likely Downward,1,-1,down,↓,-0.009454,22,*,NS,4/28/1998,9/5/2018,-35.20%,-35.2,20,0.74,0.55,mg/L
+Hominy,36.408811,-96.415092,Osage,US,Whole Lake,Secchi (cm),No Significant Trend,0,0,N/A,NS Trend,N/A,17,***,*,10/22/2001,7/31/2018,NS Trend,0,17,NS Trend,NS Trend,cm
+Hominy,36.408811,-96.415092,Osage,US,Whole Lake,Total Phosphorus (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,22,*,NS,4/28/1998,7/31/2018,NS Trend,0,20,NS Trend,NS Trend,mg/L
+Hominy,36.408811,-96.415092,Osage,US,Whole Lake,Turbidity (NTU),No Significant Trend,0,0,N/A,NS Trend,N/A,19,***,***,10/22/2001,7/31/2018,NS Trend,0,17,NS Trend,NS Trend,NTU
+Hudson Lake,36.806283,-96.034283,Osage,US,Whole Lake,Chlorophyll (ug/L),No Significant Trend,0,0,N/A,NS Trend,N/A,17,*,***,9/29/2003,7/17/2017,NS Trend,0,14,NS Trend,NS Trend,ug/L
+Hudson Lake,36.806283,-96.034283,Osage,US,Whole Lake,Total Nitrogen (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,26,NS,NS,10/20/1998,7/17/2017,NS Trend,0,19,NS Trend,NS Trend,mg/L
+Hudson Lake,36.806283,-96.034283,Osage,US,Whole Lake,Secchi (cm),No Significant Trend,0,0,N/A,NS Trend,N/A,18,NS,NS,1/28/2002,7/17/2017,NS Trend,0,15,NS Trend,NS Trend,cm
+Hudson Lake,36.806283,-96.034283,Osage,US,Whole Lake,Conductivity (uS/cm),No Significant Trend,0,0,N/A,NS Trend,N/A,26,***,***,4/28/1998,7/17/2017,NS Trend,0,19,NS Trend,NS Trend,uS/cm
+Hudson Lake,36.806283,-96.034283,Osage,US,Whole Lake,Total Phosphorus (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,24,*,*,10/20/1998,7/17/2017,NS Trend,0,19,NS Trend,NS Trend,mg/L
+Hudson Lake,36.806283,-96.034283,Osage,US,Whole Lake,Turbidity (NTU),No Significant Trend,0,0,N/A,NS Trend,N/A,18,**,***,1/28/2002,7/17/2017,NS Trend,0,15,NS Trend,NS Trend,NTU
+Hugo,34.012039,-95.383303,Choctaw,US,Whole Lake,Chlorophyll (ug/L),No Significant Trend,0,0,N/A,NS Trend,N/A,31,NS,NS,5/5/2003,3/10/2020,NS Trend,0,17,NS Trend,NS Trend,ug/L
+Hugo,34.012039,-95.383303,Choctaw,US,Whole Lake,Total Nitrogen (mg/L),Somewhat Likely Upward,-2,2,up,↑↑,0.006674,30,NS,NS,11/21/1999,4/16/2020,19.90%,19.9,20,0.55,0.69,mg/L
+Hugo,34.012039,-95.383303,Choctaw,US,Whole Lake,Secchi (cm),No Significant Trend,0,0,N/A,NS Trend,N/A,21,*,NS,11/24/2009,3/10/2020,NS Trend,0,10,NS Trend,NS Trend,cm
+Hugo,34.012039,-95.383303,Choctaw,US,Whole Lake,Conductivity (uS/cm),Highly Likely Upward,-3,3,up,↑↑↑,1.18,33,NS,***,11/21/1999,3/10/2020,34.70%,34.7,20,45,68.93,uS/cm
+Hugo,34.012039,-95.383303,Choctaw,US,Whole Lake,Total Phosphorus (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,35,NS,***,11/21/1999,3/10/2020,NS Trend,0,20,NS Trend,NS Trend,mg/L
+Hugo,34.012039,-95.383303,Choctaw,US,Whole Lake,Turbidity (NTU),No Significant Trend,0,0,N/A,NS Trend,N/A,25,NS,*,11/8/2004,3/10/2020,NS Trend,0,15,NS Trend,NS Trend,NTU
+Hulah,36.930564,-96.090208,Osage,US,Whole Lake,Chlorophyll (ug/L),No Significant Trend,0,0,N/A,NS Trend,N/A,30,NS,***,6/16/2003,8/12/2019,NS Trend,0,16,NS Trend,NS Trend,ug/L
+Hulah,36.930564,-96.090208,Osage,US,Whole Lake,Total Nitrogen (mg/L),Somewhat Likely Upward,-2,2,up,↑↑,0.009017,30,NS,***,10/17/1999,9/17/2019,21.70%,21.7,20,0.65,0.83,mg/L
+Hulah,36.930564,-96.090208,Osage,US,Whole Lake,Secchi (cm),No Significant Trend,0,0,N/A,NS Trend,N/A,20,NS,*,11/2/2011,8/12/2029,NS Trend,0,18,NS Trend,NS Trend,cm
+Hulah,36.930564,-96.090208,Osage,US,Whole Lake,Conductivity (uS/cm),No Significant Trend,0,0,N/A,NS Trend,N/A,31,NS,***,10/17/1999,8/12/2019,NS Trend,0,20,NS Trend,NS Trend,uS/cm
+Hulah,36.930564,-96.090208,Osage,US,Whole Lake,Total Phosphorus (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,33,***,***,10/17/1999,8/12/2019,NS Trend,0,20,NS Trend,NS Trend,mg/L
+Hulah,36.930564,-96.090208,Osage,US,Whole Lake,Turbidity (NTU),No Significant Trend,0,0,N/A,NS Trend,N/A,24,***,***,10/25/2004,8/12/2019,NS Trend,0,15,NS Trend,NS Trend,NTU
+Humphreys,34.586667,-97.885278,Stephens,US,Whole Lake,Chlorophyll (ug/L),No Significant Trend,0,0,N/A,NS Trend,N/A,30,NS,***,11/20/2002,7/9/2019,NS Trend,0,17,NS Trend,NS Trend,ug/L
+Humphreys,34.586667,-97.885278,Stephens,US,Whole Lake,Total Nitrogen (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,37,**,***,11/6/2000,7/9/2019,NS Trend,0,19,NS Trend,NS Trend,mg/L
+Humphreys,34.586667,-97.885278,Stephens,US,Whole Lake,Secchi (cm),No Significant Trend,0,0,N/A,NS Trend,N/A,22,***,**,11/6/2000,7/9/2019,NS Trend,0,19,NS Trend,NS Trend,cm
+Humphreys,34.586667,-97.885278,Stephens,US,Whole Lake,Conductivity (uS/cm),Highly Likely Upward,-3,3,up,↑↑↑,6.13,40,NS,NS,11/6/2000,11/27/2023,20.40%,20.4,23,550,691.38,uS/cm
+Humphreys,34.586667,-97.885278,Stephens,US,Whole Lake,Total Phosphorus (mg/L),Likely Downward,1,-1,down,↓,-0.000516,35,NS,NS,11/6/2000,7/9/2019,-23.90%,-23.9,19,0.05,0.04,mg/L
+Humphreys,34.586667,-97.885278,Stephens,US,Whole Lake,Turbidity (NTU),Somewhat Likely Downward,2,-2,down,↓↓,-0.1493,30,*,***,11/6/2000,7/9/2019,-34.00%,-34,19,11,8.21,NTU
+Jean Neustadt,34.282578,-97.167722,Carter,US,Whole Lake,Chlorophyll (ug/L),Somewhat Likely Upward,-2,2,up,↑↑,0.6479,18,NS,***,11/26/2002,10/1/2017,51.70%,51.7,15,9,18.63,ug/L
+Jean Neustadt,34.282578,-97.167722,Carter,US,Whole Lake,Total Nitrogen (mg/L),Highly Likely Upward,-3,3,up,↑↑↑,0.0307,23,NS,***,11/20/2000,9/5/2017,50.80%,50.8,17,0.5,1.02,mg/L
+Jean Neustadt,34.282578,-97.167722,Carter,US,Whole Lake,Secchi (cm),Insufficient Data,Insufficient Data,99,N/A,NEI,N/A,14,***,NS,NEI,NEI,NEI,,NEI,NEI,NEI,cm
+Jean Neustadt,34.282578,-97.167722,Carter,US,Whole Lake,Conductivity (uS/cm),No Significant Trend,0,0,N/A,NS Trend,N/A,24,NS,***,11/20/2000,9/5/2017,NS Trend,0,17,NS Trend,NS Trend,uS/cm
+Jean Neustadt,34.282578,-97.167722,Carter,US,Whole Lake,Total Phosphorus (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,23,NS,NS,11/20/2000,9/5/2017,NS Trend,0,17,NS Trend,NS Trend,mg/L
+Jean Neustadt,34.282578,-97.167722,Carter,US,Whole Lake,Turbidity (NTU),No Significant Trend,0,0,N/A,NS Trend,N/A,20,***,***,11/20/2000,9/5/2017,NS Trend,0,17,NS Trend,NS Trend,NTU
+John Wells,35.226619,-95.096739,Haskell,US,Whole Lake,Chlorophyll (ug/L),No Significant Trend,0,0,N/A,NS Trend,N/A,15,NS,***,9/15/2003,8/8/2017,NS Trend,0,14,NS Trend,NS Trend,ug/L
+John Wells,35.226619,-95.096739,Haskell,US,Whole Lake,Total Nitrogen (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,25,NS,***,5/5/1998,8/8/2017,NS Trend,0,19,NS Trend,NS Trend,mg/L
+John Wells,35.226619,-95.096739,Haskell,US,Whole Lake,Secchi (cm),Insufficient Data,Insufficient Data,99,N/A,NEI,N/A,14,NS,NS,NEI,NEI,NEI,,NEI,NEI,NEI,cm
+John Wells,35.226619,-95.096739,Haskell,US,Whole Lake,Conductivity (uS/cm),Highly Likely Upward,-3,3,up,↑↑↑,2.8,22,NS,**,5/5/1998,8/8/2017,54.50%,54.5,19,45,98.93,uS/cm
+John Wells,35.226619,-95.096739,Haskell,US,Whole Lake,Total Phosphorus (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,25,NS,***,5/5/1998,8/8/2017,NS Trend,0,19,NS Trend,NS Trend,mg/L
+John Wells,35.226619,-95.096739,Haskell,US,Whole Lake,Turbidity (NTU),Insufficient Data,Insufficient Data,99,N/A,NEI,N/A,15,NS,***,NEI,NEI,NEI,,NEI,NEI,NEI,NTU
+Kaw,36.701175,-96.924208,Osage,US,Whole Lake,Chlorophyll (ug/L),No Significant Trend,0,0,N/A,NS Trend,N/A,35,***,***,1/7/2003,11/29/2022,NS Trend,0,20,NS Trend,NS Trend,ug/L
+Kaw,36.701175,-96.924208,Osage,US,Whole Lake,Total Nitrogen (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,38,***,***,11/2/1999,11/29/2022,NS Trend,0,23,NS Trend,NS Trend,mg/L
+Kaw,36.701175,-96.924208,Osage,US,Whole Lake,Secchi (cm),No Significant Trend,0,0,N/A,NS Trend,N/A,26,***,***,11/22/2004,11/29/2022,NS Trend,0,18,NS Trend,NS Trend,cm
+Kaw,36.701175,-96.924208,Osage,US,Whole Lake,Conductivity (uS/cm),No Significant Trend,0,0,N/A,NS Trend,N/A,41,***,***,11/2/1999,11/29/2022,NS Trend,0,23,NS Trend,NS Trend,uS/cm
+Kaw,36.701175,-96.924208,Osage,US,Whole Lake,Total Phosphorus (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,38,***,***,11/2/1999,11/29/2022,NS Trend,0,23,NS Trend,NS Trend,mg/L
+Kaw,36.701175,-96.924208,Osage,US,Whole Lake,Turbidity (NTU),Likely Downward,1,-1,down,↓,-0.3294,29,***,***,11/22/2004,12/31/2022,-38.40%,-38.4,18,21.5,15.53,NTU
+Keystone,36.147261,-96.257292,Tulsa,US,Whole Lake,Chlorophyll (ug/L),No Significant Trend,0,0,N/A,NS Trend,N/A,42,***,***,5/12/1998,11/28/2022,NS Trend,0,25,NS Trend,NS Trend,ug/L
+Keystone,36.147261,-96.257292,Tulsa,US,Whole Lake,Total Nitrogen (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,44,***,***,5/12/1998,11/28/2022,NS Trend,0,25,NS Trend,NS Trend,mg/L
+Keystone,36.147261,-96.257292,Tulsa,US,Whole Lake,Secchi (cm),Likely Upward,-1,1,up,↑,0.8409,44,***,***,5/12/1998,11/28/2022,33.50%,33.5,25,41,61.66,cm
+Keystone,36.147261,-96.257292,Tulsa,US,Whole Lake,Conductivity (uS/cm),Likely Upward,-1,1,up,↑,12.84,44,***,***,5/12/1998,11/28/2022,18.90%,18.9,25,1350,1665.41,uS/cm
+Keystone,36.147261,-96.257292,Tulsa,US,Whole Lake,Total Phosphorus (mg/L),Highly Likely Upward,-3,3,up,↑↑↑,0.003869,44,***,***,5/12/1998,11/28/2022,44.20%,44.2,25,0.12,0.22,mg/L
+Keystone,36.147261,-96.257292,Tulsa,US,Whole Lake,Turbidity (NTU),Likely Downward,1,-1,down,↓,-0.5866,43,***,***,5/12/1998,1/11/2023,-70.60%,-70.6,25,35,20.52,NTU
+Konawa,34.961356,-96.704008,Seminole,US,Whole Lake,Chlorophyll (ug/L),Highly Likely Upward,-3,3,up,↑↑↑,0.6431,28,**,NS,8/20/2002,10/11/2019,52.50%,52.5,17,10,21.03,ug/L
+Konawa,34.961356,-96.704008,Seminole,US,Whole Lake,Total Nitrogen (mg/L),Highly Likely Upward,-3,3,up,↑↑↑,0.01878,30,*,***,11/19/2001,9/10/2019,30.90%,30.9,18,0.75,1.08,mg/L
+Konawa,34.961356,-96.704008,Seminole,US,Whole Lake,Secchi (cm),No Significant Trend,0,0,N/A,NS Trend,N/A,21,**,***,11/19/2001,9/10/2019,NS Trend,0,18,NS Trend,NS Trend,cm
+Konawa,34.961356,-96.704008,Seminole,US,Whole Lake,Conductivity (uS/cm),Likely Downward,1,-1,down,↓,-23.8,27,NS,**,11/19/2001,9/10/2019,-45.80%,-45.8,18,1350,925.9,uS/cm
+Konawa,34.961356,-96.704008,Seminole,US,Whole Lake,Total Phosphorus (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,30,NS,***,11/19/2001,9/10/2019,NS Trend,0,18,NS Trend,NS Trend,mg/L
+Konawa,34.961356,-96.704008,Seminole,US,Whole Lake,Turbidity (NTU),No Significant Trend,0,0,N/A,NS Trend,N/A,25,**,***,11/19/2001,9/10/2019,NS Trend,0,18,NS Trend,NS Trend,NTU
+Lake Hudson (Grand),36.232988,-95.179078,Mayes,US,Whole Lake,Chlorophyll (ug/L),No Significant Trend,0,0,N/A,NS Trend,N/A,40,***,***,10/5/1999,7/31/2019,NS Trend,0,20,NS Trend,NS Trend,ug/L
+Lake Hudson (Grand),36.232988,-95.179078,Mayes,US,Whole Lake,Total Nitrogen (mg/L),Highly Likely Upward,-3,3,up,↑↑↑,0.01725,38,**,***,10/5/1999,7/31/2019,34.50%,34.5,20,0.65,0.99,mg/L
+Lake Hudson (Grand),36.232988,-95.179078,Mayes,US,Whole Lake,Secchi (cm),No Significant Trend,0,0,N/A,NS Trend,N/A,36,***,***,10/5/1999,7/31/2019,NS Trend,0,20,NS Trend,NS Trend,cm
+Lake Hudson (Grand),36.232988,-95.179078,Mayes,US,Whole Lake,Conductivity (uS/cm),Likely Upward,-1,1,up,↑,1.14,37,,,10/5/1999,11/6/2023,10.20%,10.2,24,241,268.38,uS/cm
+Lake Hudson (Grand),36.232988,-95.179078,Mayes,US,Whole Lake,Total Phosphorus (mg/L),Somewhat Likely Upward,-2,2,up,↑↑,0.00161,38,**,***,10/5/1999,7/31/2019,32.90%,32.9,20,0.065,0.1,mg/L
+Lake Hudson (Grand),36.232988,-95.179078,Mayes,US,Whole Lake,Turbidity (NTU),No Significant Trend,0,0,N/A,NS Trend,N/A,36,**,***,10/5/1999,7/31/2019,NS Trend,0,20,NS Trend,NS Trend,NTU
+Langston,35.925122,-97.278531,Logan,US,Whole Lake,Chlorophyll (ug/L),Somewhat Likely Upward,-2,2,up,↑↑,0.1159,19,NS,***,10/28/2003,10/9/2021,31.60%,31.6,18,4.5,6.58,ug/L
+Langston,35.925122,-97.278531,Logan,US,Whole Lake,Total Nitrogen (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,25,NS,NS,2/13/2002,9/7/2021,NS Trend,0,20,NS Trend,NS Trend,mg/L
+Langston,35.925122,-97.278531,Logan,US,Whole Lake,Secchi (cm),No Significant Trend,0,0,N/A,NS Trend,N/A,20,NS,***,5/6/2002,9/7/2021,NS Trend,0,19,NS Trend,NS Trend,cm
+Langston,35.925122,-97.278531,Logan,US,Whole Lake,Conductivity (uS/cm),Highly Likely Upward,-3,3,up,↑↑↑,1.73,20,NS,***,11/5/2001,10/29/2023,10.80%,10.8,22,315,353.07,uS/cm
+Langston,35.925122,-97.278531,Logan,US,Whole Lake,Total Phosphorus (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,21,NS,***,2/13/2002,9/7/2021,NS Trend,0,20,NS Trend,NS Trend,mg/L
+Langston,35.925122,-97.278531,Logan,US,Whole Lake,Turbidity (NTU),Highly Likely Downward,3,-3,down,↓↓↓,-0.3664,17,NS,***,2/13/2002,10/12/2021,-168.00%,-168,20,11.5,4.29,NTU
+Lawtonka,34.737367,-98.50345,Comanche,US,Whole Lake,Chlorophyll (ug/L),No Significant Trend,0,0,N/A,NS Trend,N/A,30,NS,***,8/12/2002,11/7/2022,NS Trend,0,20,NS Trend,NS Trend,ug/L
+Lawtonka,34.737367,-98.50345,Comanche,US,Whole Lake,Total Nitrogen (mg/L),Likely Upward,-1,1,up,↑,0.004216,35,NS,***,4/15/1998,12/21/2022,14.80%,14.8,25,0.6,0.7,mg/L
+Lawtonka,34.737367,-98.50345,Comanche,US,Whole Lake,Secchi (cm),No Significant Trend,0,0,N/A,NS Trend,N/A,30,*,***,11/7/2001,11/7/2022,NS Trend,0,21,NS Trend,NS Trend,cm
+Lawtonka,34.737367,-98.50345,Comanche,US,Whole Lake,Conductivity (uS/cm),No Significant Trend,0,0,N/A,NS Trend,N/A,41,NS,***,4/15/1998,10/4/2022,NS Trend,0,24,NS Trend,NS Trend,uS/cm
+Lawtonka,34.737367,-98.50345,Comanche,US,Whole Lake,Total Phosphorus (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,36,***,***,4/15/1998,11/7/2022,NS Trend,0,25,NS Trend,NS Trend,mg/L
+Lawtonka,34.737367,-98.50345,Comanche,US,Whole Lake,Turbidity (NTU),Likely Downward,1,-1,down,↓,-0.1066,36,NS,*,11/7/2001,12/15/2022,-53.00%,-53,21,6.5,4.25,NTU
+Liberty,35.804328,-97.4667,Logan,US,Whole Lake,Chlorophyll (ug/L),Likely Upward,-1,1,up,↑,1.588,18,NS,***,10/15/2003,10/12/2022,66.80%,66.8,19,15,45.18,ug/L
+Liberty,35.804328,-97.4667,Logan,US,Whole Lake,Total Nitrogen (mg/L),Highly Likely Upward,-3,3,up,↑↑↑,0.0193,28,NS,***,6/10/1998,10/12/2022,40.20%,40.2,24,0.7,1.17,mg/L
+Liberty,35.804328,-97.4667,Logan,US,Whole Lake,Secchi (cm),No Significant Trend,0,0,N/A,NS Trend,N/A,18,NS,**,11/5/2001,10/12/2022,NS Trend,0,21,NS Trend,NS Trend,cm
+Liberty,35.804328,-97.4667,Logan,US,Whole Lake,Conductivity (uS/cm),Likely Upward,-1,1,up,↑,5.79,22,NS,***,6/10/1998,9/12/2022,25.50%,25.5,24,410,550.57,uS/cm
+Liberty,35.804328,-97.4667,Logan,US,Whole Lake,Total Phosphorus (mg/L),Highly Likely Upward,-3,3,up,↑↑↑,0.0009551,28,NS,***,6/10/1998,10/12/2022,37.40%,37.4,24,0.039,0.06,mg/L
+Liberty,35.804328,-97.4667,Logan,US,Whole Lake,Turbidity (NTU),No Significant Trend,0,0,N/A,NS Trend,N/A,22,NS,***,11/5/2001,10/12/2022,NS Trend,0,21,NS Trend,NS Trend,NTU
+Lone Chimney,36.255375,-96.825731,Pawnee,US,Whole Lake,Chlorophyll (ug/L),Likely Upward,-1,1,up,↑,0.2494,26,NS,***,10/8/2003,11/28/2022,37.40%,37.4,19,8,12.78,ug/L
+Lone Chimney,36.255375,-96.825731,Pawnee,US,Whole Lake,Total Nitrogen (mg/L),Highly Likely Upward,-3,3,up,↑↑↑,0.01519,30,NS,NS,10/31/2001,11/28/2022,31.40%,31.4,21,0.7,1.02,mg/L
+Lone Chimney,36.255375,-96.825731,Pawnee,US,Whole Lake,Secchi (cm),Likely Downward,1,-1,down,↓,-0.5987,26,*,***,10/8/2003,11/28/2022,-20.60%,-20.6,19,67,55.53,cm
+Lone Chimney,36.255375,-96.825731,Pawnee,US,Whole Lake,Conductivity (uS/cm),Highly Likely Upward,-3,3,up,↑↑↑,4.46,27,NS,*,10/31/2001,11/25/2022,31.50%,31.5,21,205,299.11,uS/cm
+Lone Chimney,36.255375,-96.825731,Pawnee,US,Whole Lake,Total Phosphorus (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,30,NS,*,10/31/2001,11/28/2022,NS Trend,0,21,NS Trend,NS Trend,mg/L
+Lone Chimney,36.255375,-96.825731,Pawnee,US,Whole Lake,Turbidity (NTU),No Significant Trend,0,0,N/A,NS Trend,N/A,30,**,***,10/31/2001,11/28/2022,NS Trend,0,21,NS Trend,NS Trend,NTU
+McAlester,35.018469,-95.804356,Pittsburg,US,Whole Lake,Chlorophyll (ug/L),Somewhat Likely Upward,-2,2,up,↑↑,0.2139,35,NS,***,6/10/2003,1/4/2023,51.20%,51.2,20,4,8.19,ug/L
+McAlester,35.018469,-95.804356,Pittsburg,US,Whole Lake,Total Nitrogen (mg/L),Highly Likely Upward,-3,3,up,↑↑↑,0.01045,41,NS,***,6/30/1998,11/30/2022,25.40%,25.4,24,0.75,1.01,mg/L
+McAlester,35.018469,-95.804356,Pittsburg,US,Whole Lake,Secchi (cm),No Significant Trend,0,0,N/A,NS Trend,N/A,26,NS,***,10/23/2000,11/30/2022,NS Trend,0,22,NS Trend,NS Trend,cm
+McAlester,35.018469,-95.804356,Pittsburg,US,Whole Lake,Conductivity (uS/cm),Highly Likely Upward,-3,3,up,↑↑↑,2.32,40,NS,***,10/25/2000,11/30/2022,40.60%,40.6,22,75,126.19,uS/cm
+McAlester,35.018469,-95.804356,Pittsburg,US,Whole Lake,Total Phosphorus (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,41,NS,***,6/30/1998,11/30/2022,NS Trend,0,24,NS Trend,NS Trend,mg/L
+McAlester,35.018469,-95.804356,Pittsburg,US,Whole Lake,Turbidity (NTU),No Significant Trend,0,0,N/A,NS Trend,N/A,25,NS,***,10/23/2000,11/30/2022,NS Trend,0,22,NS Trend,NS Trend,NTU
+McGee Creek,34.313364,-95.874431,Atoka,US,Whole Lake,Chlorophyll (ug/L),Somewhat Likely Upward,-2,2,up,↑↑,0.2613,27,NS,***,8/6/2002,3/6/2020,69.70%,69.7,18,2,6.6,ug/L
+McGee Creek,34.313364,-95.874431,Atoka,US,Whole Lake,Total Nitrogen (mg/L),Somewhat Likely Upward,-2,2,up,↑↑,0.009571,31,**,***,11/6/2001,2/4/2020,28.90%,28.9,18,0.43,0.6,mg/L
+McGee Creek,34.313364,-95.874431,Atoka,US,Whole Lake,Secchi (cm),Highly Likely Downward,3,-3,down,↓↓↓,-5.001,20,NS,***,10/20/2003,2/4/2020,-103.90%,-103.9,16,160,78.46,cm
+McGee Creek,34.313364,-95.874431,Atoka,US,Whole Lake,Conductivity (uS/cm),Highly Likely Upward,-3,3,up,↑↑↑,0.98,40,NS,*,2/23/1998,10/3/2023,39.80%,39.8,26,38,63.11,uS/cm
+McGee Creek,34.313364,-95.874431,Atoka,US,Whole Lake,Total Phosphorus (mg/L),Somewhat Likely Upward,-2,2,up,↑↑,0.0004607,26,NS,***,11/6/2001,2/4/2020,34.50%,34.5,18,0.016,0.02,mg/L
+McGee Creek,34.313364,-95.874431,Atoka,US,Whole Lake,Turbidity (NTU),Likely Upward,-1,1,up,↑,0.1287,29,***,***,11/6/2001,2/4/2020,29.90%,29.9,18,5.5,7.85,NTU
+McMurtry,36.164644,-97.180925,Noble,US,Whole Lake,Chlorophyll (ug/L),No Significant Trend,0,0,N/A,NS Trend,N/A,27,**,***,9/14/2004,7/2/2019,NS Trend,0,15,NS Trend,NS Trend,ug/L
+McMurtry,36.164644,-97.180925,Noble,US,Whole Lake,Total Nitrogen (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,38,NS,***,5/18/1998,7/2/2019,NS Trend,0,21,NS Trend,NS Trend,mg/L
+McMurtry,36.164644,-97.180925,Noble,US,Whole Lake,Secchi (cm),No Significant Trend,0,0,N/A,NS Trend,N/A,24,***,***,1/23/2002,7/2/2019,NS Trend,0,17,NS Trend,NS Trend,cm
+McMurtry,36.164644,-97.180925,Noble,US,Whole Lake,Conductivity (uS/cm),Highly Likely Upward,-3,3,up,↑↑↑,4.07,37,NS,***,5/18/1998,4/1/2019,21.50%,21.5,21,310,395.06,uS/cm
+McMurtry,36.164644,-97.180925,Noble,US,Whole Lake,Total Phosphorus (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,36,NS,***,5/18/1998,7/2/2019,NS Trend,0,21,NS Trend,NS Trend,mg/L
+McMurtry,36.164644,-97.180925,Noble,US,Whole Lake,Turbidity (NTU),No Significant Trend,0,0,N/A,NS Trend,N/A,25,***,***,10/24/2001,7/2/2019,NS Trend,0,18,NS Trend,NS Trend,NTU
+Murray,34.031111,-97.063889,Love,US,Whole Lake,Chlorophyll (ug/L),No Significant Trend,0,0,N/A,NS Trend,N/A,32,***,***,11/13/2000,8/15/2019,NS Trend,0,19,NS Trend,NS Trend,ug/L
+Murray,34.031111,-97.063889,Love,US,Whole Lake,Total Nitrogen (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,33,***,***,6/15/1998,8/5/2019,NS Trend,0,21,NS Trend,NS Trend,mg/L
+Murray,34.031111,-97.063889,Love,US,Whole Lake,Secchi (cm),No Significant Trend,0,0,N/A,NS Trend,N/A,31,***,***,11/13/2000,8/5/2019,NS Trend,0,19,NS Trend,NS Trend,cm
+Murray,34.031111,-97.063889,Love,US,Whole Lake,Conductivity (uS/cm),Highly Likely Upward,-3,3,up,↑↑↑,2.09,35,NS,NS,11/13/2000,8/20/2023,14.80%,14.8,23,275,322.61,uS/cm
+Murray,34.031111,-97.063889,Love,US,Whole Lake,Total Phosphorus (mg/L),Likely Upward,-1,1,up,↑,0.000291,28,*,NS,6/15/1998,8/5/2019,33.90%,33.9,21,0.012,0.02,mg/L
+Murray,34.031111,-97.063889,Love,US,Whole Lake,Turbidity (NTU),No Significant Trend,0,0,N/A,NS Trend,N/A,31,***,NS,11/13/2000,8/5/2019,NS Trend,0,19,NS Trend,NS Trend,NTU
+New Spiro,35.193536,-94.616222,LeFlore,US,Whole Lake,Chlorophyll (ug/L),Highly Likely Upward,-3,3,up,↑↑↑,1.906,22,NS,***,10/23/2000,7/23/2018,69.30%,69.3,18,15,48.85,ug/L
+New Spiro,35.193536,-94.616222,LeFlore,US,Whole Lake,Total Nitrogen (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,21,NS,***,6/8/1998,7/23/2018,NS Trend,0,20,NS Trend,NS Trend,mg/L
+New Spiro,35.193536,-94.616222,LeFlore,US,Whole Lake,Secchi (cm),No Significant Trend,0,0,N/A,NS Trend,N/A,20,***,***,10/23/2000,7/23/2018,NS Trend,0,18,NS Trend,NS Trend,cm
+New Spiro,35.193536,-94.616222,LeFlore,US,Whole Lake,Conductivity (uS/cm),No Significant Trend,0,0,N/A,NS Trend,N/A,25,NS,***,10/23/2000,10/2/2023,NS Trend,0,23,NS Trend,NS Trend,uS/cm
+New Spiro,35.193536,-94.616222,LeFlore,US,Whole Lake,Total Phosphorus (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,21,NS,***,6/8/1998,7/23/2018,NS Trend,0,20,NS Trend,NS Trend,mg/L
+New Spiro,35.193536,-94.616222,LeFlore,US,Whole Lake,Turbidity (NTU),No Significant Trend,0,0,N/A,NS Trend,N/A,20,NS,***,10/23/2000,7/23/2018,NS Trend,0,18,NS Trend,NS Trend,NTU
+Okemah,35.533583,-96.316953,Okfuskee,US,Whole Lake,Chlorophyll (ug/L),No Significant Trend,0,0,N/A,NS Trend,N/A,28,***,**,12/1/2004,11/30/2022,NS Trend,0,18,NS Trend,NS Trend,ug/L
+Okemah,35.533583,-96.316953,Okfuskee,US,Whole Lake,Total Nitrogen (mg/L),Highly Likely Upward,-3,3,up,↑↑↑,0.01461,31,NS,***,10/8/2001,11/30/2022,40.70%,40.7,21,0.45,0.76,mg/L
+Okemah,35.533583,-96.316953,Okfuskee,US,Whole Lake,Secchi (cm),No Significant Trend,0,0,N/A,NS Trend,N/A,24,***,***,1/8/2002,11/30/2022,NS Trend,0,21,NS Trend,NS Trend,cm
+Okemah,35.533583,-96.316953,Okfuskee,US,Whole Lake,Conductivity (uS/cm),No Significant Trend,0,0,N/A,NS Trend,N/A,27,NS,NS,10/8/2001,9/9/2019,NS Trend,0,18,NS Trend,NS Trend,uS/cm
+Okemah,35.533583,-96.316953,Okfuskee,US,Whole Lake,Total Phosphorus (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,28,***,**,10/8/2001,11/30/2022,NS Trend,0,21,NS Trend,NS Trend,mg/L
+Okemah,35.533583,-96.316953,Okfuskee,US,Whole Lake,Turbidity (NTU),No Significant Trend,0,0,N/A,NS Trend,N/A,31,***,***,10/8/2001,11/30/2022,NS Trend,0,21,NS Trend,NS Trend,NTU
+Okmulgee,35.62215,-96.062664,Okmulgee,US,Whole Lake,Chlorophyll (ug/L),No Significant Trend,0,0,N/A,NS Trend,N/A,25,**,***,11/22/2004,9/14/2021,NS Trend,0,17,NS Trend,NS Trend,ug/L
+Okmulgee,35.62215,-96.062664,Okmulgee,US,Whole Lake,Total Nitrogen (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,35,NS,***,5/6/1998,9/14/2021,NS Trend,0,23,NS Trend,NS Trend,mg/L
+Okmulgee,35.62215,-96.062664,Okmulgee,US,Whole Lake,Secchi (cm),No Significant Trend,0,0,N/A,NS Trend,N/A,22,***,**,10/8/2001,9/14/2021,NS Trend,0,20,NS Trend,NS Trend,cm
+Okmulgee,35.62215,-96.062664,Okmulgee,US,Whole Lake,Conductivity (uS/cm),No Significant Trend,0,0,N/A,NS Trend,N/A,38,NS,NS,5/6/1998,10/17/2023,NS Trend,0,25,NS Trend,NS Trend,uS/cm
+Okmulgee,35.62215,-96.062664,Okmulgee,US,Whole Lake,Total Phosphorus (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,34,NS,***,5/6/1998,9/14/2021,NS Trend,0,23,NS Trend,NS Trend,mg/L
+Okmulgee,35.62215,-96.062664,Okmulgee,US,Whole Lake,Turbidity (NTU),No Significant Trend,0,0,N/A,NS Trend,N/A,29,***,***,10/8/2001,9/14/2021,NS Trend,0,20,NS Trend,NS Trend,NTU
+Oologah,36.422569,-95.676092,Rogers,US,Whole Lake,Chlorophyll (ug/L),No Significant Trend,0,0,N/A,NS Trend,N/A,25,***,*,4/21/2003,7/29/2019,NS Trend,0,16,NS Trend,NS Trend,ug/L
+Oologah,36.422569,-95.676092,Rogers,US,Whole Lake,Total Nitrogen (mg/L),Highly Likely Upward,-3,3,up,↑↑↑,0.01963,30,***,***,11/9/1999,7/29/2019,46.30%,46.3,20,0.45,0.84,mg/L
+Oologah,36.422569,-95.676092,Rogers,US,Whole Lake,Secchi (cm),No Significant Trend,0,0,N/A,NS Trend,N/A,25,***,***,10/18/2004,7/29/2019,NS Trend,0,15,NS Trend,NS Trend,cm
+Oologah,36.422569,-95.676092,Rogers,US,Whole Lake,Conductivity (uS/cm),No Significant Trend,0,0,N/A,NS Trend,N/A,37,*,***,11/9/1999,11/7/2023,NS Trend,0,24,NS Trend,NS Trend,uS/cm
+Oologah,36.422569,-95.676092,Rogers,US,Whole Lake,Total Phosphorus (mg/L),Highly Likely Upward,-3,3,up,↑↑↑,0.001691,30,***,***,11/9/1999,7/29/2019,42.60%,42.6,20,0.045,0.08,mg/L
+Oologah,36.422569,-95.676092,Rogers,US,Whole Lake,Turbidity (NTU),No Significant Trend,0,0,N/A,NS Trend,N/A,19,***,***,10/18/2004,7/29/2019,NS Trend,0,15,NS Trend,NS Trend,NTU
+Overholser,35.487161,-97.668244,Oklahoma,US,Whole Lake,Chlorophyll (ug/L),No Significant Trend,0,0,N/A,NS Trend,N/A,27,NS,***,9/9/2003,7/1/2019,NS Trend,0,16,NS Trend,NS Trend,ug/L
+Overholser,35.487161,-97.668244,Oklahoma,US,Whole Lake,Total Nitrogen (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,32,NS,***,10/9/2001,7/1/2019,NS Trend,0,18,NS Trend,NS Trend,mg/L
+Overholser,35.487161,-97.668244,Oklahoma,US,Whole Lake,Secchi (cm),Somewhat Likely Upward,-2,2,up,↑↑,0.6778,30,NS,***,1/9/2002,7/1/2019,36.10%,36.1,17,21,32.85,cm
+Overholser,35.487161,-97.668244,Oklahoma,US,Whole Lake,Conductivity (uS/cm),No Significant Trend,0,0,N/A,NS Trend,N/A,37,NS,***,5/11/1998,43/1/19,NS Trend,0,#VALUE!,NS Trend,NS Trend,uS/cm
+Overholser,35.487161,-97.668244,Oklahoma,US,Whole Lake,Total Phosphorus (mg/L),Likely Downward,1,-1,down,↓,-0.003519,32,NS,***,10/9/2001,7/1/2019,-33.30%,-33.3,18,0.25,0.19,mg/L
+Overholser,35.487161,-97.668244,Oklahoma,US,Whole Lake,Turbidity (NTU),Highly Likely Downward,3,-3,down,↓↓↓,-2.016,31,*,***,10/9/2001,7/1/2019,-251.10%,-251.1,18,50,14.24,NTU
+Pauls Valley,34.769386,-97.204419,Garvin,US,Whole Lake,Chlorophyll (ug/L),Highly Likely Upward,-3,3,up,↑↑↑,0.4338,27,*,NS,11/6/2002,2/14/2020,68.20%,68.2,17,3.5,11,ug/L
+Pauls Valley,34.769386,-97.204419,Garvin,US,Whole Lake,Total Nitrogen (mg/L),Highly Likely Upward,-3,3,up,↑↑↑,0.01587,32,NS,***,6/15/1998,1/14/2020,43.20%,43.2,22,0.45,0.79,mg/L
+Pauls Valley,34.769386,-97.204419,Garvin,US,Whole Lake,Secchi (cm),No Significant Trend,0,0,N/A,NS Trend,N/A,32,**,***,11/15/2000,1/14/2020,NS Trend,0,19,NS Trend,NS Trend,cm
+Pauls Valley,34.769386,-97.204419,Garvin,US,Whole Lake,Conductivity (uS/cm),No Significant Trend,0,0,N/A,NS Trend,N/A,32,NS,NS,11/15/2000,8/14/2018,NS Trend,0,18,NS Trend,NS Trend,uS/cm
+Pauls Valley,34.769386,-97.204419,Garvin,US,Whole Lake,Total Phosphorus (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,39,NS,NS,6/15/1998,1/14/2020,NS Trend,0,22,NS Trend,NS Trend,mg/L
+Pauls Valley,34.769386,-97.204419,Garvin,US,Whole Lake,Turbidity (NTU),No Significant Trend,0,0,N/A,NS Trend,N/A,26,***,***,11/15/2000,1/14/2020,NS Trend,0,19,NS Trend,NS Trend,NTU
+Pawnee,36.357633,-96.806492,Pawnee,US,Whole Lake,Chlorophyll (ug/L),Insufficient Data,Insufficient Data,99,N/A,NEI,N/A,12,NS,***,NEI,NEI,NEI,,NEI,NEI,NEI,ug/L
+Pawnee,36.357633,-96.806492,Pawnee,US,Whole Lake,Total Nitrogen (mg/L),Insufficient Data,Insufficient Data,99,N/A,NEI,N/A,16,NS,NS,NEI,NEI,NEI,,NEI,NEI,NEI,mg/L
+Pawnee,36.357633,-96.806492,Pawnee,US,Whole Lake,Secchi (cm),Insufficient Data,Insufficient Data,99,N/A,NEI,N/A,9,NS,***,NEI,NEI,NEI,,NEI,NEI,NEI,cm
+Pawnee,36.357633,-96.806492,Pawnee,US,Whole Lake,Conductivity (uS/cm),Insufficient Data,Insufficient Data,99,N/A,NEI,N/A,16,NS,NS,NEI,NEI,NEI,,NEI,NEI,NEI,uS/cm
+Pawnee,36.357633,-96.806492,Pawnee,US,Whole Lake,Total Phosphorus (mg/L),Insufficient Data,Insufficient Data,99,N/A,NEI,N/A,16,NS,***,NEI,NEI,NEI,,NEI,NEI,NEI,mg/L
+Pawnee,36.357633,-96.806492,Pawnee,US,Whole Lake,Turbidity (NTU),Insufficient Data,Insufficient Data,99,N/A,NEI,N/A,16,*,***,NEI,NEI,NEI,,NEI,NEI,NEI,NTU
+Perry,36.252986,-97.337378,Noble,US,Whole Lake,Chlorophyll (ug/L),Highly Likely Upward,-3,3,up,↑↑↑,0.2139,27,NS,NS,4/24/2003,12/26/2022,48.30%,48.3,20,4.5,8.71,ug/L
+Perry,36.252986,-97.337378,Noble,US,Whole Lake,Total Nitrogen (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,31,NS,**,10/11/1999,11/21/2022,NS Trend,0,23,NS Trend,NS Trend,mg/L
+Perry,36.252986,-97.337378,Noble,US,Whole Lake,Secchi (cm),Likely Upward,-1,1,up,↑,1.154,22,***,NS,11/17/2004,12/23/2022,52.40%,52.4,18,19,39.9,cm
+Perry,36.252986,-97.337378,Noble,US,Whole Lake,Conductivity (uS/cm),Highly Likely Upward,-3,3,up,↑↑↑,9.04,28,NS,NS,10/11/1999,11/21/2022,47.10%,47.1,23,235,444.08,uS/cm
+Perry,36.252986,-97.337378,Noble,US,Whole Lake,Total Phosphorus (mg/L),Highly Likely Downward,3,-3,down,↓↓↓,-0.001473,31,NS,NS,10/11/1999,11/21/2022,-44.90%,-44.9,23,0.11,0.08,mg/L
+Perry,36.252986,-97.337378,Noble,US,Whole Lake,Turbidity (NTU),Highly Likely Downward,3,-3,down,↓↓↓,-2.068,26,*,**,11/17/2004,11/21/2022,-164.00%,-164,18,60,22.73,NTU
+Pine Creek,34.113231,-95.078511,McCurtain,US,Whole Lake,Chlorophyll (ug/L),Likely Upward,-1,1,up,↑,0.3758,31,***,***,8/7/2002,9/14/2021,43.10%,43.1,19,9.5,16.68,ug/L
+Pine Creek,34.113231,-95.078511,McCurtain,US,Whole Lake,Total Nitrogen (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,38,NS,NS,5/18/1998,9/14/2021,NS Trend,0,23,NS Trend,NS Trend,mg/L
+Pine Creek,34.113231,-95.078511,McCurtain,US,Whole Lake,Secchi (cm),Likely Downward,1,-1,down,↓,-0.9851,27,***,***,10/21/2003,9/14/2021,-29.20%,-29.2,18,78,60.35,cm
+Pine Creek,34.113231,-95.078511,McCurtain,US,Whole Lake,Conductivity (uS/cm),Highly Likely Upward,-3,3,up,↑↑↑,0.85,40,NS,*,5/18/1998,7/28/2021,43.20%,43.2,23,26,45.79,uS/cm
+Pine Creek,34.113231,-95.078511,McCurtain,US,Whole Lake,Total Phosphorus (mg/L),Highly Likely Upward,-3,3,up,↑↑↑,0.000545,38,NS,***,5/18/1998,9/14/2021,34.60%,34.6,23,0.024,0.04,mg/L
+Pine Creek,34.113231,-95.078511,McCurtain,US,Whole Lake,Turbidity (NTU),No Significant Trend,0,0,N/A,NS Trend,N/A,27,***,***,10/21/2003,9/14/2021,NS Trend,0,18,NS Trend,NS Trend,NTU
+Ponca,36.721492,-97.025436,Kay,US,Whole Lake,Chlorophyll (ug/L),Highly Likely Upward,-3,3,up,↑↑↑,0.79,39,NS,***,1/7/2003,1/4/2023,63.70%,63.7,20,9,24.8,ug/L
+Ponca,36.721492,-97.025436,Kay,US,Whole Lake,Total Nitrogen (mg/L),Highly Likely Upward,-3,3,up,↑↑↑,0.01105,42,NS,***,11/2/1999,11/29/2022,25.40%,25.4,23,0.75,1.01,mg/L
+Ponca,36.721492,-97.025436,Kay,US,Whole Lake,Secchi (cm),No Significant Trend,0,0,N/A,NS Trend,N/A,25,NS,***,11/22/2004,11/29/2022,NS Trend,0,18,NS Trend,NS Trend,cm
+Ponca,36.721492,-97.025436,Kay,US,Whole Lake,Conductivity (uS/cm),Somewhat Likely Upward,-2,2,up,↑↑,2.04,37,NS,***,5/22/1998,10/18/2022,14.20%,14.2,24,300,349.83,uS/cm
+Ponca,36.721492,-97.025436,Kay,US,Whole Lake,Total Phosphorus (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,37,NS,***,11/2/1999,11/29/2022,NS Trend,0,23,NS Trend,NS Trend,mg/L
+Ponca,36.721492,-97.025436,Kay,US,Whole Lake,Turbidity (NTU),Somewhat Likely Downward,2,-2,down,↓↓,-0.1597,30,***,***,11/22/2004,12/31/2022,-35.70%,-35.7,18,11,8.11,NTU
+RC Longmire,34.745889,-97.056636,Garvin,US,Whole Lake,Chlorophyll (ug/L),Highly Likely Upward,-3,3,up,↑↑↑,0.5445,27,NS,***,11/6/2002,9/15/2019,47.90%,47.9,17,10,19.18,ug/L
+RC Longmire,34.745889,-97.056636,Garvin,US,Whole Lake,Total Nitrogen (mg/L),Highly Likely Upward,-3,3,up,↑↑↑,0.01514,32,**,***,11/15/2000,8/6/2019,27.40%,27.4,19,0.75,1.03,mg/L
+RC Longmire,34.745889,-97.056636,Garvin,US,Whole Lake,Secchi (cm),No Significant Trend,0,0,N/A,NS Trend,N/A,21,***,NS,11/15/2000,8/6/2019,NS Trend,0,19,NS Trend,NS Trend,cm
+RC Longmire,34.745889,-97.056636,Garvin,US,Whole Lake,Conductivity (uS/cm),Highly Likely Downward,3,-3,down,↓↓↓,-2.12,23,NS,***,11/16/2002,8/6/2019,-13.60%,-13.6,17,295,259.61,uS/cm
+RC Longmire,34.745889,-97.056636,Garvin,US,Whole Lake,Total Phosphorus (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,32,NS,NS,11/15/2000,8/6/2019,NS Trend,0,19,NS Trend,NS Trend,mg/L
+RC Longmire,34.745889,-97.056636,Garvin,US,Whole Lake,Turbidity (NTU),No Significant Trend,0,0,N/A,NS Trend,N/A,24,NS,*,11/15/2000,8/6/2019,NS Trend,0,19,NS Trend,NS Trend,NTU
+Rocky,35.167161,-99.074258,Washita,US,Whole Lake,Chlorophyll (ug/L),Somewhat Likely Upward,-2,2,up,↑↑,2.79,18,NS,***,11/13/2003,10/7/2017,51.90%,51.9,14,36,74.81,ug/L
+Rocky,35.167161,-99.074258,Washita,US,Whole Lake,Total Nitrogen (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,21,NS,***,6/22/1998,9/12/2017,NS Trend,0,19,NS Trend,NS Trend,mg/L
+Rocky,35.167161,-99.074258,Washita,US,Whole Lake,Secchi (cm),No Significant Trend,0,0,N/A,NS Trend,N/A,15,***,***,3/6/2001,9/12/2017,NS Trend,0,17,NS Trend,NS Trend,cm
+Rocky,35.167161,-99.074258,Washita,US,Whole Lake,Conductivity (uS/cm),Likely Upward,-1,1,up,↑,8.78,21,NS,*,3/6/2001,10/12/2017,22.90%,22.9,17,490,635.85,uS/cm
+Rocky,35.167161,-99.074258,Washita,US,Whole Lake,Total Phosphorus (mg/L),Highly Likely Upward,-3,3,up,↑↑↑,0.0051,21,NS,**,6/22/1998,10/17/2017,48.40%,48.4,19,0.105,0.2,mg/L
+Rocky,35.167161,-99.074258,Washita,US,Whole Lake,Turbidity (NTU),No Significant Trend,0,0,N/A,NS Trend,N/A,19,*,***,3/6/2001,9/12/2017,NS Trend,0,17,NS Trend,NS Trend,NTU
+Robert S Kerr,35.345342,-94.779706,Sequoyah,US,Whole Lake,Chlorophyll (ug/L),No Significant Trend,0,0,N/A,NS Trend,N/A,26,NS,***,7/16/2002,9/13/2021,NS Trend,0,19,NS Trend,NS Trend,ug/L
+Robert S Kerr,35.345342,-94.779706,Sequoyah,US,Whole Lake,Total Nitrogen (mg/L),Likely Upward,-1,1,up,↑,0.01037,31,***,***,10/14/1999,9/13/2021,22.10%,22.1,22,0.8,1.03,mg/L
+Robert S Kerr,35.345342,-94.779706,Sequoyah,US,Whole Lake,Secchi (cm),No Significant Trend,0,0,N/A,NS Trend,N/A,18,NS,*,11/15/2004,9/13/2021,NS Trend,0,17,NS Trend,NS Trend,cm
+Robert S Kerr,35.345342,-94.779706,Sequoyah,US,Whole Lake,Conductivity (uS/cm),Likely Downward,1,-1,down,↓,-12.93,26,***,***,10/4/1999,2/2/2021,-58.20%,-58.2,21,750,473.97,uS/cm
+Robert S Kerr,35.345342,-94.779706,Sequoyah,US,Whole Lake,Total Phosphorus (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,31,***,***,10/4/1999,9/13/2021,NS Trend,0,22,NS Trend,NS Trend,mg/L
+Robert S Kerr,35.345342,-94.779706,Sequoyah,US,Whole Lake,Turbidity (NTU),No Significant Trend,0,0,N/A,NS Trend,N/A,19,NS,NS,11/15/2004,9/13/2021,NS Trend,0,17,NS Trend,NS Trend,NTU
+Sahoma,36.029922,-96.152269,Creek,US,Whole Lake,Chlorophyll (ug/L),Highly Likely Upward,-3,3,up,↑↑↑,0.7891,22,***,***,9/2/2003,11/13/2022,93.80%,93.8,19,1,16.16,ug/L
+Sahoma,36.029922,-96.152269,Creek,US,Whole Lake,Total Nitrogen (mg/L),Somewhat Likely Upward,-2,2,up,↑↑,0.01391,26,NS,***,10/1/2001,11/17/2022,29.60%,29.6,21,0.7,0.99,mg/L
+Sahoma,36.029922,-96.152269,Creek,US,Whole Lake,Secchi (cm),No Significant Trend,0,0,N/A,NS Trend,N/A,19,NS,***,9/2/2003,10/10/2022,NS Trend,0,19,NS Trend,NS Trend,cm
+Sahoma,36.029922,-96.152269,Creek,US,Whole Lake,Conductivity (uS/cm),Highly Likely Upward,-3,3,up,↑↑↑,3.54,21,NS,***,10/2/2001,10/10/2022,35.50%,35.5,21,135,209.4,uS/cm
+Sahoma,36.029922,-96.152269,Creek,US,Whole Lake,Total Phosphorus (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,26,NS,NS,10/1/2001,10/10/2022,NS Trend,0,21,NS Trend,NS Trend,mg/L
+Sahoma,36.029922,-96.152269,Creek,US,Whole Lake,Turbidity (NTU),Likely Downward,1,-1,down,↓,-0.7,19,NS,***,9/2/2003,10/10/2022,-98.30%,-98.3,19,27,13.62,NTU
+Sardis,34.632086,-95.350847,Pushmataha,US,Whole Lake,Chlorophyll (ug/L),No Significant Trend,0,0,N/A,NS Trend,N/A,34,NS,NS,11/18/2002,11/7/2022,NS Trend,0,20,NS Trend,NS Trend,ug/L
+Sardis,34.632086,-95.350847,Pushmataha,US,Whole Lake,Total Nitrogen (mg/L),Highly Likely Upward,-3,3,up,↑↑↑,0.009261,37,NS,***,11/8/1999,11/7/2022,37.80%,37.8,23,0.35,0.56,mg/L
+Sardis,34.632086,-95.350847,Pushmataha,US,Whole Lake,Secchi (cm),Highly Likely Downward,3,-3,down,↓↓↓,-2.219,27,NS,***,10/11/2004,11/7/2022,-115.10%,-115.1,18,75,34.87,cm
+Sardis,34.632086,-95.350847,Pushmataha,US,Whole Lake,Conductivity (uS/cm),Highly Likely Upward,-3,3,up,↑↑↑,0.54,33,NS,NS,11/7/1999,12/19/2022,22.70%,22.7,23,43,55.59,uS/cm
+Sardis,34.632086,-95.350847,Pushmataha,US,Whole Lake,Total Phosphorus (mg/L),Highly Likely Upward,-3,3,up,↑↑↑,0.001086,37,*,***,11/8/1999,11/7/2022,53.20%,53.2,23,0.022,0.05,mg/L
+Sardis,34.632086,-95.350847,Pushmataha,US,Whole Lake,Turbidity (NTU),Highly Likely Upward,-3,3,up,↑↑↑,0.8228,27,***,***,10/11/2004,11/7/2022,50.60%,50.6,18,14.5,29.38,NTU
+Shawnee Twin #1,35.347314,-97.064994,Pottawatomie,US,Whole Lake,Chlorophyll (ug/L),Highly Likely Upward,-3,3,up,↑↑↑,0.254,31,NS,NS,11/25/2003,12/13/2022,80.10%,80.1,19,1.2,6.04,ug/L
+Shawnee Twin #1,35.347314,-97.064994,Pottawatomie,US,Whole Lake,Total Nitrogen (mg/L),Somewhat Likely Upward,-2,2,up,↑↑,0.005543,39,NS,***,5/13/1998,11/9/2022,23.20%,23.2,25,0.45,0.59,mg/L
+Shawnee Twin #1,35.347314,-97.064994,Pottawatomie,US,Whole Lake,Secchi (cm),No Significant Trend,0,0,N/A,NS Trend,N/A,22,NS,***,11/25/2003,11/9/2022,NS Trend,0,19,NS Trend,NS Trend,cm
+Shawnee Twin #1,35.347314,-97.064994,Pottawatomie,US,Whole Lake,Conductivity (uS/cm),Highly Likely Upward,-3,3,up,↑↑↑,3.25,34,NS,NS,5/13/1998,12/23/2022,29.70%,29.7,25,190,270.1,uS/cm
+Shawnee Twin #1,35.347314,-97.064994,Pottawatomie,US,Whole Lake,Total Phosphorus (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,32,NS,*,5/13/1998,11/9/2022,NS Trend,0,25,NS Trend,NS Trend,mg/L
+Shawnee Twin #1,35.347314,-97.064994,Pottawatomie,US,Whole Lake,Turbidity (NTU),Highly Likely Downward,3,-3,down,↓↓↓,-0.3627,30,NS,***,11/25/2003,11/9/2022,-122.40%,-122.4,19,12.5,5.62,NTU
+Shawnee Twin #2,35.356297,-97.068978,Pottawatomie,US,Whole Lake,Chlorophyll (ug/L),Highly Likely Upward,-3,3,up,↑↑↑,0.4295,33,NS,***,11/25/2003,12/13/2022,73.20%,73.2,19,3,11.19,ug/L
+Shawnee Twin #2,35.356297,-97.068978,Pottawatomie,US,Whole Lake,Total Nitrogen (mg/L),Highly Likely Upward,-3,3,up,↑↑↑,0.01369,41,NS,**,5/13/1998,11/9/2022,40.20%,40.2,25,0.5,0.84,mg/L
+Shawnee Twin #2,35.356297,-97.068978,Pottawatomie,US,Whole Lake,Secchi (cm),Somewhat Likely Upward,-2,2,up,↑↑,1.38,27,***,***,2/25/2004,11/9/2022,31.20%,31.2,19,57,82.83,cm
+Shawnee Twin #2,35.356297,-97.068978,Pottawatomie,US,Whole Lake,Conductivity (uS/cm),Highly Likely Upward,-3,3,up,↑↑↑,2.89,39,NS,NS,5/13/1998,12/23/2022,28.30%,28.3,25,180,251.18,uS/cm
+Shawnee Twin #2,35.356297,-97.068978,Pottawatomie,US,Whole Lake,Total Phosphorus (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,38,NS,***,5/13/1998,11/9/2022,NS Trend,0,25,NS Trend,NS Trend,mg/L
+Shawnee Twin #2,35.356297,-97.068978,Pottawatomie,US,Whole Lake,Turbidity (NTU),Highly Likely Downward,3,-3,down,↓↓↓,-0.6826,29,***,***,11/25/2003,11/9/2022,-631.30%,-631.3,19,15,2.05,NTU
+Shell,36.181003,-96.181058,Osage,US,Whole Lake,Chlorophyll (ug/L),Highly Likely Upward,-3,3,up,↑↑↑,0.3609,19,**,***,9/2/2003,11/3/2018,37.80%,37.8,15,9,14.48,ug/L
+Shell,36.181003,-96.181058,Osage,US,Whole Lake,Total Nitrogen (mg/L),Somewhat Likely Upward,-2,2,up,↑↑,0.01077,22,**,**,10/1/2001,8/27/2018,19.50%,19.5,17,0.75,0.93,mg/L
+Shell,36.181003,-96.181058,Osage,US,Whole Lake,Secchi (cm),No Significant Trend,0,0,N/A,NS Trend,N/A,16,NS,***,9/2/2003,8/27/2028,NS Trend,0,25,NS Trend,NS Trend,cm
+Shell,36.181003,-96.181058,Osage,US,Whole Lake,Conductivity (uS/cm),Highly Likely Upward,-3,3,up,↑↑↑,5.31,22,NS,*,10/2/2001,9/26/2018,42.90%,42.9,17,120,210.26,uS/cm
+Shell,36.181003,-96.181058,Osage,US,Whole Lake,Total Phosphorus (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,22,NS,***,10/1/2001,8/27/2018,NS Trend,0,17,NS Trend,NS Trend,mg/L
+Shell,36.181003,-96.181058,Osage,US,Whole Lake,Turbidity (NTU),No Significant Trend,0,0,N/A,NS Trend,N/A,16,**,***,9/2/2003,8/27/2018,NS Trend,0,15,NS Trend,NS Trend,NTU
+Skiatook,36.350275,-96.093058,Osage,US,Whole Lake,Chlorophyll (ug/L),Highly Likely Upward,-3,3,up,↑↑↑,0.125,30,NS,***,6/9/2003,11/23/2022,35.10%,35.1,19,4.5,6.93,ug/L
+Skiatook,36.350275,-96.093058,Osage,US,Whole Lake,Total Nitrogen (mg/L),Likely Upward,-1,1,up,↑,0.003521,37,***,***,10/18/1999,10/19/2022,13.90%,13.9,23,0.5,0.58,mg/L
+Skiatook,36.350275,-96.093058,Osage,US,Whole Lake,Secchi (cm),No Significant Trend,0,0,N/A,NS Trend,N/A,23,***,***,9/20/2004,10/19/2022,NS Trend,0,18,NS Trend,NS Trend,cm
+Skiatook,36.350275,-96.093058,Osage,US,Whole Lake,Conductivity (uS/cm),Likely Upward,-1,1,up,↑,1.62,37,**,***,10/19/1999,10/19/2022,14.00%,14,23,230,267.31,uS/cm
+Skiatook,36.350275,-96.093058,Osage,US,Whole Lake,Total Phosphorus (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,35,***,***,10/18/1999,10/19/2022,NS Trend,0,23,NS Trend,NS Trend,mg/L
+Skiatook,36.350275,-96.093058,Osage,US,Whole Lake,Turbidity (NTU),No Significant Trend,0,0,N/A,NS Trend,N/A,24,***,***,9/20/2004,10/19/2022,NS Trend,0,18,NS Trend,NS Trend,NTU
+Sooner,36.457703,-96.996131,Pawnee,US,Whole Lake,Chlorophyll (ug/L),No Significant Trend,0,0,N/A,NS Trend,N/A,27,***,***,4/24/2003,9/21/2020,NS Trend,0,17,NS Trend,NS Trend,ug/L
+Sooner,36.457703,-96.996131,Pawnee,US,Whole Lake,Total Nitrogen (mg/L),Highly Likely Upward,-3,3,up,↑↑↑,0.01016,31,*,*,10/11/1999,9/21/2020,31.20%,31.2,21,0.47,0.68,mg/L
+Sooner,36.457703,-96.996131,Pawnee,US,Whole Lake,Secchi (cm),No Significant Trend,0,0,N/A,NS Trend,N/A,19,***,***,11/17/2004,9/21/2020,NS Trend,0,16,NS Trend,NS Trend,cm
+Sooner,36.457703,-96.996131,Pawnee,US,Whole Lake,Conductivity (uS/cm),Highly Likely Upward,-3,3,up,↑↑↑,22.91,31,NS,NS,10/11/1999,10/28/2020,21.10%,21.1,21,1800,2282.55,uS/cm
+Sooner,36.457703,-96.996131,Pawnee,US,Whole Lake,Total Phosphorus (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,31,NS,***,10/11/1999,9/21/2020,NS Trend,0,21,NS Trend,NS Trend,mg/L
+Sooner,36.457703,-96.996131,Pawnee,US,Whole Lake,Turbidity (NTU),Highly Likely Downward,3,-3,down,↓↓↓,-0.1528,23,***,***,11/17/2004,9/21/2020,-78.70%,-78.7,16,5.5,3.08,NTU
+Spavinaw,36.382919,-95.046614,Mayes,US,Whole Lake,Chlorophyll (ug/L),Somewhat Likely Upward,-2,2,up,↑↑,0.158,30,,,6/9/2003,11/23/2022,43.50%,43.5,19,4,7.08,ug/L
+Spavinaw,36.382919,-95.046614,Mayes,US,Whole Lake,Total Nitrogen (mg/L),Likely Upward,-1,1,up,↑,0.01517,35,,,10/17/2002,8/29/2019,29.90%,29.9,17,0.6,0.86,mg/L
+Spavinaw,36.382919,-95.046614,Mayes,US,Whole Lake,Secchi (cm),Somewhat Likely Downward,2,-2,down,↓↓,-1.863,26,,,10/27/2004,8/25/2019,-30.60%,-30.6,15,118,90.36,cm
+Spavinaw,36.382919,-95.046614,Mayes,US,Whole Lake,Conductivity (uS/cm),No Significant Trend,0,0,N/A,NS Trend,N/A,36,NS,***,10/17/2002,7/30/2019,NS Trend,0,17,NS Trend,NS Trend,uS/cm
+Spavinaw,36.382919,-95.046614,Mayes,US,Whole Lake,Total Phosphorus (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,35,,,10/17/2002,7/30/2019,NS Trend,0,17,NS Trend,NS Trend,mg/L
+Spavinaw,36.382919,-95.046614,Mayes,US,Whole Lake,Turbidity (NTU),No Significant Trend,0,0,N/A,NS Trend,N/A,30,,,10/27/2004,7/30/2019,NS Trend,0,15,NS Trend,NS Trend,NTU
+Stanley Draper,35.327661,-97.351253,Cleveland,US,Whole Lake,Chlorophyll (ug/L),Highly Likely Upward,-3,3,up,↑↑↑,0.07443,29,NS,***,9/9/2003,10/23/2021,36.00%,36,18,2.4,3.75,ug/L
+Stanley Draper,35.327661,-97.351253,Cleveland,US,Whole Lake,Total Nitrogen (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,34,NS,NS,10/11/2001,9/21/2021,NS Trend,0,20,NS Trend,NS Trend,mg/L
+Stanley Draper,35.327661,-97.351253,Cleveland,US,Whole Lake,Secchi (cm),No Significant Trend,0,0,N/A,NS Trend,N/A,25,NS,***,9/9/2003,9/21/2021,NS Trend,0,18,NS Trend,NS Trend,cm
+Stanley Draper,35.327661,-97.351253,Cleveland,US,Whole Lake,Conductivity (uS/cm),Highly Likely Upward,-3,3,up,↑↑↑,0.84,40,NS,***,6/9/1997,10/17/2023,18.10%,18.1,26,100,122.06,uS/cm
+Stanley Draper,35.327661,-97.351253,Cleveland,US,Whole Lake,Total Phosphorus (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,34,NS,*,10/11/2001,9/21/2021,NS Trend,0,20,NS Trend,NS Trend,mg/L
+Stanley Draper,35.327661,-97.351253,Cleveland,US,Whole Lake,Turbidity (NTU),Somewhat Likely Downward,2,-2,down,↓↓,-0.7082,22,NS,***,9/9/2003,9/21/2021,-155.50%,-155.5,18,21,8.22,NTU
+Stroud,35.79595,-96.603275,Creek,US,Whole Lake,Chlorophyll (ug/L),Likely Upward,-1,1,up,↑,0.209,23,NS,NS,9/24/2003,7/30/2019,52.50%,52.5,16,3,6.31,ug/L
+Stroud,35.79595,-96.603275,Creek,US,Whole Lake,Total Nitrogen (mg/L),Highly Likely Upward,-3,3,up,↑↑↑,0.0156,28,***,**,10/17/2001,7/22/2019,43.50%,43.5,18,0.36,0.64,mg/L
+Stroud,35.79595,-96.603275,Creek,US,Whole Lake,Secchi (cm),Highly Likely Downward,3,-3,down,↓↓↓,-2.65,22,*,***,9/24/2003,7/22/2019,-54.50%,-54.5,16,119,77.04,cm
+Stroud,35.79595,-96.603275,Creek,US,Whole Lake,Conductivity (uS/cm),Highly Likely Upward,-3,3,up,↑↑↑,3.63,26,NS,NS,10/17/2001,8/23/2019,28.80%,28.8,18,160,224.83,uS/cm
+Stroud,35.79595,-96.603275,Creek,US,Whole Lake,Total Phosphorus (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,28,NS,***,10/17/2001,7/22/2019,NS Trend,0,18,NS Trend,NS Trend,mg/L
+Stroud,35.79595,-96.603275,Creek,US,Whole Lake,Turbidity (NTU),Highly Likely Upward,-3,3,up,↑↑↑,0.5337,22,NS,***,9/24/2003,7/22/2019,73.80%,73.8,16,3,11.45,NTU
+Talawanda #1,34.977739,-95.793492,Pittsburg,US,Whole Lake,Chlorophyll (ug/L),No Significant Trend,0,0,N/A,NS Trend,N/A,20,NS,***,1/8/2003,8/11/2021,NS Trend,0,19,NS Trend,NS Trend,ug/L
+Talawanda #1,34.977739,-95.793492,Pittsburg,US,Whole Lake,Total Nitrogen (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,24,*,NS,5/19/1998,8/11/2021,NS Trend,0,23,NS Trend,NS Trend,mg/L
+Talawanda #1,34.977739,-95.793492,Pittsburg,US,Whole Lake,Secchi (cm),Likely Downward,1,-1,down,↓,-3.233,17,NS,*,10/23/2000,9/17/2021,-47.50%,-47.5,21,210,142.38,cm
+Talawanda #1,34.977739,-95.793492,Pittsburg,US,Whole Lake,Conductivity (uS/cm),Somewhat Likely Upward,-2,2,up,↑↑,1.07,24,NS,**,10/25/2000,8/11/2021,24.00%,24,21,70,92.16,uS/cm
+Talawanda #1,34.977739,-95.793492,Pittsburg,US,Whole Lake,Total Phosphorus (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,24,**,NS,5/19/1998,8/11/2021,NS Trend,0,23,NS Trend,NS Trend,mg/L
+Talawanda #1,34.977739,-95.793492,Pittsburg,US,Whole Lake,Turbidity (NTU),No Significant Trend,0,0,N/A,NS Trend,N/A,16,NS,***,10/23/2000,8/11/2021,NS Trend,0,21,NS Trend,NS Trend,NTU
+Talawanda #2,34.990225,-95.793439,Pittsburg,US,Whole Lake,Chlorophyll (ug/L),No Significant Trend,0,0,N/A,NS Trend,N/A,22,NS,*,1/8/2003,8/11/2021,NS Trend,0,19,NS Trend,NS Trend,ug/L
+Talawanda #2,34.990225,-95.793439,Pittsburg,US,Whole Lake,Total Nitrogen (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,26,NS,NS,5/19/1998,8/11/2021,NS Trend,0,23,NS Trend,NS Trend,mg/L
+Talawanda #2,34.990225,-95.793439,Pittsburg,US,Whole Lake,Secchi (cm),No Significant Trend,0,0,N/A,NS Trend,N/A,21,NS,***,10/23/2000,8/11/2021,NS Trend,0,21,NS Trend,NS Trend,cm
+Talawanda #2,34.990225,-95.793439,Pittsburg,US,Whole Lake,Conductivity (uS/cm),Highly Likely Upward,-3,3,up,↑↑↑,1.75,28,NS,*,10/25/2000,3/16/2021,32.20%,32.2,20,75,110.62,uS/cm
+Talawanda #2,34.990225,-95.793439,Pittsburg,US,Whole Lake,Total Phosphorus (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,24,NS,***,5/19/1998,8/11/2021,NS Trend,0,23,NS Trend,NS Trend,mg/L
+Talawanda #2,34.990225,-95.793439,Pittsburg,US,Whole Lake,Turbidity (NTU),No Significant Trend,0,0,N/A,NS Trend,N/A,21,NS,***,10/23/2000,8/11/2021,NS Trend,0,21,NS Trend,NS Trend,NTU
+Tecumseh,35.295764,-96.954878,Pottawatomie,US,Whole Lake,Chlorophyll (ug/L),No Significant Trend,0,0,N/A,NS Trend,N/A,15,NS,***,12/3/2003,7/25/2018,NS Trend,0,15,NS Trend,NS Trend,ug/L
+Tecumseh,35.295764,-96.954878,Pottawatomie,US,Whole Lake,Total Nitrogen (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,24,NS,***,5/13/1998,7/25/2018,NS Trend,0,20,NS Trend,NS Trend,mg/L
+Tecumseh,35.295764,-96.954878,Pottawatomie,US,Whole Lake,Secchi (cm),Insufficient Data,Insufficient Data,99,N/A,NEI,N/A,12,NS,***,NEI,NEI,NEI,,NEI,NEI,NEI,cm
+Tecumseh,35.295764,-96.954878,Pottawatomie,US,Whole Lake,Conductivity (uS/cm),No Significant Trend,0,0,N/A,NS Trend,N/A,25,NS,***,5/13/1998,4/25/2018,NS Trend,0,20,NS Trend,NS Trend,uS/cm
+Tecumseh,35.295764,-96.954878,Pottawatomie,US,Whole Lake,Total Phosphorus (mg/L),Highly Likely Downward,3,-3,down,↓↓↓,-0.04446,23,NS,*,5/13/1998,8/30/2018,119.10%,119.1,20,0.145,-0.76,mg/L
+Tecumseh,35.295764,-96.954878,Pottawatomie,US,Whole Lake,Turbidity (NTU),Insufficient Data,Insufficient Data,99,N/A,NEI,N/A,12,NS,***,NEI,NEI,NEI,,NEI,NEI,NEI,NTU
+Tenkiller Ferry,35.600017,-95.044628,Sequoyah,US,Whole Lake,Chlorophyll (ug/L),Likely Upward,-1,1,up,↑,0.1789,60,**,***,10/6/1999,9/27/2022,32.60%,32.6,23,8.5,12.61,ug/L
+Tenkiller Ferry,35.600017,-95.044628,Sequoyah,US,Whole Lake,Total Nitrogen (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,39,***,***,10/6/1999,9/27/2022,NS Trend,0,23,NS Trend,NS Trend,mg/L
+Tenkiller Ferry,35.600017,-95.044628,Sequoyah,US,Whole Lake,Secchi (cm),No Significant Trend,0,0,N/A,NS Trend,N/A,35,***,***,10/6/1999,9/27/2022,NS Trend,0,23,NS Trend,NS Trend,cm
+Tenkiller Ferry,35.600017,-95.044628,Sequoyah,US,Whole Lake,Conductivity (uS/cm),Somewhat Likely Upward,-2,2,up,↑↑,1.05,39,NS,***,10/6/1999,9/27/2022,12.50%,12.5,23,170,194.21,uS/cm
+Tenkiller Ferry,35.600017,-95.044628,Sequoyah,US,Whole Lake,Total Phosphorus (mg/L),Highly Likely Downward,3,-3,down,↓↓↓,-0.00106,36,***,NS,10/6/1999,11/7/2022,-96.00%,-96,23,0.05,0.03,mg/L
+Tenkiller Ferry,35.600017,-95.044628,Sequoyah,US,Whole Lake,Turbidity (NTU),No Significant Trend,0,0,N/A,NS Trend,N/A,39,**,***,10/6/1999,9/27/2022,NS Trend,0,23,NS Trend,NS Trend,NTU
+Texoma,33.829969,-96.576756,Bryan,US,Whole Lake,Chlorophyll (ug/L),Highly Likely Upward,-3,3,up,↑↑↑,0.5806,35,***,***,2/10/2003,10/23/2021,47.50%,47.5,19,12,22.86,ug/L
+Texoma,33.829969,-96.576756,Bryan,US,Whole Lake,Total Nitrogen (mg/L),Likely Upward,-1,1,up,↑,0.006949,33,***,NS,10/28/2002,10/24/2021,15.90%,15.9,19,0.7,0.83,mg/L
+Texoma,33.829969,-96.576756,Bryan,US,Whole Lake,Secchi (cm),No Significant Trend,0,0,N/A,NS Trend,N/A,29,***,***,11/29/2004,9/20/2021,NS Trend,0,17,NS Trend,NS Trend,cm
+Texoma,33.829969,-96.576756,Bryan,US,Whole Lake,Conductivity (uS/cm),Insufficient Data,Insufficient Data,99,N/A,NEI,N/A,16,***,NS,NEI,NEI,NEI,,NEI,NEI,NEI,uS/cm
+Texoma,33.829969,-96.576756,Bryan,US,Whole Lake,Total Phosphorus (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,33,***,*,10/28/2002,9/20/2021,NS Trend,0,19,NS Trend,NS Trend,mg/L
+Texoma,33.829969,-96.576756,Bryan,US,Whole Lake,Turbidity (NTU),No Significant Trend,0,0,N/A,NS Trend,N/A,24,***,***,11/29/2004,9/20/2021,NS Trend,0,17,NS Trend,NS Trend,NTU
+Thunderbird,35.223333,-97.220833,Cleveland,US,Whole Lake,Chlorophyll (ug/L),Highly Likely Upward,-3,3,up,↑↑↑,0.649,279,,,4/27/2000,10/26/2022,53.90%,53.9,23,12.5,27.11,ug/L
+Thunderbird,35.223333,-97.220833,Cleveland,US,Whole Lake,Total Nitrogen (mg/L),Highly Likely Upward,-3,3,up,↑↑↑,0.01044,233,,,6/24/1998,10/26/2022,24.10%,24.1,24,0.8,1.05,mg/L
+Thunderbird,35.223333,-97.220833,Cleveland,US,Whole Lake,Secchi (cm),Highly Likely Downward,3,-3,down,↓↓↓,-0.684,285,,,4/27/2000,10/26/2022,-34.50%,-34.5,23,60,44.6,cm
+Thunderbird,35.223333,-97.220833,Cleveland,US,Whole Lake,Conductivity (uS/cm),Highly Likely Upward,-3,3,up,↑↑↑,3.03,303,***,***,4/27/2000,11/9/2022,16.00%,16,23,360,428.33,uS/cm
+Thunderbird,35.223333,-97.220833,Cleveland,US,Whole Lake,Total Phosphorus (mg/L),Highly Likely Upward,-3,3,up,↑↑↑,0.001352,230,,,6/24/1998,10/26/2022,45.20%,45.2,24,0.04,0.07,mg/L
+Thunderbird,35.223333,-97.220833,Cleveland,US,Whole Lake,Turbidity (NTU),Highly Likely Upward,-3,3,up,↑↑↑,0.2403,283,,,4/27/2000,10/26/2022,23.10%,23.1,23,18,23.41,NTU
+Tom Steed,34.749953,-98.968383,Kiowa,US,Whole Lake,Chlorophyll (ug/L),Highly Likely Upward,-3,3,up,↑↑↑,0.4285,29,NS,***,12/31/2002,10/3/2020,52.10%,52.1,18,7,14.61,ug/L
+Tom Steed,34.749953,-98.968383,Kiowa,US,Whole Lake,Total Nitrogen (mg/L),Highly Likely Upward,-3,3,up,↑↑↑,0.01829,34,NS,***,10/13/1999,9/1/2020,43.30%,43.3,21,0.5,0.88,mg/L
+Tom Steed,34.749953,-98.968383,Kiowa,US,Whole Lake,Secchi (cm),No Significant Trend,0,0,N/A,NS Trend,N/A,23,NS,***,9/8/2004,9/1/2020,NS Trend,0,16,NS Trend,NS Trend,cm
+Tom Steed,34.749953,-98.968383,Kiowa,US,Whole Lake,Conductivity (uS/cm),Highly Likely Upward,-3,3,up,↑↑↑,18.62,38,NS,***,10/12/1999,10/16/2023,38.30%,38.3,24,720,1167.39,uS/cm
+Tom Steed,34.749953,-98.968383,Kiowa,US,Whole Lake,Total Phosphorus (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,34,NS,***,10/13/1999,9/1/2020,NS Trend,0,21,NS Trend,NS Trend,mg/L
+Tom Steed,34.749953,-98.968383,Kiowa,US,Whole Lake,Turbidity (NTU),Highly Likely Downward,3,-3,down,↓↓↓,-1.221,27,NS,***,9/8/2004,9/30/2020,-119.80%,-119.8,16,36,16.38,NTU
+Walters,34.376239,-98.334631,Cotton,US,Whole Lake,Chlorophyll (ug/L),Insufficient Data,Insufficient Data,99,N/A,NEI,N/A,15,NEI,NEI,NEI,NEI,NEI,,NEI,NEI,NEI,ug/L
+Walters,34.376239,-98.334631,Cotton,US,Whole Lake,Total Nitrogen (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,20,,,6/15/1998,9/11/2017,NS Trend,0,19,NS Trend,NS Trend,ug/L
+Walters,34.376239,-98.334631,Cotton,US,Whole Lake,Secchi (cm),Insufficient Data,Insufficient Data,99,N/A,NEI,N/A,15,NEI,NEI,NEI,NEI,NEI,,NEI,NEI,NEI,ug/L
+Walters,34.376239,-98.334631,Cotton,US,Whole Lake,Conductivity (uS/cm),No Significant Trend,0,0,N/A,NS Trend,N/A,20,NS,***,11/28/2000,9/11/2017,NS Trend,0,17,NS Trend,NS Trend,uS/cm
+Walters,34.376239,-98.334631,Cotton,US,Whole Lake,Conductivity (uS/cm),No Significant Trend,0,0,N/A,NS Trend,N/A,20,,,11/28/2000,9/11/2017,NS Trend,0,17,NS Trend,NS Trend,ug/L
+Walters,34.376239,-98.334631,Cotton,US,Whole Lake,Total Phosphorus (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,20,,,6/15/1998,9/11/2017,NS Trend,0,19,NS Trend,NS Trend,ug/L
+Waurika,34.234869,-98.046964,Jefferson,US,Whole Lake,Chlorophyll (ug/L),No Significant Trend,0,0,N/A,NS Trend,N/A,27,**,NS,11/13/2002,8/17/2020,NS Trend,0,18,NS Trend,NS Trend,ug/L
+Waurika,34.234869,-98.046964,Jefferson,US,Whole Lake,Total Nitrogen (mg/L),Likely Upward,-1,1,up,↑,0.004065,31,***,***,11/1/1999,8/17/2020,10.80%,10.8,21,0.7,0.78,mg/L
+Waurika,34.234869,-98.046964,Jefferson,US,Whole Lake,Secchi (cm),No Significant Trend,0,0,N/A,NS Trend,N/A,31,***,***,11/1/1999,8/17/2020,NS Trend,0,21,NS Trend,NS Trend,cm
+Waurika,34.234869,-98.046964,Jefferson,US,Whole Lake,Conductivity (uS/cm),Highly Likely Upward,-3,3,up,↑↑↑,6,35,NS,***,11/1/1999,9/12/2023,21.90%,21.9,24,510,653.28,uS/cm
+Waurika,34.234869,-98.046964,Jefferson,US,Whole Lake,Total Phosphorus (mg/L),Highly Likely Upward,-3,3,up,↑↑↑,0.002537,31,***,***,11/1/1999,8/17/2020,43.00%,43,21,0.07,0.12,mg/L
+Waurika,34.234869,-98.046964,Jefferson,US,Whole Lake,Turbidity (NTU),No Significant Trend,0,0,N/A,NS Trend,N/A,31,***,NS,11/1/1999,8/17/2020,NS Trend,0,21,NS Trend,NS Trend,NTU
+Wayne Wallace,34.993027,-95.356202,Latimer,US,Whole Lake,Chlorophyll (ug/L),No Significant Trend,0,0,N/A,NS Trend,N/A,27,NS,**,11/8/1999,8/8/2017,NS Trend,0,18,NS Trend,NS Trend,ug/L
+Wayne Wallace,34.993027,-95.356202,Latimer,US,Whole Lake,Total Nitrogen (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,27,***,**,11/8/1999,8/8/2017,NS Trend,0,18,NS Trend,NS Trend,mg/L
+Wayne Wallace,34.993027,-95.356202,Latimer,US,Whole Lake,Secchi (cm),Somewhat Likely Upward,-2,2,up,↑↑,1.886,27,NS,***,11/8/1999,8/8/2017,34.00%,34,18,65,98.5,cm
+Wayne Wallace,34.993027,-95.356202,Latimer,US,Whole Lake,Conductivity (uS/cm),Highly Likely Upward,-3,3,up,↑↑↑,1.67,27,*,NS,11/8/1999,9/9/2017,41.50%,41.5,18,42,71.81,uS/cm
+Wayne Wallace,34.993027,-95.356202,Latimer,US,Whole Lake,Total Phosphorus (mg/L),Highly Likely Downward,3,-3,down,↓↓↓,-0.001148,26,NS,***,11/8/1999,8/8/2017,-98.90%,-98.9,18,0.041,0.02,mg/L
+Wayne Wallace,34.993027,-95.356202,Latimer,US,Whole Lake,Turbidity (NTU),Somewhat Likely Downward,2,-2,down,↓↓,-0.3317,27,*,***,11/8/1999,8/8/2017,-82.90%,-82.9,18,13,7.11,NTU
+Webbers Falls,35.554722,-95.170556,Muskogee,US,Whole Lake,Chlorophyll (ug/L),No Significant Trend,0,0,N/A,NS Trend,N/A,23,NS,***,10/6/2003,2/26/2019,NS Trend,0,15,NS Trend,NS Trend,ug/L
+Webbers Falls,35.554722,-95.170556,Muskogee,US,Whole Lake,Total Nitrogen (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,26,NS,***,10/30/2000,2/26/2019,NS Trend,0,18,NS Trend,NS Trend,mg/L
+Webbers Falls,35.554722,-95.170556,Muskogee,US,Whole Lake,Secchi (cm),No Significant Trend,0,0,N/A,NS Trend,N/A,18,NS,***,10/30/2000,2/26/2019,NS Trend,0,18,NS Trend,NS Trend,cm
+Webbers Falls,35.554722,-95.170556,Muskogee,US,Whole Lake,Conductivity (uS/cm),No Significant Trend,0,0,N/A,NS Trend,N/A,26,NS,***,10/30/2000,10/3/2016,NS Trend,0,16,NS Trend,NS Trend,uS/cm
+Webbers Falls,35.554722,-95.170556,Muskogee,US,Whole Lake,Total Phosphorus (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,26,NS,***,10/30/2000,2/26/2019,NS Trend,0,18,NS Trend,NS Trend,mg/L
+Webbers Falls,35.554722,-95.170556,Muskogee,US,Whole Lake,Turbidity (NTU),No Significant Trend,0,0,N/A,NS Trend,N/A,20,NS,***,10/30/2000,2/26/2019,NS Trend,0,18,NS Trend,NS Trend,NTU
+Wes Watkins,35.402592,-97.098186,Pottawatomie,US,Whole Lake,Chlorophyll (ug/L),Highly Likely Upward,-3,3,up,↑↑↑,0.4301,25,NS,***,9/3/2003,10/23/2021,56.50%,56.5,18,6,13.81,ug/L
+Wes Watkins,35.402592,-97.098186,Pottawatomie,US,Whole Lake,Total Nitrogen (mg/L),Somewhat Likely Upward,-2,2,up,↑↑,0.01212,34,NS,**,5/4/1998,9/21/2021,28.80%,28.8,23,0.7,0.98,mg/L
+Wes Watkins,35.402592,-97.098186,Pottawatomie,US,Whole Lake,Secchi (cm),Likely Downward,1,-1,down,↓,-1.537,24,***,***,10/3/2001,9/21/2021,-78.20%,-78.2,20,70,39.29,cm
+Wes Watkins,35.402592,-97.098186,Pottawatomie,US,Whole Lake,Conductivity (uS/cm),Highly Likely Upward,-3,3,up,↑↑↑,3.91,34,NS,NS,5/4/1998,9/21/2021,29.40%,29.4,23,220,311.4,uS/cm
+Wes Watkins,35.402592,-97.098186,Pottawatomie,US,Whole Lake,Total Phosphorus (mg/L),Likely Upward,-1,1,up,↑,0.0005536,34,NS,***,5/4/1998,9/21/2021,30.20%,30.2,23,0.03,0.04,mg/L
+Wes Watkins,35.402592,-97.098186,Pottawatomie,US,Whole Lake,Turbidity (NTU),No Significant Trend,0,0,N/A,NS Trend,N/A,31,NS,**,10/3/2001,9/21/2021,NS Trend,0,20,NS Trend,NS Trend,NTU
+Wewoka,35.181158,-96.52485,Seminole,US,Whole Lake,Chlorophyll (ug/L),Likely Upward,-1,1,up,↑,0.5653,20,NS,***,10/1/2003,9/3/2020,61.50%,61.5,17,6,15.57,ug/L
+Wewoka,35.181158,-96.52485,Seminole,US,Whole Lake,Total Nitrogen (mg/L),Somewhat Likely Upward,-2,2,up,↑↑,0.01257,22,NS,*,10/23/2001,8/4/2020,26.70%,26.7,19,0.65,0.89,mg/L
+Wewoka,35.181158,-96.52485,Seminole,US,Whole Lake,Secchi (cm),No Significant Trend,0,0,N/A,NS Trend,N/A,14,***,***,10/1/2003,8/4/2020,NS Trend,0,17,NS Trend,NS Trend,cm
+Wewoka,35.181158,-96.52485,Seminole,US,Whole Lake,Conductivity (uS/cm),Highly Likely Upward,-3,3,up,↑↑↑,2.07,28,NS,*,10/23/2001,10/22/2023,21.60%,21.6,22,165,210.45,uS/cm
+Wewoka,35.181158,-96.52485,Seminole,US,Whole Lake,Total Phosphorus (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,29,***,*,10/23/2001,8/4/2020,NS Trend,0,19,NS Trend,NS Trend,mg/L
+Wewoka,35.181158,-96.52485,Seminole,US,Whole Lake,Turbidity (NTU),No Significant Trend,0,0,N/A,NS Trend,N/A,17,**,NS,10/1/2003,8/4/2020,NS Trend,0,17,NS Trend,NS Trend,NTU
+Wister,34.940133,-94.724117,Le Flore,US,Whole Lake,Chlorophyll (ug/L),Highly Likely Upward,-3,3,up,↑↑↑,0.801,40,NS,***,11/19/2002,12/13/2022,57.30%,57.3,20,12,28.08,ug/L
+Wister,34.940133,-94.724117,Le Flore,US,Whole Lake,Total Nitrogen (mg/L),Highly Likely Upward,-3,3,up,↑↑↑,0.01153,44,NS,***,11/8/1999,11/7/2022,32.50%,32.5,23,0.55,0.82,mg/L
+Wister,34.940133,-94.724117,Le Flore,US,Whole Lake,Secchi (cm),No Significant Trend,0,0,N/A,NS Trend,N/A,31,**,***,10/12/2004,11/7/2022,NS Trend,0,18,NS Trend,NS Trend,cm
+Wister,34.940133,-94.724117,Le Flore,US,Whole Lake,Conductivity (uS/cm),Highly Likely Upward,-3,3,up,↑↑↑,0.77,40,NS,**,11/8/1999,11/7/2022,22.80%,22.8,23,60,77.72,uS/cm
+Wister,34.940133,-94.724117,Le Flore,US,Whole Lake,Total Phosphorus (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,44,NS,***,11/8/1999,11/7/2022,NS Trend,0,23,NS Trend,NS Trend,mg/L
+Wister,34.940133,-94.724117,Le Flore,US,Whole Lake,Turbidity (NTU),Somewhat Likely Downward,2,-2,down,↓↓,-0.6202,32,NS,*,10/12/2004,12/10/2022,-60.20%,-60.2,18,30,18.73,NTU
+WR Holway,36.25634,-95.102314,Mayes,US,Whole Lake,Chlorophyll (ug/L),No Significant Trend,0,0,N/A,NS Trend,N/A,41,,,11/12/2002,10/10/2022,NS Trend,0,20,NS Trend,NS Trend,ug/L
+WR Holway,36.25634,-95.102314,Mayes,US,Whole Lake,Total Nitrogen (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,46,,,10/5/1999,10/10/2022,NS Trend,0,23,NS Trend,NS Trend,mg/L
+WR Holway,36.25634,-95.102314,Mayes,US,Whole Lake,Secchi (cm),No Significant Trend,0,0,N/A,NS Trend,N/A,22,,,10/4/2004,10/10/2022,NS Trend,0,18,NS Trend,NS Trend,cm
+WR Holway,36.25634,-95.102314,Mayes,US,Whole Lake,Conductivity (uS/cm),Highly Likely Upward,-3,3,up,↑↑↑,3.95,26,NS,**,10/5/1999,8/23/2016,24.60%,24.6,17,205,271.72,uS/cm
+WR Holway,36.25634,-95.102314,Mayes,US,Whole Lake,Total Phosphorus (mg/L),No Significant Trend,0,0,N/A,NS Trend,N/A,46,,,10/5/1999,10/10/2022,NS Trend,0,23,NS Trend,NS Trend,mg/L
+WR Holway,36.25634,-95.102314,Mayes,US,Whole Lake,Turbidity (NTU),No Significant Trend,0,0,N/A,NS Trend,N/A,28,,,10/4/2004,10/10/2022,NS Trend,0,18,NS Trend,NS Trend,NTU
