@@ -523,11 +523,11 @@ Black Bear Creek,BlackBear@Pawnee,Black Bear Creek at Pawnee,621200030010-001AT,
 North Canadian River,NCanadian@Seiling,North Canadian at Seiling,720500010010-001AT,Dissolved oxygen [DO] (mg/l),Likely Upward,1,0.02995,mg/L,0,N/A,N/A
 North Canadian River,NCanadian@Seiling,North Canadian at Seiling,720500010010-001AT,"Temperature, water (deg C)",Highly Likely Upward,3,0.1269,deg C,0,N/A,N/A
 North Canadian River,NCanadian@Seiling,North Canadian at Seiling,720500010010-001AT,Turbidity (NTU),Highly Likely Downward,-3,-0.6862,NTU,0,N/A,N/A
-Canadian River (Woodward),North Canadian River@WOODWARD,North Canadian River at Woodward,720500010140-001AT,Total Nitrogen,Highly Likely Upward,3,0.719,mg/L,40.96, -0.0631 kg/year,-47.66%
-Canadian River (Woodward),North Canadian River@WOODWARD,North Canadian River at Woodward,720500010140-001AT,Total Phosphorus,Highly Likely Upward,3,0.186,mg/L,144.99, -0.0039 10^6 kg/year,-29.33%
-Canadian River (Woodward),North Canadian River@WOODWARD,North Canadian River at Woodward,720500010140-001AT,Conductivity,Highly Likely Upward,3,682,uS/cm,44.1,Not applicable,Not Applicable
-Canadian River (Woodward),North Canadian River@WOODWARD,North Canadian River at Woodward,720500010140-001AT,Hardness,Highly Likely Upward,3,119,mg/L,22.89,Not applicable,Not Applicable
-Canadian River (Woodward),North Canadian River@WOODWARD,North Canadian River at Woodward,720500010140-001AT,"Chlorophyll a, corrected for pheophytin",No Likely Trend,0,-5.26,ug/L,24.85,Not applicable,Not Applicable
+North Canadian River (Woodward),North Canadian River@WOODWARD,North Canadian River at Woodward,720500010140-001AT,Total Nitrogen,Highly Likely Upward,3,0.719,mg/L,40.96, -0.0631 kg/year,-47.66%
+North Canadian River (Woodward),North Canadian River@WOODWARD,North Canadian River at Woodward,720500010140-001AT,Total Phosphorus,Highly Likely Upward,3,0.186,mg/L,144.99, -0.0039 10^6 kg/year,-29.33%
+North Canadian River (Woodward),North Canadian River@WOODWARD,North Canadian River at Woodward,720500010140-001AT,Conductivity,Highly Likely Upward,3,682,uS/cm,44.1,Not applicable,Not Applicable
+North Canadian River (Woodward),North Canadian River@WOODWARD,North Canadian River at Woodward,720500010140-001AT,Hardness,Highly Likely Upward,3,119,mg/L,22.89,Not applicable,Not Applicable
+North Canadian River (Woodward),North Canadian River@WOODWARD,North Canadian River at Woodward,720500010140-001AT,"Chlorophyll a, corrected for pheophytin",No Likely Trend,0,-5.26,ug/L,24.85,Not applicable,Not Applicable
 North Canadian River,NCanadian@Woodward,North Canadian River at Woodward,720500010140-001AT,Dissolved oxygen [DO] (mg/l),Highly Likely Upward,3,0.07053,mg/L,0,N/A,N/A
 North Canadian River,NCanadian@Woodward,North Canadian River at Woodward,720500010140-001AT,"Temperature, water (deg C)",Somewhat Likely Upward,2,0.1165,deg C,0,N/A,N/A
 North Canadian River,NCanadian@Woodward,North Canadian River at Woodward,720500010140-001AT,Turbidity (NTU),Highly Likely Downward,-3,-0.2064,NTU,0,N/A,N/A
