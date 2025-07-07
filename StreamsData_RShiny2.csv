@@ -82,9 +82,9 @@ Neosho River,Neosho@ConnorBridge,Neosho at ConnorBridge,121600040010-001AT,Turbi
 Neosho River,Neosho@Commerce,Neosho at Commerce,121600040220-001AT,Dissolved oxygen [DO] (mg/l),Likely Upward,1,0.0409,mg/L,0,N/A,N/A
 Neosho River,Neosho@Commerce,Neosho at Commerce,121600040220-001AT,"Temperature, water (deg C)",No Likely Trend,0,0,deg C,0,N/A,N/A
 Neosho River,Neosho@Commerce,Neosho at Commerce,121600040220-001AT,Turbidity (NTU),Likely Downward,-1,-0.8737,NTU,0,N/A,N/A
-Big Cabin Creek,BigCabin@BigCabin,BigCabin at BigCabin,121600060060-001AT,Dissolved oxygen [DO] (mg/l),No Likely Trend,0,0,mg/L,0,N/A,N/A
-Big Cabin Creek,BigCabin@BigCabin,BigCabin at BigCabin,121600060060-001AT,"Temperature, water (deg C)",No Likely Trend,0,0,deg C,0,N/A,N/A
-Big Cabin Creek,BigCabin@BigCabin,BigCabin at BigCabin,121600060060-001AT,Turbidity (NTU),No Likely Trend,0,0,NTU,0,N/A,N/A
+Big Cabin Creek,BigCabin@BigCabin,Big Cabin at Big Cabin,121600060060-001AT,Dissolved oxygen [DO] (mg/l),No Likely Trend,0,0,mg/L,0,N/A,N/A
+Big Cabin Creek,BigCabin@BigCabin,Big Cabin at Big Cabin,121600060060-001AT,"Temperature, water (deg C)",No Likely Trend,0,0,deg C,0,N/A,N/A
+Big Cabin Creek,BigCabin@BigCabin,Big Cabin at Big Cabin,121600060060-001AT,Turbidity (NTU),No Likely Trend,0,0,NTU,0,N/A,N/A
 Spring River,Spring River@QUAPAW,Spring River at Quapaw,121600070010-001AT,Total Nitrogen,Highly Likely Upward,3,0.887,mg/L,44.75,3.78 10^6 kg/year,75.81%
 Spring River,Spring River@QUAPAW,Spring River at Quapaw,121600070010-001AT,Total Phosphorus,Likely Downward,-1,-0.0315,mg/L,-13.41,0.275 10^6 kg/year,44.90%
 Spring River,Spring River@QUAPAW,Spring River at Quapaw,121600070010-001AT,Conductivity,Highly Likely Upward,3,27.5,uS/cm,27.5,Not applicable,Not Applicable
