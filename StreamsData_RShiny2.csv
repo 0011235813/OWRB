@@ -294,12 +294,12 @@ Salt Fork of the Red River,Salt Fork of the Red River@ELMER,Salt Fork of the Red
 Salt Fork of The Red River,SFkRed@Elmer,Salt Fork of the Red River at Elmer,311600020010-002AT,Dissolved oxygen [DO] (mg/l),No Likely Trend,0,0,mg/L,0,N/A,N/A
 Salt Fork of The Red River,SFkRed@Elmer,Salt Fork of the Red River at Elmer,311600020010-002AT,"Temperature, water (deg C)",No Likely Trend,0,0,deg C,0,N/A,N/A
 Salt Fork of The Red River,SFkRed@Elmer,Salt Fork of the Red River at Elmer,311600020010-002AT,Turbidity (NTU),No Likely Trend,0,0,NTU,0,N/A,N/A
-Elm Fork of The Red River,ElmFork@Granite,ElmFork at Granite,311800000010-002AT,Dissolved oxygen [DO] (mg/l),No Likely Trend,0,0,mg/L,0,N/A,N/A
-Elm Fork of The Red River,ElmFork@Granite,ElmFork at Granite,311800000010-002AT,"Temperature, water (deg C)",Likely Upward,1,0.1014,deg C,0,N/A,N/A
-Elm Fork of The Red River,ElmFork@Granite,ElmFork at Granite,311800000010-002AT,Turbidity (NTU),Somewhat Likely Downward,-2,-0.2173,NTU,0,N/A,N/A
-Elm Fork of The Red River,ElmFork@Carl,ElmFork at Carl,311800000010-002RS,Dissolved oxygen [DO] (mg/l),Likely Upward,1,0.107,mg/L,0,N/A,N/A
-Elm Fork of The Red River,ElmFork@Carl,ElmFork at Carl,311800000010-002RS,"Temperature, water (deg C)",Somewhat Likely Upward,2,0.2561,deg C,0,N/A,N/A
-Elm Fork of The Red River,ElmFork@Carl,ElmFork at Carl,311800000010-002RS,Turbidity (NTU),No Likely Trend,0,0,NTU,0,N/A,N/A
+Elm Fork of The Red River,ElmFork@Granite,Elm Fork at Granite,311800000010-002AT,Dissolved oxygen [DO] (mg/l),No Likely Trend,0,0,mg/L,0,N/A,N/A
+Elm Fork of The Red River,ElmFork@Granite,Elm Fork at Granite,311800000010-002AT,"Temperature, water (deg C)",Likely Upward,1,0.1014,deg C,0,N/A,N/A
+Elm Fork of The Red River,ElmFork@Granite,Elm Fork at Granite,311800000010-002AT,Turbidity (NTU),Somewhat Likely Downward,-2,-0.2173,NTU,0,N/A,N/A
+Elm Fork of The Red River,ElmFork@Carl,Elm Fork at Carl,311800000010-002RS,Dissolved oxygen [DO] (mg/l),Likely Upward,1,0.107,mg/L,0,N/A,N/A
+Elm Fork of The Red River,ElmFork@Carl,Elm Fork at Carl,311800000010-002RS,"Temperature, water (deg C)",Somewhat Likely Upward,2,0.2561,deg C,0,N/A,N/A
+Elm Fork of The Red River,ElmFork@Carl,Elm Fork at Carl,311800000010-002RS,Turbidity (NTU),No Likely Trend,0,0,NTU,0,N/A,N/A
 Red River,Red River@HARRIS,Red River at Harris,410100010010-001AT,Total Nitrogen,No Likely Trend,0,-0.00938,mg/L,-0.93, -0.816 10^6 kg/year,-6.65%
 Red River,Red River@HARRIS,Red River at Harris,410100010010-001AT,Total Phosphorus,No Likely Trend,0,0.00478,mg/L,3.85, -0.0671 10^6 kg/year,-3.34%
 Red River,Red River@HARRIS,Red River at Harris,410100010010-001AT,Conductivity,No Likely Trend,0,77.6,uS/cm,7.86,Not applicable,Not Applicable
