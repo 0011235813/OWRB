@@ -258,9 +258,9 @@ Red River,Red@Burkburnett,Red at Burkburnett,311310010010-002AT,Turbidity (NTU),
 West Cache Creek,WestCache@Taylor,West Cache at Taylor,311310020010-001AT,Dissolved oxygen [DO] (mg/l),Highly Likely Upward,3,0.05293,mg/L,0,N/A,N/A
 West Cache Creek,WestCache@Taylor,West Cache at Taylor,311310020010-001AT,"Temperature, water (deg C)",No Likely Trend,0,0,deg C,0,N/A,N/A
 West Cache Creek,WestCache@Taylor,West Cache at Taylor,311310020010-001AT,Turbidity (NTU),No Likely Trend,0,0,NTU,0,N/A,N/A
-Deep Red Creek,DeepRed@Randlett,DeepRed at Randlett,311310030010-001AT,Dissolved oxygen [DO] (mg/l),No Likely Trend,0,0,mg/L,0,N/A,N/A
-Deep Red Creek,DeepRed@Randlett,DeepRed at Randlett,311310030010-001AT,"Temperature, water (deg C)",No Likely Trend,0,0,deg C,0,N/A,N/A
-Deep Red Creek,DeepRed@Randlett,DeepRed at Randlett,311310030010-001AT,Turbidity (NTU),No Likely Trend,0,0,NTU,0,N/A,N/A
+Deep Red Creek,DeepRed@Randlett,Deep Red at Randlett,311310030010-001AT,Dissolved oxygen [DO] (mg/l),No Likely Trend,0,0,mg/L,0,N/A,N/A
+Deep Red Creek,DeepRed@Randlett,Deep Red at Randlett,311310030010-001AT,"Temperature, water (deg C)",No Likely Trend,0,0,deg C,0,N/A,N/A
+Deep Red Creek,DeepRed@Randlett,Deep Red at Randlett,311310030010-001AT,Turbidity (NTU),No Likely Trend,0,0,NTU,0,N/A,N/A
 North Fork Red River,North Fork of the Red River@HEADRICK,North Fork of the Red River at Headrick,311500010020-001AT,Total Nitrogen,Highly Likely Upward,3,0.282,mg/L,28.36,0.379 10^6 kg/year,101.66%
 North Fork Red River,North Fork of the Red River@HEADRICK,North Fork of the Red River at Headrick,311500010020-001AT,Total Phosphorus,No Likely Trend,0,-0.0129,mg/L,-8.2,0.23 10^6 kg/year,154.53%
 North Fork Red River,North Fork of the Red River@HEADRICK,North Fork of the Red River at Headrick,311500010020-001AT,Conductivity,Likely Downward,-1,-438,uS/cm,-4.61,Not applicable,Not Applicable
