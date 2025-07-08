@@ -224,9 +224,9 @@ Red River,Red River@TERRAL,Red River at Terral,311100010190-001AT,"Chlorophyll a
 Red River,Red@Terral,Red River at Terral,311100010190-001AT,Dissolved oxygen [DO] (mg/l),No Likely Trend,0,0,mg/L,0,N/A,N/A
 Red River,Red@Terral,Red River at Terral,311100010190-001AT,"Temperature, water (deg C)",Highly Likely Upward,3,0.1115,deg C,0,N/A,N/A
 Red River,Red@Terral,Red River at Terral,311100010190-001AT,Turbidity (NTU),Somewhat Likely Downward,-2,-1.522,NTU,0,N/A,N/A
-Walnut Bayou,WalnutBayou@Burneyville,WalnutBayou at Burneyville,311100010250-001AT,Dissolved oxygen [DO] (mg/l),Likely Upward,1,0.1192,mg/L,0,N/A,N/A
-Walnut Bayou,WalnutBayou@Burneyville,WalnutBayou at Burneyville,311100010250-001AT,"Temperature, water (deg C)",No Likely Trend,0,0,deg C,0,N/A,N/A
-Walnut Bayou,WalnutBayou@Burneyville,WalnutBayou at Burneyville,311100010250-001AT,Turbidity (NTU),No Likely Trend,0,0,NTU,0,N/A,N/A
+Walnut Bayou,WalnutBayou@Burneyville,Walnut Bayou at Burneyville,311100010250-001AT,Dissolved oxygen [DO] (mg/l),Likely Upward,1,0.1192,mg/L,0,N/A,N/A
+Walnut Bayou,WalnutBayou@Burneyville,Walnut Bayou at Burneyville,311100010250-001AT,"Temperature, water (deg C)",No Likely Trend,0,0,deg C,0,N/A,N/A
+Walnut Bayou,WalnutBayou@Burneyville,Walnu tBayou at Burneyville,311100010250-001AT,Turbidity (NTU),No Likely Trend,0,0,NTU,0,N/A,N/A
 Mud Creek,Mud Creek@COURTNEY,Mud Creek at Courtney,311100040010-001AT,Total Nitrogen,Likely Upward,1,0.358,mg/L,27.53,0.00364 10^6 kg/year,0.89%
 Mud Creek,Mud Creek@COURTNEY,Mud Creek at Courtney,311100040010-001AT,Total Phosphorus,No Likely Trend,0,-0.0346,mg/L,-12.55, -0.0238 10^6 kg/year,-18.50%
 Mud Creek,Mud Creek@COURTNEY,Mud Creek at Courtney,311100040010-001AT,Conductivity,Likely Upward,1,175,uS/cm,26.5,Not applicable,Not Applicable
