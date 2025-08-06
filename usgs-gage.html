@@ -13,7 +13,10 @@
 <body>
   <div id="gage-height">Loading...</div>
   <script>
-    fetch("https://waterservices.usgs.gov/nwis/iv/?format=json&sites=07249500&parameterCd=00065&siteStatus=all")
+    const proxyUrl = "https://api.allorigins.win/raw?url=";
+    const usgsUrl = encodeURIComponent("https://waterservices.usgs.gov/nwis/iv/?format=json&sites=07249500&parameterCd=00065&siteStatus=all");
+
+    fetch(proxyUrl + usgsUrl)
       .then(response => response.json())
       .then(data => {
         const value = data.value.timeSeries[0].values[0].value[0].value;
@@ -22,9 +25,9 @@
           `<strong>Gage Height (ft):</strong> ${value}<br><em>${new Date(time).toLocaleString()}</em>`;
       })
       .catch(err => {
+        console.error(err);
         document.getElementById("gage-height").innerHTML = "Error fetching data.";
       });
   </script>
 </body>
 </html>
-
