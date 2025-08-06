@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Live Gage Height</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      font-size: 18px;
+      padding: 10px;
+    }
+  </style>
+</head>
+<body>
+  <div id="gage-height">Loading...</div>
+  <script>
+    fetch("https://waterservices.usgs.gov/nwis/iv/?format=json&sites=07249500&parameterCd=00065&siteStatus=all")
+      .then(response => response.json())
+      .then(data => {
+        const value = data.value.timeSeries[0].values[0].value[0].value;
+        const time = data.value.timeSeries[0].values[0].value[0].dateTime;
+        document.getElementById("gage-height").innerHTML = 
+          `<strong>Gage Height (ft):</strong> ${value}<br><em>${new Date(time).toLocaleString()}</em>`;
+      })
+      .catch(err => {
+        document.getElementById("gage-height").innerHTML = "Error fetching data.";
+      });
+  </script>
+</body>
+</html>
+
